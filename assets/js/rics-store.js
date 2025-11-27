@@ -123,17 +123,27 @@ class RICSStore {
             .filter(trait => trait.addPrice > 0 || trait.removePrice > 0); // Only traits with prices
     }
 
-    processTraitDescription(description) {
-        // Replace all common pawn placeholders with traditional names, handling both {} and [] formats
-        return description
-            .replace(/{PAWN_nameDef}|\[PAWN_nameDef\]/g, 'Timmy')
-            .replace(/{PAWN_name}|\[PAWN_name\]/g, 'Timmy')
-            .replace(/{PAWN_pronoun}|\[PAWN_pronoun\]/g, 'he')
-            .replace(/{PAWN_possessive}|\[PAWN_possessive\]/g, 'his')
-            .replace(/{PAWN_objective}|\[PAWN_objective\]/g, 'him')
-            .replace(/{PAWN_label}|\[PAWN_label\]/g, 'Timmy')
-            .replace(/{PAWN_def}|\[PAWN_def\]/g, 'Timmy');
-    }
+processTraitDescription(description) {
+    // Replace all common pawn placeholders with traditional names
+    // Handle both {} and [] formats with separate replacements
+    return description
+        // Replace {PAWN_*} formats
+        .replace(/{PAWN_nameDef}/g, 'Timmy')
+        .replace(/{PAWN_name}/g, 'Timmy')
+        .replace(/{PAWN_pronoun}/g, 'he')
+        .replace(/{PAWN_possessive}/g, 'his')
+        .replace(/{PAWN_objective}/g, 'him')
+        .replace(/{PAWN_label}/g, 'Timmy')
+        .replace(/{PAWN_def}/g, 'Timmy')
+        // Replace [PAWN_*] formats  
+        .replace(/\[PAWN_nameDef\]/g, 'Timmy')
+        .replace(/\[PAWN_name\]/g, 'Timmy')
+        .replace(/\[PAWN_pronoun\]/g, 'he')
+        .replace(/\[PAWN_possessive\]/g, 'his')
+        .replace(/\[PAWN_objective\]/g, 'him')
+        .replace(/\[PAWN_label\]/g, 'Timmy')
+        .replace(/\[PAWN_def\]/g, 'Timmy');
+}
 
     processRacesData(data) {
         // Adjust this based on your actual Races JSON structure
