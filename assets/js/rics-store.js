@@ -129,7 +129,9 @@ class RICSStore {
         .replace(/{PAWN_nameDef}/g, 'Timmy')
         .replace(/{PAWN_pronoun}/g, 'he')
         .replace(/{PAWN_possessive}/g, 'his')
-        .replace(/{PAWN_objective}/g, 'him');
+        .replace(/{PAWN_objective}/g, 'him')
+        .replace(/[PAWN_name]/g, 'Timmy')
+        .replace(/[PAWN_pronoun]]/g "he');
     }
 
     processRacesData(data) {
