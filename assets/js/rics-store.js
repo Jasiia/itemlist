@@ -28,33 +28,33 @@ class RICSStore {
             // Load items
             const itemsResponse = await fetch('data/StoreItems.json');
             const itemsData = await itemsResponse.json();
-            
+
             if (itemsData.items) {
                 this.data.items = this.processItemsData(itemsData.items);
             } else {
                 this.data.items = this.processItemsData(itemsData);
             }
             this.filteredData.items = [...this.data.items];
-    
+
             // Load traits
             const traitsResponse = await fetch('data/Traits.json');
             const traitsData = await traitsResponse.json();
             this.data.traits = this.processTraitsData(traitsData);
             this.filteredData.traits = [...this.data.traits];
-    
-            // Load other data types as needed
-            // const eventsResponse = await fetch('data/StoreEvents.json');
-            // const eventsData = await eventsResponse.json();
-            // this.data.events = this.processEventsData(eventsData);
-            // this.filteredData.events = [...this.data.events];
-    
+
+            // Load races
+            const racesResponse = await fetch('data/RaceSettings.json');
+            const racesData = await racesResponse.json();
+            this.data.races = this.processRacesData(racesData);
+            this.filteredData.races = [...this.data.races];
+
             console.log('Data loaded:', {
                 items: this.data.items.length,
                 traits: this.data.traits.length,
-                events: this.data.events.length,
-                races: this.data.races.length
+                races: this.data.races.length,
+                events: this.data.events.length
             });
-    
+
         } catch (error) {
             console.error('Error loading data:', error);
             this.loadSampleData();
@@ -145,17 +145,63 @@ class RICSStore {
             .replace(/\[PAWN_def\]/g, 'Timmy');
     }
 
-    processRacesData(data) {
-        // Adjust this based on your actual Races JSON structure
-        return Object.entries(data)
-            .map(([defname, raceData]) => ({
-                defname,
-                name: raceData.CustomName || defname,
-                price: raceData.BasePrice || 0,
-                karmaType: raceData.KarmaType || 'None',
-                enabled: raceData.Enabled !== false
-            }))
-            .filter(race => race.enabled && race.price > 0);
+    processRacesData(racesObject) {
+        return Object.entries(racesObject)
+            .map(([raceKey, raceData]) => {
+                const baseRace = {
+                    defName: raceKey,
+                    name: raceData.DisplayName || raceKey,
+                    basePrice: raceData.BasePrice || 0,
+                    minAge: raceData.MinAge || 0,
+                    maxAge: raceData.MaxAge || 0,
+                    allowCustomXenotypes: raceData.AllowCustomXenotypes || false,
+                    defaultXenotype: raceData.DefaultXenotype || 'None',
+                    enabled: raceData.Enabled !== false,
+                    allowedGenders: raceData.AllowedGenders || {},
+                    xenotypePrices: raceData.XenotypePrices || {},
+                    enabledXenotypes: raceData.EnabledXenotypes || {}
+                };
+
+                // Create entries for each enabled xenotype
+                const xenotypeEntries = [];
+                if (baseRace.enabledXenotypes) {
+                    Object.entries(baseRace.enabledXenotypes).forEach(([xenotype, isEnabled]) => {
+                        if (isEnabled && baseRace.xenotypePrices[xenotype]) {
+                            const xenotypePrice = baseRace.basePrice * baseRace.xenotypePrices[xenotype];
+                            xenotypeEntries.push({
+                                defName: `${raceKey}_${xenotype}`,
+                                name: `${baseRace.name} (${xenotype})`,
+                                basePrice: Math.round(xenotypePrice),
+                                isXenotype: true,
+                                parentRace: baseRace.name,
+                                xenotype: xenotype,
+                                priceMultiplier: baseRace.xenotypePrices[xenotype],
+                                minAge: baseRace.minAge,
+                                maxAge: baseRace.maxAge,
+                                enabled: true
+                            });
+                        }
+                    });
+                }
+
+                // Return both the base race and its xenotypes
+                const baseRaceEntry = {
+                    defName: raceKey,
+                    name: baseRace.name,
+                    basePrice: baseRace.basePrice,
+                    isXenotype: false,
+                    minAge: baseRace.minAge,
+                    maxAge: baseRace.maxAge,
+                    allowCustomXenotypes: baseRace.allowCustomXenotypes,
+                    defaultXenotype: baseRace.defaultXenotype,
+                    enabled: baseRace.enabled,
+                    xenotypeCount: xenotypeEntries.length
+                };
+
+                return [baseRaceEntry, ...xenotypeEntries];
+            })
+            .flat() // Flatten the array of arrays
+            .filter(race => race.enabled && race.basePrice > 0);
     }
 
     renderAllTabs() {
@@ -168,12 +214,12 @@ class RICSStore {
     renderItems() {
         const tbody = document.getElementById('items-tbody');
         const items = this.filteredData.items;
-    
+
         if (items.length === 0) {
             tbody.innerHTML = '<tr><td colspan="5" style="text-align: center; padding: 40px;">No items found</td></tr>';
             return;
         }
-    
+
         tbody.innerHTML = items.map(item => `
             <tr>
                 <td>
@@ -194,13 +240,13 @@ class RICSStore {
             </tr>
         `).join('');
     }
-    
+
     getUsageTypes(item) {
         const types = [];
         if (item.isUsable) types.push('Usable');
         if (item.isEquippable) types.push('Equippable');
         if (item.isWearable) types.push('Wearable');
-        
+
         return types.length > 0 ? `<br><span class="usage">Usage: ${types.join(', ')}</span>` : '';
     }
 
@@ -225,12 +271,12 @@ class RICSStore {
     renderTraits() {
         const tbody = document.getElementById('traits-tbody');
         const traits = this.filteredData.traits;
-    
+
         if (traits.length === 0) {
             tbody.innerHTML = '<tr><td colspan="4" style="text-align: center; padding: 40px;">No traits found</td></tr>';
             return;
         }
-    
+
         tbody.innerHTML = traits.map(trait => `
             <tr>
                 <td>
@@ -255,10 +301,10 @@ class RICSStore {
             </tr>
         `).join('');
     }
-    
+
     renderTraitStats(trait) {
         if (!trait.stats || trait.stats.length === 0) return '';
-        
+
         return `
             <div class="metadata">
                 <strong>Stats:</strong>
@@ -269,10 +315,10 @@ class RICSStore {
         `;
     }
 
-renderTraitConflicts(trait) {
-    if (!trait.conflicts || trait.conflicts.length === 0) return '';
-    
-    return `
+    renderTraitConflicts(trait) {
+        if (!trait.conflicts || trait.conflicts.length === 0) return '';
+
+        return `
         <div class="metadata">
             <strong>Conflicts with:</strong>
             <ul style="margin: 5px 0; padding-left: 20px;">
@@ -280,27 +326,41 @@ renderTraitConflicts(trait) {
             </ul>
         </div>
     `;
-}
+    }
 
     renderRaces() {
         const tbody = document.getElementById('races-tbody');
         const races = this.filteredData.races;
 
         if (races.length === 0) {
-            tbody.innerHTML = '<tr><td colspan="3" style="text-align: center; padding: 40px;">No races found</td></tr>';
+            tbody.innerHTML = '<tr><td colspan="5" style="text-align: center; padding: 40px;">No races found</td></tr>';
             return;
         }
 
         tbody.innerHTML = races.map(race => `
-            <tr>
-                <td>${this.escapeHtml(race.name)}</td>
-                <td>
-                    ${race.price}
-                    ${race.karmaType ? `<span class="metadata">Karma: ${this.escapeHtml(race.karmaType)}</span>` : ''}
-                </td>
-                <td>${this.escapeHtml(race.karmaType)}</td>
-            </tr>
-        `).join('');
+        <tr>
+            <td>
+                <div class="item-name">${this.escapeHtml(race.name)}</div>
+                <span class="metadata">
+                    ${race.defName}
+                    ${race.isXenotype ? `<br>Xenotype of ${this.escapeHtml(race.parentRace)}` : ''}
+                    ${!race.isXenotype && race.xenotypeCount > 0 ? `<br>${race.xenotypeCount} xenotypes available` : ''}
+                    ${race.allowCustomXenotypes ? '<br>Custom xenotypes allowed' : ''}
+                </span>
+            </td>
+            <td class="no-wrap">
+                <strong>${race.basePrice}</strong>
+                ${race.isXenotype ? `<span class="metadata">${(race.priceMultiplier * 100).toFixed(0)}% of base</span>` : ''}
+            </td>
+            <td class="no-wrap">
+                Age: ${race.minAge}-${race.maxAge}
+            </td>
+            <td>
+                ${race.isXenotype ? this.escapeHtml(race.xenotype) : 'Base Race'}
+                ${race.defaultXenotype && !race.isXenotype ? `<span class="metadata">Default: ${this.escapeHtml(race.defaultXenotype)}</span>` : ''}
+            </td>
+        </tr>
+    `).join('');
     }
 
     setupEventListeners() {
@@ -432,7 +492,7 @@ renderTraitConflicts(trait) {
             },
             {
                 defName: "Schematic",
-                name: "Schematic", 
+                name: "Schematic",
                 price: 250,
                 category: "Books",
                 quantityLimit: 5,
