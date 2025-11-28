@@ -342,7 +342,7 @@ class RICSStore {
             <td>
                 <div class="item-name">${this.escapeHtml(race.name)}</div>
                 <span class="metadata">
-                    ${race.defName}
+                    ${race.DisplayName}
                     ${race.isXenotype ? `<br>Xenotype of ${this.escapeHtml(race.parentRace)}` : ''}
                     ${!race.isXenotype && race.xenotypeCount > 0 ? `<br>${race.xenotypeCount} xenotypes available` : ''}
                     ${race.allowCustomXenotypes ? '<br>Custom xenotypes allowed' : ''}
