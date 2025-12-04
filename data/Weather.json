@@ -98,6 +98,17 @@
     "ModSource": "Anomaly",
     "Version": 1
   },
+  "Windy": {
+    "DefName": "Windy",
+    "Label": "windy",
+    "Description": "Strong winds reduce movement speed.\n\n<i><color=#66E0E4FF>Odyssey</color></i>",
+    "BaseCost": 175,
+    "KarmaType": "Neutral",
+    "EventCap": 3,
+    "Enabled": true,
+    "ModSource": "Odyssey",
+    "Version": 1
+  },
   "ToxRain": {
     "DefName": "ToxRain",
     "Label": "tox rain",
@@ -164,26 +175,26 @@
     "ModSource": "Odyssey",
     "Version": 1
   },
-  "Windy": {
-    "DefName": "Windy",
-    "Label": "windy",
-    "Description": "A clear, windy day, great for turbines, not so great for shooting.\n\n<i><color=#66E0E4FF>Seasonal Weather (Continued)</color></i>",
-    "BaseCost": 175,
+  "VPE_RadioactiveFog": {
+    "DefName": "VPE_RadioactiveFog",
+    "Label": "radioactive fog",
+    "Description": "A Nuclear reactor's meltdown has freed a cloud of radioactive material. This fog will hinder ranged attacks until it dissipates.\n\n<i><color=#66E0E4FF>Vanilla Furniture Expanded - Power</color></i>",
+    "BaseCost": 150,
     "KarmaType": "Neutral",
     "EventCap": 3,
     "Enabled": true,
-    "ModSource": "Seasonal Weather (Continued)",
+    "ModSource": "Vanilla Furniture Expanded - Power",
     "Version": 1
   },
-  "SnowyThunderStorm": {
-    "DefName": "SnowyThunderStorm",
-    "Label": "thundersnow",
-    "Description": "A rare winter phenomenon where heavy snow falls with lightning and thunder. The snow reduces visibility and movement while lightning poses fire risks.\n\n<i><color=#66E0E4FF>(CAP) Thunder Snow</color></i>",
+  "STORMYASHRAIN": {
+    "DefName": "STORMYASHRAIN",
+    "Label": "Stormy Ash Rain",
+    "Description": "Stormy Ash Rain",
     "BaseCost": 300,
     "KarmaType": "Bad",
     "EventCap": 3,
     "Enabled": true,
-    "ModSource": "[CAP] Thunder Snow",
+    "ModSource": "RimWorld",
     "Version": 1
   }
 }
