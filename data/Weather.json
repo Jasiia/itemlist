@@ -94,8 +94,19 @@
     "BaseCost": 600,
     "KarmaType": "Doom",
     "EventCap": 3,
-    "Enabled": false,
+    "Enabled": true,
     "ModSource": "Anomaly",
+    "Version": 1
+  },
+  "Windy": {
+    "DefName": "Windy",
+    "Label": "windy",
+    "Description": "Strong winds reduce movement speed.\n\n<i><color=#66E0E4FF>Odyssey</color></i>",
+    "BaseCost": 175,
+    "KarmaType": "Neutral",
+    "EventCap": 3,
+    "Enabled": true,
+    "ModSource": "Odyssey",
     "Version": 1
   },
   "ToxRain": {
@@ -164,26 +175,103 @@
     "ModSource": "Odyssey",
     "Version": 1
   },
-  "Windy": {
-    "DefName": "Windy",
-    "Label": "windy",
-    "Description": "A clear, windy day, great for turbines, not so great for shooting.\n\n<i><color=#66E0E4FF>Seasonal Weather (Continued)</color></i>",
-    "BaseCost": 175,
+  "VPE_RadioactiveFog": {
+    "DefName": "VPE_RadioactiveFog",
+    "Label": "radioactive fog",
+    "Description": "A Nuclear reactor's meltdown has freed a cloud of radioactive material. This fog will hinder ranged attacks until it dissipates.\n\n<i><color=#66E0E4FF>Vanilla Furniture Expanded - Power</color></i>",
+    "BaseCost": 150,
     "KarmaType": "Neutral",
     "EventCap": 3,
     "Enabled": true,
-    "ModSource": "Seasonal Weather (Continued)",
+    "ModSource": "Vanilla Furniture Expanded - Power",
     "Version": 1
   },
-  "SnowyThunderStorm": {
-    "DefName": "SnowyThunderStorm",
-    "Label": "thundersnow",
-    "Description": "A rare winter phenomenon where heavy snow falls with lightning and thunder. The snow reduces visibility and movement while lightning poses fire risks.\n\n<i><color=#66E0E4FF>(CAP) Thunder Snow</color></i>",
+  "STORMYASHRAIN": {
+    "DefName": "STORMYASHRAIN",
+    "Label": "Stormy Ash Rain",
+    "Description": "Stormy Ash Rain",
     "BaseCost": 300,
     "KarmaType": "Bad",
     "EventCap": 3,
     "Enabled": true,
-    "ModSource": "[CAP] Thunder Snow",
+    "ModSource": "RimWorld",
+    "Version": 1
+  },
+  "RG_Windy": {
+    "DefName": "RG_Windy",
+    "Label": "Breezy ",
+    "Description": "Consistent wind that reduces ranged weapon accuracy.\n\n<i><color=#66E0E4FF>ReGrowth 2</color></i>",
+    "BaseCost": 175,
+    "KarmaType": "Neutral",
+    "EventCap": 3,
+    "Enabled": true,
+    "ModSource": "ReGrowth 2",
+    "Version": 1
+  },
+  "RG_Drizzle": {
+    "DefName": "RG_Drizzle",
+    "Label": "drizzle",
+    "Description": "Very light but prominent rain which slightly reduces ranged weapon accuracy and movement speed.\n\n<i><color=#66E0E4FF>ReGrowth 2</color></i>",
+    "BaseCost": 175,
+    "KarmaType": "Neutral",
+    "EventCap": 3,
+    "Enabled": true,
+    "ModSource": "ReGrowth 2",
+    "Version": 1
+  },
+  "RG_FogStorm": {
+    "DefName": "RG_FogStorm",
+    "Label": "fog storm",
+    "Description": "Rolling fog and heavy wind reduces the accuracy of ranged weapons.\n\n<i><color=#66E0E4FF>ReGrowth 2</color></i>",
+    "BaseCost": 300,
+    "KarmaType": "Bad",
+    "EventCap": 3,
+    "Enabled": true,
+    "ModSource": "ReGrowth 2",
+    "Version": 1
+  },
+  "RG_FoggySnow": {
+    "DefName": "RG_FoggySnow",
+    "Label": "foggy snow",
+    "Description": "Heavy snow with fog that reduces ranged weapon accuracy, extinguishes fires and reduces movement speed.\n\n<i><color=#66E0E4FF>ReGrowth 2</color></i>",
+    "BaseCost": 200,
+    "KarmaType": "Neutral",
+    "EventCap": 3,
+    "Enabled": true,
+    "ModSource": "ReGrowth 2",
+    "Version": 1
+  },
+  "VPE_Hurricane": {
+    "DefName": "VPE_Hurricane",
+    "Label": "hurricane",
+    "Description": "Extreme wind will cause a slowdown to everyone not under the roof.\n\n<i><color=#66E0E4FF>Vanilla Psycasts Expanded</color></i>",
+    "BaseCost": 300,
+    "KarmaType": "Bad",
+    "EventCap": 3,
+    "Enabled": true,
+    "ModSource": "Vanilla Psycasts Expanded",
+    "Version": 1
+  },
+  "TM_HealingRainWD": {
+    "DefName": "TM_HealingRainWD",
+    "Label": "healing rain",
+    "Description": "A gentle rain with healing properties. Any creature exposed to healing rain will slowly regenerate their wounds.\n\n<i><color=#66E0E4FF>A RimWorld of Magic</color></i>",
+    "BaseCost": 150,
+    "KarmaType": "Neutral",
+    "EventCap": 3,
+    "Enabled": true,
+    "ModSource": "A RimWorld of Magic",
+    "Version": 1
+  },
+  "TM_HailstormWD": {
+    "DefName": "TM_HailstormWD",
+    "Label": "hail storm",
+    "Description": "A fierce hailstorm that sheets swathes of land in deadly waves of ice. Movement and accuracy are severely hampered.\n\n<i><color=#66E0E4FF>A RimWorld of Magic</color></i>",
+    "BaseCost": 300,
+    "KarmaType": "Bad",
+    "EventCap": 3,
+    "Enabled": true,
+    "ModSource": "A RimWorld of Magic",
     "Version": 1
   }
 }
