@@ -41,7 +41,13 @@
       "XR_Kobold": 0.5,
       "XR_Orc": 0.5,
       "XR_Ork": 0.5,
-      "XR_Xithid": 0.786111057
+      "XR_Xithid": 0.786111057,
+      "Addie_AncientIllan": 1500.0,
+      "Addie_AncientSimulacrum": 1500.0,
+      "Addie_AwakenedSimulacrum": 1500.0,
+      "Addie_IllanFey": 1500.0,
+      "VRE_Lycan": 1500.0,
+      "VRE_Wolfman": 1500.0
     },
     "EnabledXenotypes": {
       "Baseliner": true,
@@ -71,7 +77,13 @@
       "XR_Kobold": true,
       "XR_Orc": true,
       "XR_Ork": true,
-      "XR_Xithid": true
+      "XR_Xithid": true,
+      "Addie_AncientIllan": false,
+      "Addie_AncientSimulacrum": false,
+      "Addie_AwakenedSimulacrum": false,
+      "Addie_IllanFey": false,
+      "VRE_Lycan": true,
+      "VRE_Wolfman": true
     }
   },
   "TM_SpiritTD": {
