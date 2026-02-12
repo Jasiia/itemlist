@@ -7,6 +7,7 @@
     "MaxAge": 120,
     "AllowCustomXenotypes": true,
     "DefaultXenotype": "Baseliner",
+    "PreferredPawnKindDefName": null,
     "AllowedGenders": {
       "AllowMale": true,
       "AllowFemale": true,
@@ -56,21 +57,21 @@
       "Highmate": true,
       "Starjack": true,
       "VRE_Lowmate": true,
-      "Bageard_Xenotype": false,
-      "MiliraXenotype": false,
-      "XR_Broken": false,
-      "XR_Dark_Elf": false,
-      "XR_Dragon": false,
-      "XR_Duergar": false,
-      "XR_Dwarf": false,
-      "XR_Elf": false,
-      "XR_Gnoll": false,
-      "XR_Goblin": false,
-      "XR_Khasati": false,
-      "XR_Kobold": false,
-      "XR_Orc": false,
-      "XR_Ork": false,
-      "XR_Xithid": false
+      "Bageard_Xenotype": true,
+      "MiliraXenotype": true,
+      "XR_Broken": true,
+      "XR_Dark_Elf": true,
+      "XR_Dragon": true,
+      "XR_Duergar": true,
+      "XR_Dwarf": true,
+      "XR_Elf": true,
+      "XR_Gnoll": true,
+      "XR_Goblin": true,
+      "XR_Khasati": true,
+      "XR_Kobold": true,
+      "XR_Orc": true,
+      "XR_Ork": true,
+      "XR_Xithid": true
     }
   },
   "TM_SpiritTD": {
@@ -81,6 +82,7 @@
     "MaxAge": 65,
     "AllowCustomXenotypes": true,
     "DefaultXenotype": "Baseliner",
+    "PreferredPawnKindDefName": null,
     "AllowedGenders": {
       "AllowMale": true,
       "AllowFemale": true,
@@ -149,12 +151,13 @@
   },
   "Milian_Race": {
     "DisplayName": "Milian",
-    "Enabled": true,
+    "Enabled": false,
     "BasePrice": 3750,
     "MinAge": 16,
     "MaxAge": 65,
-    "AllowCustomXenotypes": true,
+    "AllowCustomXenotypes": false,
     "DefaultXenotype": "Baseliner",
+    "PreferredPawnKindDefName": null,
     "AllowedGenders": {
       "AllowMale": false,
       "AllowFemale": true,
@@ -191,7 +194,7 @@
       "MiliraXenotype": 0.5
     },
     "EnabledXenotypes": {
-      "Baseliner": true,
+      "Baseliner": false,
       "Dirtmole": false,
       "Genie": false,
       "Hussar": false,
@@ -218,7 +221,7 @@
       "XR_Broken": false,
       "XR_Khasati": false,
       "Bageard_Xenotype": false,
-      "MiliraXenotype": true
+      "MiliraXenotype": false
     }
   },
   "Milira_Race": {
@@ -226,9 +229,10 @@
     "Enabled": true,
     "BasePrice": 8250,
     "MinAge": 16,
-    "MaxAge": 65,
+    "MaxAge": 120,
     "AllowCustomXenotypes": true,
     "DefaultXenotype": "Baseliner",
+    "PreferredPawnKindDefName": null,
     "AllowedGenders": {
       "AllowMale": false,
       "AllowFemale": true,
