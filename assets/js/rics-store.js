@@ -158,14 +158,19 @@ async init() {
                     addPrice: traitData.AddPrice || 0,
                     removePrice: traitData.RemovePrice || 0,
                     bypassLimit: traitData.BypassLimit || false,
-                    modSource: traitData.ModSource || 'Unknown'
+                    modSource: traitData.ModSource || 'Unknown',
+                    modActive: traitData.modactive || false  // ADD THIS
                 };
             })
             .filter(trait => {
-                // Only include if at least one operation is allowed
-                return trait.canAdd || trait.canRemove;
-            })
-            .filter(trait => trait.addPrice > 0 || trait.removePrice > 0); // Only traits with prices
+                // Only include if:
+                // 1. At least one operation is allowed AND
+                // 2. At least one price > 0 AND
+                // 3. Mod is active (modActive = true)
+                return (trait.canAdd || trait.canRemove) && 
+                       (trait.addPrice > 0 || trait.removePrice > 0) &&
+                       trait.modActive === true;
+            });
     }
 
     processWeatherData(weatherObject) {
