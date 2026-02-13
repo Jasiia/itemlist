@@ -130,7 +130,14 @@ class RICSStore {
                     enabled: eventData.Enabled !== false
                 };
             })
-            .filter(event => event.enabled && event.baseCost > 0);
+        .filter(event => {
+            // Only include if:
+            // 1. Event is enabled AND
+            // 2. Base cost > 0 AND
+            // 3. Mod is active (modactive = true)
+            return event.enabled && 
+                   event.baseCost > 0 && 
+                   event.modActive === true;
     }
 
 
