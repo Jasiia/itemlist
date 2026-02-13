@@ -834,7 +834,7 @@
       "Mod": "Core",
       "BasePrice": 266,
       "Category": "Special",
-      "Enabled": true
+      "Enabled": false
     },
     "EggBox": {
       "DefName": "EggBox",
@@ -6781,7 +6781,7 @@
       "Mod": "Biotech",
       "BasePrice": 399,
       "Category": "Manufactured",
-      "Enabled": true
+      "Enabled": false
     },
     "SubcoreHigh": {
       "DefName": "SubcoreHigh",
@@ -6800,7 +6800,7 @@
       "Mod": "Biotech",
       "BasePrice": 1330,
       "Category": "Manufactured",
-      "Enabled": true
+      "Enabled": false
     },
     "SignalChip": {
       "DefName": "SignalChip",
@@ -6819,7 +6819,7 @@
       "Mod": "Biotech",
       "BasePrice": 665,
       "Category": "Manufactured",
-      "Enabled": true
+      "Enabled": false
     },
     "PowerfocusChip": {
       "DefName": "PowerfocusChip",
@@ -6838,7 +6838,7 @@
       "Mod": "Biotech",
       "BasePrice": 1330,
       "Category": "Manufactured",
-      "Enabled": true
+      "Enabled": false
     },
     "NanostructuringChip": {
       "DefName": "NanostructuringChip",
@@ -6857,7 +6857,7 @@
       "Mod": "Biotech",
       "BasePrice": 2000,
       "Category": "Manufactured",
-      "Enabled": true
+      "Enabled": false
     },
     "DeathrestCapacitySerum": {
       "DefName": "DeathrestCapacitySerum",
@@ -6914,7 +6914,7 @@
       "Mod": "Biotech",
       "BasePrice": 26,
       "Category": "Misc",
-      "Enabled": true
+      "Enabled": false
     },
     "ArchiteCapsule": {
       "DefName": "ArchiteCapsule",
@@ -6952,7 +6952,7 @@
       "Mod": "Biotech",
       "BasePrice": 66,
       "Category": "Misc",
-      "Enabled": true
+      "Enabled": false
     },
     "HumanEmbryo": {
       "DefName": "HumanEmbryo",
@@ -6971,7 +6971,7 @@
       "Mod": "Biotech",
       "BasePrice": 66,
       "Category": "Misc",
-      "Enabled": true
+      "Enabled": false
     },
     "Apparel_KidRomper": {
       "DefName": "Apparel_KidRomper",
@@ -7199,7 +7199,7 @@
       "Mod": "Anomaly",
       "BasePrice": 110,
       "Category": "Misc",
-      "Enabled": true
+      "Enabled": false
     },
     "DirtCubeSculpture": {
       "DefName": "DirtCubeSculpture",
@@ -7294,7 +7294,7 @@
       "Mod": "Anomaly",
       "BasePrice": 177,
       "Category": "Misc",
-      "Enabled": true
+      "Enabled": false
     },
     "ShardInhibitor": {
       "DefName": "ShardInhibitor",
@@ -7313,7 +7313,7 @@
       "Mod": "Anomaly",
       "BasePrice": 571,
       "Category": "Misc",
-      "Enabled": true
+      "Enabled": false
     },
     "ProximityDetector": {
       "DefName": "ProximityDetector",
@@ -7332,7 +7332,7 @@
       "Mod": "Anomaly",
       "BasePrice": 86,
       "Category": "Misc",
-      "Enabled": true
+      "Enabled": false
     },
     "FrenzyInducer": {
       "DefName": "FrenzyInducer",
@@ -7351,7 +7351,7 @@
       "Mod": "Anomaly",
       "BasePrice": 658,
       "Category": "Misc",
-      "Enabled": true
+      "Enabled": false
     },
     "SleepSuppressor": {
       "DefName": "SleepSuppressor",
@@ -7370,7 +7370,7 @@
       "Mod": "Anomaly",
       "BasePrice": 724,
       "Category": "Misc",
-      "Enabled": true
+      "Enabled": false
     },
     "Electroharvester": {
       "DefName": "Electroharvester",
@@ -7389,7 +7389,7 @@
       "Mod": "Anomaly",
       "BasePrice": 212,
       "Category": "Power",
-      "Enabled": true
+      "Enabled": false
     },
     "BioferriteShaper": {
       "DefName": "BioferriteShaper",
@@ -7408,7 +7408,7 @@
       "Mod": "Anomaly",
       "BasePrice": 265,
       "Category": "Production",
-      "Enabled": true
+      "Enabled": false
     },
     "SerumCentrifuge": {
       "DefName": "SerumCentrifuge",
@@ -7427,7 +7427,7 @@
       "Mod": "Anomaly",
       "BasePrice": 964,
       "Category": "Production",
-      "Enabled": true
+      "Enabled": false
     },
     "BioferriteHarvester": {
       "DefName": "BioferriteHarvester",
@@ -7446,7 +7446,7 @@
       "Mod": "Anomaly",
       "BasePrice": 188,
       "Category": "Power",
-      "Enabled": true
+      "Enabled": false
     },
     "ShardBeacon": {
       "DefName": "ShardBeacon",
@@ -7465,7 +7465,7 @@
       "Mod": "Anomaly",
       "BasePrice": 565,
       "Category": "Misc",
-      "Enabled": true
+      "Enabled": false
     },
     "VoidsightSerum": {
       "DefName": "VoidsightSerum",
@@ -7484,7 +7484,7 @@
       "Mod": "Anomaly",
       "BasePrice": 79,
       "Category": "Drugs",
-      "Enabled": true
+      "Enabled": false
     },
     "MetalbloodSerum": {
       "DefName": "MetalbloodSerum",
@@ -7503,7 +7503,7 @@
       "Mod": "Anomaly",
       "BasePrice": 266,
       "Category": "Drugs",
-      "Enabled": true
+      "Enabled": false
     },
     "JuggernautSerum": {
       "DefName": "JuggernautSerum",
@@ -7522,7 +7522,7 @@
       "Mod": "Anomaly",
       "BasePrice": 266,
       "Category": "Drugs",
-      "Enabled": true
+      "Enabled": false
     },
     "MindNumbSerum": {
       "DefName": "MindNumbSerum",
@@ -7541,7 +7541,7 @@
       "Mod": "Anomaly",
       "BasePrice": 106,
       "Category": "Drugs",
-      "Enabled": true
+      "Enabled": false
     },
     "Bioferrite": {
       "DefName": "Bioferrite",
@@ -7560,7 +7560,7 @@
       "Mod": "Anomaly",
       "BasePrice": 1,
       "Category": "Metallics",
-      "Enabled": true
+      "Enabled": false
     },
     "Leather_Dread": {
       "DefName": "Leather_Dread",
@@ -7598,7 +7598,7 @@
       "Mod": "Anomaly",
       "BasePrice": 532,
       "Category": "Manufactured",
-      "Enabled": true
+      "Enabled": false
     },
     "RevenantSpine": {
       "DefName": "RevenantSpine",
@@ -7617,7 +7617,7 @@
       "Mod": "Anomaly",
       "BasePrice": 1330,
       "Category": "Misc",
-      "Enabled": true
+      "Enabled": false
     },
     "Meat_Twisted": {
       "DefName": "Meat_Twisted",
@@ -7674,7 +7674,7 @@
       "Mod": "Anomaly",
       "BasePrice": 2000,
       "Category": "Misc",
-      "Enabled": true
+      "Enabled": false
     },
     "Apparel_CultistMask": {
       "DefName": "Apparel_CultistMask",
@@ -7750,7 +7750,7 @@
       "Mod": "Anomaly",
       "BasePrice": 82,
       "Category": "Weapon",
-      "Enabled": true
+      "Enabled": false
     },
     "Map": {
       "DefName": "Map",
@@ -7769,7 +7769,7 @@
       "Mod": "Odyssey",
       "BasePrice": 239,
       "Category": "Books",
-      "Enabled": true
+      "Enabled": false
     },
     "Drug_Psilocap": {
       "DefName": "Drug_Psilocap",
@@ -7864,7 +7864,7 @@
       "Mod": "Odyssey",
       "BasePrice": 2000,
       "Category": "Misc",
-      "Enabled": true
+      "Enabled": false
     },
     "FuelOptimizer": {
       "DefName": "FuelOptimizer",
@@ -7883,7 +7883,7 @@
       "Mod": "Odyssey",
       "BasePrice": 2000,
       "Category": "Misc",
-      "Enabled": true
+      "Enabled": false
     },
     "PilotSubpersonaCore": {
       "DefName": "PilotSubpersonaCore",
@@ -7902,7 +7902,7 @@
       "Mod": "Odyssey",
       "BasePrice": 1296,
       "Category": "Misc",
-      "Enabled": true
+      "Enabled": false
     },
     "GravshipShieldGenerator": {
       "DefName": "GravshipShieldGenerator",
@@ -7921,7 +7921,7 @@
       "Mod": "Odyssey",
       "BasePrice": 2000,
       "Category": "Misc",
-      "Enabled": true
+      "Enabled": false
     },
     "AncientMiningCharge": {
       "DefName": "AncientMiningCharge",
@@ -7959,7 +7959,7 @@
       "Mod": "Odyssey",
       "BasePrice": 106,
       "Category": "Security",
-      "Enabled": true
+      "Enabled": false
     },
     "MastodonTusk": {
       "DefName": "MastodonTusk",
@@ -8016,7 +8016,7 @@
       "Mod": "Odyssey",
       "BasePrice": 532,
       "Category": "Drugs",
-      "Enabled": true
+      "Enabled": false
     },
     "EggMonitorLizardFertilized": {
       "DefName": "EggMonitorLizardFertilized",
@@ -23539,7 +23539,7 @@
       "Mod": "Vanilla Ideology Expanded - Memes and Structures",
       "BasePrice": 638,
       "Category": "Security",
-      "Enabled": true
+      "Enabled": false
     },
     "VME_Obelisk": {
       "DefName": "VME_Obelisk",
@@ -26180,7 +26180,7 @@
       "Mod": "Core",
       "BasePrice": 1200,
       "Category": "Mechs",
-      "Enabled": true
+      "Enabled": false
     },
     "Mech_CentipedeGunner": {
       "DefName": "Mech_CentipedeGunner",
@@ -26199,7 +26199,7 @@
       "Mod": "Core",
       "BasePrice": 1200,
       "Category": "Mechs",
-      "Enabled": true
+      "Enabled": false
     },
     "Mech_CentipedeBurner": {
       "DefName": "Mech_CentipedeBurner",
@@ -26218,7 +26218,7 @@
       "Mod": "Core",
       "BasePrice": 1200,
       "Category": "Mechs",
-      "Enabled": true
+      "Enabled": false
     },
     "Mech_Lancer": {
       "DefName": "Mech_Lancer",
@@ -26237,7 +26237,7 @@
       "Mod": "Core",
       "BasePrice": 1200,
       "Category": "Mechs",
-      "Enabled": true
+      "Enabled": false
     },
     "Mech_Scyther": {
       "DefName": "Mech_Scyther",
@@ -26256,7 +26256,7 @@
       "Mod": "Core",
       "BasePrice": 1200,
       "Category": "Mechs",
-      "Enabled": true
+      "Enabled": false
     },
     "Mech_Pikeman": {
       "DefName": "Mech_Pikeman",
@@ -26275,7 +26275,7 @@
       "Mod": "Core",
       "BasePrice": 1200,
       "Category": "Mechs",
-      "Enabled": true
+      "Enabled": false
     },
     "Mech_Termite": {
       "DefName": "Mech_Termite",
@@ -26294,7 +26294,7 @@
       "Mod": "Core",
       "BasePrice": 1200,
       "Category": "Mechs",
-      "Enabled": true
+      "Enabled": false
     },
     "MechanoidTransponder": {
       "DefName": "MechanoidTransponder",
@@ -26313,7 +26313,7 @@
       "Mod": "Biotech",
       "BasePrice": 200,
       "Category": "Misc",
-      "Enabled": true
+      "Enabled": false
     },
     "Mech_Tunneler": {
       "DefName": "Mech_Tunneler",
@@ -26332,7 +26332,7 @@
       "Mod": "Biotech",
       "BasePrice": 1200,
       "Category": "Mechs",
-      "Enabled": true
+      "Enabled": false
     },
     "Mech_Militor": {
       "DefName": "Mech_Militor",
@@ -26351,7 +26351,7 @@
       "Mod": "Biotech",
       "BasePrice": 800,
       "Category": "Mechs",
-      "Enabled": true
+      "Enabled": false
     },
     "Mech_Lifter": {
       "DefName": "Mech_Lifter",
@@ -26370,7 +26370,7 @@
       "Mod": "Biotech",
       "BasePrice": 800,
       "Category": "Mechs",
-      "Enabled": true
+      "Enabled": false
     },
     "Mech_Constructoid": {
       "DefName": "Mech_Constructoid",
@@ -26389,7 +26389,7 @@
       "Mod": "Biotech",
       "BasePrice": 800,
       "Category": "Mechs",
-      "Enabled": true
+      "Enabled": false
     },
     "Mech_Fabricor": {
       "DefName": "Mech_Fabricor",
@@ -26408,7 +26408,7 @@
       "Mod": "Biotech",
       "BasePrice": 800,
       "Category": "Mechs",
-      "Enabled": true
+      "Enabled": false
     },
     "Mech_Agrihand": {
       "DefName": "Mech_Agrihand",
@@ -26427,7 +26427,7 @@
       "Mod": "Biotech",
       "BasePrice": 800,
       "Category": "Mechs",
-      "Enabled": true
+      "Enabled": false
     },
     "Mech_Cleansweeper": {
       "DefName": "Mech_Cleansweeper",
@@ -26446,7 +26446,7 @@
       "Mod": "Biotech",
       "BasePrice": 800,
       "Category": "Mechs",
-      "Enabled": true
+      "Enabled": false
     },
     "Mech_WarUrchin": {
       "DefName": "Mech_WarUrchin",
@@ -26465,7 +26465,7 @@
       "Mod": "Biotech",
       "BasePrice": 800,
       "Category": "Mechs",
-      "Enabled": true
+      "Enabled": false
     },
     "Mech_Paramedic": {
       "DefName": "Mech_Paramedic",
@@ -26484,7 +26484,7 @@
       "Mod": "Biotech",
       "BasePrice": 800,
       "Category": "Mechs",
-      "Enabled": true
+      "Enabled": false
     },
     "Mech_Legionary": {
       "DefName": "Mech_Legionary",
@@ -26503,7 +26503,7 @@
       "Mod": "Biotech",
       "BasePrice": 1200,
       "Category": "Mechs",
-      "Enabled": true
+      "Enabled": false
     },
     "Mech_Tesseron": {
       "DefName": "Mech_Tesseron",
@@ -26522,7 +26522,7 @@
       "Mod": "Biotech",
       "BasePrice": 1200,
       "Category": "Mechs",
-      "Enabled": true
+      "Enabled": false
     },
     "Mech_Scorcher": {
       "DefName": "Mech_Scorcher",
@@ -26541,7 +26541,7 @@
       "Mod": "Biotech",
       "BasePrice": 1200,
       "Category": "Mechs",
-      "Enabled": true
+      "Enabled": false
     },
     "Mech_Apocriton": {
       "DefName": "Mech_Apocriton",
@@ -26560,7 +26560,7 @@
       "Mod": "Biotech",
       "BasePrice": 1600,
       "Category": "Mechs",
-      "Enabled": true
+      "Enabled": false
     },
     "Mech_Centurion": {
       "DefName": "Mech_Centurion",
@@ -26579,7 +26579,7 @@
       "Mod": "Biotech",
       "BasePrice": 1600,
       "Category": "Mechs",
-      "Enabled": true
+      "Enabled": false
     },
     "Mech_Warqueen": {
       "DefName": "Mech_Warqueen",
@@ -26598,7 +26598,7 @@
       "Mod": "Biotech",
       "BasePrice": 1600,
       "Category": "Mechs",
-      "Enabled": true
+      "Enabled": false
     },
     "Mech_Diabolus": {
       "DefName": "Mech_Diabolus",
@@ -26617,7 +26617,7 @@
       "Mod": "Biotech",
       "BasePrice": 1600,
       "Category": "Mechs",
-      "Enabled": true
+      "Enabled": false
     },
     "VoidSculpture": {
       "DefName": "VoidSculpture",
@@ -26636,7 +26636,7 @@
       "Mod": "Anomaly",
       "BasePrice": 123,
       "Category": "Art",
-      "Enabled": true
+      "Enabled": false
     },
     "Drone_Hunter": {
       "DefName": "Drone_Hunter",
@@ -26655,7 +26655,7 @@
       "Mod": "Odyssey",
       "BasePrice": 1200,
       "Category": "Misc",
-      "Enabled": true
+      "Enabled": false
     },
     "Drone_Wasp": {
       "DefName": "Drone_Wasp",
@@ -26674,7 +26674,7 @@
       "Mod": "Odyssey",
       "BasePrice": 1200,
       "Category": "Misc",
-      "Enabled": true
+      "Enabled": false
     },
     "Drone_Sentry": {
       "DefName": "Drone_Sentry",
@@ -26712,7 +26712,7 @@
       "Mod": "Odyssey",
       "BasePrice": 1200,
       "Category": "Mechs",
-      "Enabled": true
+      "Enabled": false
     },
     "VME_FleshcraftedArm": {
       "DefName": "VME_FleshcraftedArm",
@@ -27054,7 +27054,7 @@
       "Mod": "Vanilla Ideology Expanded - Memes and Structures",
       "BasePrice": 5,
       "Category": "Misc",
-      "Enabled": true
+      "Enabled": false
     },
     "VME_AncientEquipmentBlocks": {
       "DefName": "VME_AncientEquipmentBlocks",
@@ -27092,7 +27092,7 @@
       "Mod": "Vanilla Ideology Expanded - Memes and Structures",
       "BasePrice": 10,
       "Category": "Misc",
-      "Enabled": true
+      "Enabled": false
     },
     "VME_AncientStorageCylinder": {
       "DefName": "VME_AncientStorageCylinder",
@@ -27111,7 +27111,7 @@
       "Mod": "Vanilla Ideology Expanded - Memes and Structures",
       "BasePrice": 7,
       "Category": "Misc",
-      "Enabled": true
+      "Enabled": false
     },
     "VME_AncientBed": {
       "DefName": "VME_AncientBed",
@@ -27130,7 +27130,7 @@
       "Mod": "Vanilla Ideology Expanded - Memes and Structures",
       "BasePrice": 2,
       "Category": "Misc",
-      "Enabled": true
+      "Enabled": false
     },
     "VME_AncientDisplayBank": {
       "DefName": "VME_AncientDisplayBank",
@@ -27168,7 +27168,7 @@
       "Mod": "Vanilla Ideology Expanded - Memes and Structures",
       "BasePrice": 3,
       "Category": "Misc",
-      "Enabled": true
+      "Enabled": false
     },
     "VME_AncientCrate": {
       "DefName": "VME_AncientCrate",
@@ -27206,7 +27206,7 @@
       "Mod": "Vanilla Ideology Expanded - Memes and Structures",
       "BasePrice": 1,
       "Category": "Misc",
-      "Enabled": true
+      "Enabled": false
     },
     "VME_AncientSpacerCrate": {
       "DefName": "VME_AncientSpacerCrate",
@@ -27225,7 +27225,7 @@
       "Mod": "Vanilla Ideology Expanded - Memes and Structures",
       "BasePrice": 1,
       "Category": "Misc",
-      "Enabled": true
+      "Enabled": false
     },
     "VME_AncientBarrel": {
       "DefName": "VME_AncientBarrel",
@@ -27263,7 +27263,7 @@
       "Mod": "Vanilla Ideology Expanded - Memes and Structures",
       "BasePrice": 1,
       "Category": "Misc",
-      "Enabled": true
+      "Enabled": false
     },
     "VME_AncientOperatingTable": {
       "DefName": "VME_AncientOperatingTable",
@@ -27282,7 +27282,7 @@
       "Mod": "Vanilla Ideology Expanded - Memes and Structures",
       "BasePrice": 1,
       "Category": "Misc",
-      "Enabled": true
+      "Enabled": false
     },
     "VME_AncientShoppingCart": {
       "DefName": "VME_AncientShoppingCart",
@@ -27301,7 +27301,7 @@
       "Mod": "Vanilla Ideology Expanded - Memes and Structures",
       "BasePrice": 1,
       "Category": "Misc",
-      "Enabled": true
+      "Enabled": false
     },
     "VME_AncientPostbox": {
       "DefName": "VME_AncientPostbox",
@@ -27320,7 +27320,7 @@
       "Mod": "Vanilla Ideology Expanded - Memes and Structures",
       "BasePrice": 1,
       "Category": "Misc",
-      "Enabled": true
+      "Enabled": false
     },
     "VME_AncientVendingMachine": {
       "DefName": "VME_AncientVendingMachine",
@@ -27339,7 +27339,7 @@
       "Mod": "Vanilla Ideology Expanded - Memes and Structures",
       "BasePrice": 1,
       "Category": "Misc",
-      "Enabled": true
+      "Enabled": false
     },
     "VME_AncientAirConditioner": {
       "DefName": "VME_AncientAirConditioner",
@@ -27358,7 +27358,7 @@
       "Mod": "Vanilla Ideology Expanded - Memes and Structures",
       "BasePrice": 1,
       "Category": "Misc",
-      "Enabled": true
+      "Enabled": false
     },
     "VME_AncientKitchenSink": {
       "DefName": "VME_AncientKitchenSink",
@@ -27377,7 +27377,7 @@
       "Mod": "Vanilla Ideology Expanded - Memes and Structures",
       "BasePrice": 1,
       "Category": "Misc",
-      "Enabled": true
+      "Enabled": false
     },
     "VME_AncientStove": {
       "DefName": "VME_AncientStove",
@@ -27396,7 +27396,7 @@
       "Mod": "Vanilla Ideology Expanded - Memes and Structures",
       "BasePrice": 1,
       "Category": "Misc",
-      "Enabled": true
+      "Enabled": false
     },
     "VME_AncientOven": {
       "DefName": "VME_AncientOven",
@@ -27415,7 +27415,7 @@
       "Mod": "Vanilla Ideology Expanded - Memes and Structures",
       "BasePrice": 1,
       "Category": "Misc",
-      "Enabled": true
+      "Enabled": false
     },
     "VME_AncientATM": {
       "DefName": "VME_AncientATM",
@@ -27434,7 +27434,7 @@
       "Mod": "Vanilla Ideology Expanded - Memes and Structures",
       "BasePrice": 1,
       "Category": "Misc",
-      "Enabled": true
+      "Enabled": false
     },
     "VME_AncientWashingMachine": {
       "DefName": "VME_AncientWashingMachine",
@@ -27453,7 +27453,7 @@
       "Mod": "Vanilla Ideology Expanded - Memes and Structures",
       "BasePrice": 1,
       "Category": "Misc",
-      "Enabled": true
+      "Enabled": false
     },
     "VME_AncientHydrant": {
       "DefName": "VME_AncientHydrant",
@@ -27472,7 +27472,7 @@
       "Mod": "Vanilla Ideology Expanded - Memes and Structures",
       "BasePrice": 1,
       "Category": "Misc",
-      "Enabled": true
+      "Enabled": false
     },
     "VME_AncientMicrowave": {
       "DefName": "VME_AncientMicrowave",
@@ -27491,7 +27491,7 @@
       "Mod": "Vanilla Ideology Expanded - Memes and Structures",
       "BasePrice": 1,
       "Category": "Misc",
-      "Enabled": true
+      "Enabled": false
     },
     "VME_AncientToilet": {
       "DefName": "VME_AncientToilet",
@@ -27510,7 +27510,7 @@
       "Mod": "Vanilla Ideology Expanded - Memes and Structures",
       "BasePrice": 1,
       "Category": "Misc",
-      "Enabled": true
+      "Enabled": false
     },
     "VME_AncientRefrigerator": {
       "DefName": "VME_AncientRefrigerator",
@@ -27529,7 +27529,7 @@
       "Mod": "Vanilla Ideology Expanded - Memes and Structures",
       "BasePrice": 1,
       "Category": "Misc",
-      "Enabled": true
+      "Enabled": false
     },
     "VME_AncientSmallCrate": {
       "DefName": "VME_AncientSmallCrate",
@@ -27548,7 +27548,7 @@
       "Mod": "Vanilla Ideology Expanded - Memes and Structures",
       "BasePrice": 1,
       "Category": "Misc",
-      "Enabled": true
+      "Enabled": false
     },
     "VME_AncientLongCrate": {
       "DefName": "VME_AncientLongCrate",
@@ -27567,7 +27567,7 @@
       "Mod": "Vanilla Ideology Expanded - Memes and Structures",
       "BasePrice": 1,
       "Category": "Misc",
-      "Enabled": true
+      "Enabled": false
     },
     "VME_AncientLargeCrate": {
       "DefName": "VME_AncientLargeCrate",
@@ -27586,7 +27586,7 @@
       "Mod": "Vanilla Ideology Expanded - Memes and Structures",
       "BasePrice": 1,
       "Category": "Misc",
-      "Enabled": true
+      "Enabled": false
     },
     "VME_AncientWheel": {
       "DefName": "VME_AncientWheel",
@@ -27605,7 +27605,7 @@
       "Mod": "Vanilla Ideology Expanded - Memes and Structures",
       "BasePrice": 1,
       "Category": "Misc",
-      "Enabled": true
+      "Enabled": false
     },
     "VME_AncientGiantWheel": {
       "DefName": "VME_AncientGiantWheel",
@@ -27624,7 +27624,7 @@
       "Mod": "Vanilla Ideology Expanded - Memes and Structures",
       "BasePrice": 1,
       "Category": "Misc",
-      "Enabled": true
+      "Enabled": false
     },
     "VME_AncientRustedCar": {
       "DefName": "VME_AncientRustedCar",
@@ -27643,7 +27643,7 @@
       "Mod": "Vanilla Ideology Expanded - Memes and Structures",
       "BasePrice": 10,
       "Category": "Misc",
-      "Enabled": true
+      "Enabled": false
     },
     "VME_AncientRustedTruck": {
       "DefName": "VME_AncientRustedTruck",
@@ -27662,7 +27662,7 @@
       "Mod": "Vanilla Ideology Expanded - Memes and Structures",
       "BasePrice": 10,
       "Category": "Misc",
-      "Enabled": true
+      "Enabled": false
     },
     "VME_AncientRustedJeep": {
       "DefName": "VME_AncientRustedJeep",
@@ -27681,7 +27681,7 @@
       "Mod": "Vanilla Ideology Expanded - Memes and Structures",
       "BasePrice": 10,
       "Category": "Misc",
-      "Enabled": true
+      "Enabled": false
     },
     "VME_AncientRustedCarFrame": {
       "DefName": "VME_AncientRustedCarFrame",
@@ -27700,7 +27700,7 @@
       "Mod": "Vanilla Ideology Expanded - Memes and Structures",
       "BasePrice": 10,
       "Category": "Misc",
-      "Enabled": true
+      "Enabled": false
     },
     "VME_AncientWarwalkerTorso": {
       "DefName": "VME_AncientWarwalkerTorso",
@@ -27719,7 +27719,7 @@
       "Mod": "Vanilla Ideology Expanded - Memes and Structures",
       "BasePrice": 10,
       "Category": "Misc",
-      "Enabled": true
+      "Enabled": false
     },
     "VME_AncientRustedDropship": {
       "DefName": "VME_AncientRustedDropship",
@@ -27738,7 +27738,7 @@
       "Mod": "Vanilla Ideology Expanded - Memes and Structures",
       "BasePrice": 10,
       "Category": "Misc",
-      "Enabled": true
+      "Enabled": false
     },
     "VME_AncientWarwalkerClaw": {
       "DefName": "VME_AncientWarwalkerClaw",
@@ -27757,7 +27757,7 @@
       "Mod": "Vanilla Ideology Expanded - Memes and Structures",
       "BasePrice": 10,
       "Category": "Misc",
-      "Enabled": true
+      "Enabled": false
     },
     "VME_AncientWarwalkerLeg": {
       "DefName": "VME_AncientWarwalkerLeg",
@@ -27776,7 +27776,7 @@
       "Mod": "Vanilla Ideology Expanded - Memes and Structures",
       "BasePrice": 10,
       "Category": "Misc",
-      "Enabled": true
+      "Enabled": false
     },
     "VME_AncientMiniWarwalkerRemains": {
       "DefName": "VME_AncientMiniWarwalkerRemains",
@@ -27795,7 +27795,7 @@
       "Mod": "Vanilla Ideology Expanded - Memes and Structures",
       "BasePrice": 10,
       "Category": "Misc",
-      "Enabled": true
+      "Enabled": false
     },
     "VME_AncientWarspiderRemains": {
       "DefName": "VME_AncientWarspiderRemains",
@@ -27814,7 +27814,7 @@
       "Mod": "Vanilla Ideology Expanded - Memes and Structures",
       "BasePrice": 10,
       "Category": "Misc",
-      "Enabled": true
+      "Enabled": false
     },
     "VME_AncientPipelineSection": {
       "DefName": "VME_AncientPipelineSection",
@@ -27833,7 +27833,7 @@
       "Mod": "Vanilla Ideology Expanded - Memes and Structures",
       "BasePrice": 10,
       "Category": "Misc",
-      "Enabled": true
+      "Enabled": false
     },
     "VME_AncientWarwalkerFoot": {
       "DefName": "VME_AncientWarwalkerFoot",
@@ -27871,7 +27871,7 @@
       "Mod": "Vanilla Ideology Expanded - Memes and Structures",
       "BasePrice": 10,
       "Category": "Misc",
-      "Enabled": true
+      "Enabled": false
     },
     "VME_AncientAPC": {
       "DefName": "VME_AncientAPC",
@@ -27890,7 +27890,7 @@
       "Mod": "Vanilla Ideology Expanded - Memes and Structures",
       "BasePrice": 10,
       "Category": "Misc",
-      "Enabled": true
+      "Enabled": false
     },
     "VME_AncientWarwalkerShell": {
       "DefName": "VME_AncientWarwalkerShell",
@@ -27909,7 +27909,7 @@
       "Mod": "Vanilla Ideology Expanded - Memes and Structures",
       "BasePrice": 10,
       "Category": "Misc",
-      "Enabled": true
+      "Enabled": false
     },
     "VME_AncientJetEngine": {
       "DefName": "VME_AncientJetEngine",
@@ -27928,7 +27928,7 @@
       "Mod": "Vanilla Ideology Expanded - Memes and Structures",
       "BasePrice": 10,
       "Category": "Misc",
-      "Enabled": true
+      "Enabled": false
     },
     "VME_AncientDropshipEngine": {
       "DefName": "VME_AncientDropshipEngine",
@@ -27947,7 +27947,7 @@
       "Mod": "Vanilla Ideology Expanded - Memes and Structures",
       "BasePrice": 10,
       "Category": "Misc",
-      "Enabled": true
+      "Enabled": false
     },
     "VME_AncientPodCar": {
       "DefName": "VME_AncientPodCar",
@@ -27966,7 +27966,7 @@
       "Mod": "Vanilla Ideology Expanded - Memes and Structures",
       "BasePrice": 10,
       "Category": "Misc",
-      "Enabled": true
+      "Enabled": false
     },
     "VME_AncientTankTrap": {
       "DefName": "VME_AncientTankTrap",
@@ -27985,7 +27985,7 @@
       "Mod": "Vanilla Ideology Expanded - Memes and Structures",
       "BasePrice": 1,
       "Category": "Misc",
-      "Enabled": true
+      "Enabled": false
     },
     "VME_AncientLargeRustedEngineBlock": {
       "DefName": "VME_AncientLargeRustedEngineBlock",
@@ -28004,7 +28004,7 @@
       "Mod": "Vanilla Ideology Expanded - Memes and Structures",
       "BasePrice": 1,
       "Category": "Misc",
-      "Enabled": true
+      "Enabled": false
     },
     "VME_AncientFence": {
       "DefName": "VME_AncientFence",
@@ -28023,7 +28023,7 @@
       "Mod": "Vanilla Ideology Expanded - Memes and Structures",
       "BasePrice": 1,
       "Category": "Misc",
-      "Enabled": true
+      "Enabled": false
     },
     "VME_AncientRazorWire": {
       "DefName": "VME_AncientRazorWire",
@@ -28042,7 +28042,7 @@
       "Mod": "Vanilla Ideology Expanded - Memes and Structures",
       "BasePrice": 1,
       "Category": "Misc",
-      "Enabled": true
+      "Enabled": false
     },
     "VME_AncientPipes": {
       "DefName": "VME_AncientPipes",
@@ -28061,7 +28061,7 @@
       "Mod": "Vanilla Ideology Expanded - Memes and Structures",
       "BasePrice": 1,
       "Category": "Misc",
-      "Enabled": true
+      "Enabled": false
     },
     "VME_AncientMegaCannonTripod": {
       "DefName": "VME_AncientMegaCannonTripod",
@@ -28099,7 +28099,7 @@
       "Mod": "Vanilla Ideology Expanded - Memes and Structures",
       "BasePrice": 1,
       "Category": "Misc",
-      "Enabled": true
+      "Enabled": false
     },
     "VME_AncientContainer": {
       "DefName": "VME_AncientContainer",
@@ -28118,7 +28118,7 @@
       "Mod": "Vanilla Ideology Expanded - Memes and Structures",
       "BasePrice": 1,
       "Category": "Misc",
-      "Enabled": true
+      "Enabled": false
     },
     "VME_AncientMechanoidShell": {
       "DefName": "VME_AncientMechanoidShell",
@@ -28137,7 +28137,7 @@
       "Mod": "Vanilla Ideology Expanded - Memes and Structures",
       "BasePrice": 1,
       "Category": "Misc",
-      "Enabled": true
+      "Enabled": false
     },
     "VME_AncientMechDropBeacon": {
       "DefName": "VME_AncientMechDropBeacon",
@@ -28156,7 +28156,7 @@
       "Mod": "Vanilla Ideology Expanded - Memes and Structures",
       "BasePrice": 1,
       "Category": "Misc",
-      "Enabled": true
+      "Enabled": false
     },
     "VME_AncientSecurityTurret": {
       "DefName": "VME_AncientSecurityTurret",
@@ -28175,7 +28175,7 @@
       "Mod": "Vanilla Ideology Expanded - Memes and Structures",
       "BasePrice": 1,
       "Category": "Misc",
-      "Enabled": true
+      "Enabled": false
     },
     "VME_AncientRustedEngineBlock": {
       "DefName": "VME_AncientRustedEngineBlock",
@@ -28194,7 +28194,7 @@
       "Mod": "Vanilla Ideology Expanded - Memes and Structures",
       "BasePrice": 1,
       "Category": "Misc",
-      "Enabled": true
+      "Enabled": false
     },
     "VME_AncientShipBeacon": {
       "DefName": "VME_AncientShipBeacon",
@@ -28213,7 +28213,7 @@
       "Mod": "Vanilla Ideology Expanded - Memes and Structures",
       "BasePrice": 1,
       "Category": "Misc",
-      "Enabled": true
+      "Enabled": false
     },
     "VME_AncientSpaceJunk": {
       "DefName": "VME_AncientSpaceJunk",
@@ -28232,7 +28232,7 @@
       "Mod": "Vanilla Ideology Expanded - Memes and Structures",
       "BasePrice": 1,
       "Category": "Misc",
-      "Enabled": true
+      "Enabled": false
     },
     "RimazonLockerSmall": {
       "DefName": "RimazonLockerSmall",
@@ -39993,7 +39993,7 @@
       "Mod": "Medieval Overhaul",
       "BasePrice": 725,
       "Category": "Loot",
-      "Enabled": true
+      "Enabled": false
     },
     "DankPyon_GlowingResin": {
       "DefName": "DankPyon_GlowingResin",
