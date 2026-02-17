@@ -107,6 +107,18 @@
     "modactive": true,
     "Version": 1
   },
+  "Windy": {
+    "DefName": "Windy",
+    "Label": "windy",
+    "Description": "Strong winds reduce movement speed.\n\n<i><color=#66E0E4FF>Odyssey</color></i>",
+    "BaseCost": 175,
+    "KarmaType": "Neutral",
+    "EventCap": 3,
+    "Enabled": true,
+    "ModSource": "Odyssey",
+    "modactive": true,
+    "Version": 1
+  },
   "ToxRain": {
     "DefName": "ToxRain",
     "Label": "tox rain",
@@ -179,6 +191,54 @@
     "modactive": true,
     "Version": 1
   },
+  "RG_Windy": {
+    "DefName": "RG_Windy",
+    "Label": "Breezy ",
+    "Description": "Consistent wind that reduces ranged weapon accuracy.\n\n<i><color=#66E0E4FF>ReGrowth 2</color></i>",
+    "BaseCost": 175,
+    "KarmaType": "Neutral",
+    "EventCap": 3,
+    "Enabled": true,
+    "ModSource": "ReGrowth 2",
+    "modactive": true,
+    "Version": 1
+  },
+  "RG_Drizzle": {
+    "DefName": "RG_Drizzle",
+    "Label": "drizzle",
+    "Description": "Very light but prominent rain which slightly reduces ranged weapon accuracy and movement speed.\n\n<i><color=#66E0E4FF>ReGrowth 2</color></i>",
+    "BaseCost": 175,
+    "KarmaType": "Neutral",
+    "EventCap": 3,
+    "Enabled": true,
+    "ModSource": "ReGrowth 2",
+    "modactive": true,
+    "Version": 1
+  },
+  "RG_FogStorm": {
+    "DefName": "RG_FogStorm",
+    "Label": "fog storm",
+    "Description": "Rolling fog and heavy wind reduces the accuracy of ranged weapons.\n\n<i><color=#66E0E4FF>ReGrowth 2</color></i>",
+    "BaseCost": 300,
+    "KarmaType": "Bad",
+    "EventCap": 3,
+    "Enabled": true,
+    "ModSource": "ReGrowth 2",
+    "modactive": true,
+    "Version": 1
+  },
+  "RG_FoggySnow": {
+    "DefName": "RG_FoggySnow",
+    "Label": "foggy snow",
+    "Description": "Heavy snow with fog that reduces ranged weapon accuracy, extinguishes fires and reduces movement speed.\n\n<i><color=#66E0E4FF>ReGrowth 2</color></i>",
+    "BaseCost": 200,
+    "KarmaType": "Neutral",
+    "EventCap": 3,
+    "Enabled": true,
+    "ModSource": "ReGrowth 2",
+    "modactive": true,
+    "Version": 1
+  },
   "VPE_Hurricane": {
     "DefName": "VPE_Hurricane",
     "Label": "hurricane",
@@ -191,99 +251,27 @@
     "modactive": true,
     "Version": 1
   },
-  "Windy": {
-    "DefName": "Windy",
-    "Label": "windy",
-    "Description": "A clear, windy day, great for turbines, not so great for shooting.\n\n<i><color=#66E0E4FF>Seasonal Weather (Continued)</color></i>",
-    "BaseCost": 175,
-    "KarmaType": "Neutral",
-    "EventCap": 3,
-    "Enabled": true,
-    "ModSource": "Seasonal Weather (Continued)",
-    "modactive": true,
-    "Version": 1
-  },
-  "Cloudy": {
-    "DefName": "Cloudy",
-    "Label": "cloudy",
-    "Description": "A cloudy day, lowers brightness.\n\n<i><color=#66E0E4FF>Seasonal Weather (Continued)</color></i>",
-    "BaseCost": 175,
-    "KarmaType": "Neutral",
-    "EventCap": 3,
-    "Enabled": true,
-    "ModSource": "Seasonal Weather (Continued)",
-    "modactive": true,
-    "Version": 1
-  },
-  "FogSnow": {
-    "DefName": "FogSnow",
-    "Label": "fog snow",
-    "Description": "Snow reduces the accuracy of ranged weapons, extinguishes fire, and slows people down, fog reduces sight.\n\n<i><color=#66E0E4FF>Seasonal Weather (Continued)</color></i>",
-    "BaseCost": 200,
-    "KarmaType": "Neutral",
-    "EventCap": 3,
-    "Enabled": true,
-    "ModSource": "Seasonal Weather (Continued)",
-    "modactive": true,
-    "Version": 1
-  },
-  "Dust": {
-    "DefName": "Dust",
-    "Label": "dust",
-    "Description": "Dust reduces the accuracy of ranged weapons.\n\n<i><color=#66E0E4FF>Seasonal Weather (Continued)</color></i>",
-    "BaseCost": 175,
-    "KarmaType": "Neutral",
-    "EventCap": 3,
-    "Enabled": true,
-    "ModSource": "Seasonal Weather (Continued)",
-    "modactive": true,
-    "Version": 1
-  },
-  "DryDuststorm": {
-    "DefName": "DryDuststorm",
-    "Label": "dry duststorm",
-    "Description": "Dry duststorms are dangerous because the lightning can start fires and there is no rain to put them out.\n\n<i><color=#66E0E4FF>Seasonal Weather (Continued)</color></i>",
-    "BaseCost": 300,
-    "KarmaType": "Bad",
-    "EventCap": 3,
-    "Enabled": true,
-    "ModSource": "Seasonal Weather (Continued)",
-    "modactive": true,
-    "Version": 1
-  },
-  "DoubleRainbow": {
-    "DefName": "DoubleRainbow",
-    "Label": "double rainbow",
-    "Description": "A double rainbow. The weather is soothing.\n\n<i><color=#66E0E4FF>Seasonal Weather (Continued)</color></i>",
+  "VEE_FertileRains": {
+    "DefName": "VEE_FertileRains",
+    "Label": "fertile rain",
+    "Description": "Unusually nutrient-rich rainfall is sweeping across the region, boosting plant growth for its duration.\n\n<i><color=#66E0E4FF>Vanilla Landmarks Expanded</color></i>",
     "BaseCost": 150,
     "KarmaType": "Neutral",
     "EventCap": 3,
     "Enabled": true,
-    "ModSource": "Seasonal Weather (Continued)",
+    "ModSource": "Vanilla Landmarks Expanded",
     "modactive": true,
     "Version": 1
   },
-  "VPE_RadioactiveFog": {
-    "DefName": "VPE_RadioactiveFog",
-    "Label": "radioactive fog",
-    "Description": "A Nuclear reactor's meltdown has freed a cloud of radioactive material. This fog will hinder ranged attacks until it dissipates.\n\n<i><color=#66E0E4FF>Vanilla Furniture Expanded - Power</color></i>",
-    "BaseCost": 150,
-    "KarmaType": "Neutral",
-    "EventCap": 3,
-    "Enabled": true,
-    "ModSource": "Vanilla Furniture Expanded - Power",
-    "modactive": true,
-    "Version": 1
-  },
-  "SnowyThunderStorm": {
-    "DefName": "SnowyThunderStorm",
-    "Label": "thundersnow",
-    "Description": "A rare winter phenomenon where heavy snow falls with lightning and thunder. The snow reduces visibility and movement while lightning poses fire risks.\n\n<i><color=#66E0E4FF>(CAP) Thunder Snow</color></i>",
+  "VEE_DustStorm": {
+    "DefName": "VEE_DustStorm",
+    "Label": "dust storm",
+    "Description": "A choking wall of wind-driven dust sweeps across the land, reducing visibility, slowing movement, and scouring anything left exposed.\n\n<i><color=#66E0E4FF>Vanilla Landmarks Expanded</color></i>",
     "BaseCost": 300,
     "KarmaType": "Bad",
     "EventCap": 3,
     "Enabled": true,
-    "ModSource": "[CAP] Thunder Snow",
+    "ModSource": "Vanilla Landmarks Expanded",
     "modactive": true,
     "Version": 1
   }
