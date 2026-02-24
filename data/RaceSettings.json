@@ -44,7 +44,24 @@
       "XR_Dragon": 1500.0,
       "XR_Kobold": 1500.0,
       "VRE_Wolfman": 1500.0,
-      "VRE_Lycan": 1500.0
+      "VRE_Lycan": 1500.0,
+      "ATK_Anthrobear": 1500.0,
+      "ATK_Anthrocat": 1500.0,
+      "ATK_Anthrocow": 1500.0,
+      "ATK_Anthrodeer": 1500.0,
+      "ATK_Anthrodrake": 1500.0,
+      "ATK_Anthrofox": 1500.0,
+      "ATK_Anthrogoat": 1500.0,
+      "ATK_Anthrogriff": 1500.0,
+      "ATK_Anthrohorse": 1500.0,
+      "ATK_Anthrohyena": 1500.0,
+      "ATK_Anthropanda": 1500.0,
+      "ATK_Anthrorabbit": 1500.0,
+      "ATK_Anthroshark": 1500.0,
+      "ATK_Anthrowah": 1500.0,
+      "ATK_Anthrowolf": 1500.0,
+      "FL_Foxian": 1500.0,
+      "FL_Greater_Foxian": 1500.0
     },
     "EnabledXenotypes": {
       "Baseliner": true,
@@ -76,7 +93,24 @@
       "XR_Dragon": true,
       "XR_Kobold": true,
       "VRE_Wolfman": true,
-      "VRE_Lycan": true
+      "VRE_Lycan": true,
+      "ATK_Anthrobear": true,
+      "ATK_Anthrocat": true,
+      "ATK_Anthrocow": true,
+      "ATK_Anthrodeer": true,
+      "ATK_Anthrodrake": true,
+      "ATK_Anthrofox": true,
+      "ATK_Anthrogoat": true,
+      "ATK_Anthrogriff": true,
+      "ATK_Anthrohorse": true,
+      "ATK_Anthrohyena": true,
+      "ATK_Anthropanda": true,
+      "ATK_Anthrorabbit": true,
+      "ATK_Anthroshark": true,
+      "ATK_Anthrowah": true,
+      "ATK_Anthrowolf": true,
+      "FL_Foxian": true,
+      "FL_Greater_Foxian": true
     }
   }
 }
