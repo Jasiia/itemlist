@@ -3423,7 +3423,7 @@
     "Rat": {
       "DefName": "Rat",
       "CustomName": "Rat",
-      "HasQuantityLimit": false,
+      "HasQuantityLimit": true,
       "QuantityLimit": 1,
       "LimitMode": "OneStack",
       "IsUsable": false,
@@ -3438,7 +3438,7 @@
     "Boomrat": {
       "DefName": "Boomrat",
       "CustomName": "Boomrat",
-      "HasQuantityLimit": false,
+      "HasQuantityLimit": true,
       "QuantityLimit": 1,
       "LimitMode": "OneStack",
       "IsUsable": false,
@@ -5613,7 +5613,7 @@
     "WasteRat": {
       "DefName": "WasteRat",
       "CustomName": "Waste rat",
-      "HasQuantityLimit": false,
+      "HasQuantityLimit": true,
       "QuantityLimit": 1,
       "LimitMode": "OneStack",
       "IsUsable": false,
@@ -32036,7 +32036,7 @@
       "IsWearable": false,
       "Mod": "Medieval Overhaul",
       "BasePrice": 1,
-      "Category": "Apothecary plant matter",
+      "Category": "Vegetarian",
       "Enabled": true,
       "modactive": true
     },
@@ -53982,7 +53982,7 @@
       "Mod": "Foxian League",
       "BasePrice": 100,
       "Category": "Books",
-      "Enabled": true,
+      "Enabled": false,
       "modactive": true
     },
     "FL_DiaryFoxianRaiderCaptive": {
@@ -53997,7 +53997,7 @@
       "Mod": "Foxian League",
       "BasePrice": 100,
       "Category": "Books",
-      "Enabled": true,
+      "Enabled": false,
       "modactive": true
     },
     "FL_DiaryFoxianRaider": {
@@ -54012,7 +54012,7 @@
       "Mod": "Foxian League",
       "BasePrice": 100,
       "Category": "Books",
-      "Enabled": true,
+      "Enabled": false,
       "modactive": true
     },
     "FL_DiaryFoxianCivilian": {
@@ -54027,7 +54027,7 @@
       "Mod": "Foxian League",
       "BasePrice": 100,
       "Category": "Books",
-      "Enabled": true,
+      "Enabled": false,
       "modactive": true
     },
     "FL_FoxianResearchNote": {
@@ -54042,7 +54042,7 @@
       "Mod": "Foxian League",
       "BasePrice": 150,
       "Category": "Books",
-      "Enabled": true,
+      "Enabled": false,
       "modactive": true
     },
     "FL_MiscellaneousNote": {
@@ -54057,7 +54057,7 @@
       "Mod": "Foxian League",
       "BasePrice": 100,
       "Category": "Books",
-      "Enabled": true,
+      "Enabled": false,
       "modactive": true
     },
     "FL_MysteriousNotes": {
@@ -54072,7 +54072,7 @@
       "Mod": "Foxian League",
       "BasePrice": 250,
       "Category": "Books",
-      "Enabled": true,
+      "Enabled": false,
       "modactive": true
     },
     "FL_Weapon_OfficerKatana": {
