@@ -2966,7 +2966,7 @@
     "BaseChance": 0.0,
     "MinTechLevel": null,
     "PointsScaleable": false,
-    "MinThreatPoints": -3.40282347E+38,
+    "MinThreatPoints": 3.40282347E+38,
     "MaxThreatPoints": 3.40282347E+38
   },
   "VSE_Reinforcements": {

@@ -19047,7 +19047,7 @@
       "Mod": "Royalty",
       "BasePrice": 2000,
       "Category": "Techprints",
-      "Enabled": true,
+      "Enabled": false,
       "modactive": true
     },
     "Techprint_FleshShaping": {
@@ -51310,7 +51310,7 @@
       "IsEquippable": false,
       "IsWearable": false,
       "Mod": "Core",
-      "BasePrice": 750,
+      "BasePrice": 1250,
       "Category": "Skilltrainers",
       "Enabled": true,
       "modactive": true
@@ -51325,7 +51325,7 @@
       "IsEquippable": false,
       "IsWearable": false,
       "Mod": "Core",
-      "BasePrice": 750,
+      "BasePrice": 1250,
       "Category": "Skilltrainers",
       "Enabled": true,
       "modactive": true
@@ -51340,7 +51340,7 @@
       "IsEquippable": false,
       "IsWearable": false,
       "Mod": "Core",
-      "BasePrice": 750,
+      "BasePrice": 1250,
       "Category": "Skilltrainers",
       "Enabled": true,
       "modactive": true
@@ -51355,7 +51355,7 @@
       "IsEquippable": false,
       "IsWearable": false,
       "Mod": "Core",
-      "BasePrice": 750,
+      "BasePrice": 1250,
       "Category": "Skilltrainers",
       "Enabled": true,
       "modactive": true
@@ -51370,7 +51370,7 @@
       "IsEquippable": false,
       "IsWearable": false,
       "Mod": "Core",
-      "BasePrice": 750,
+      "BasePrice": 1250,
       "Category": "Skilltrainers",
       "Enabled": true,
       "modactive": true
@@ -51385,7 +51385,7 @@
       "IsEquippable": false,
       "IsWearable": false,
       "Mod": "Core",
-      "BasePrice": 750,
+      "BasePrice": 1250,
       "Category": "Skilltrainers",
       "Enabled": true,
       "modactive": true
@@ -51400,7 +51400,7 @@
       "IsEquippable": false,
       "IsWearable": false,
       "Mod": "Core",
-      "BasePrice": 750,
+      "BasePrice": 1250,
       "Category": "Skilltrainers",
       "Enabled": true,
       "modactive": true
@@ -51415,7 +51415,7 @@
       "IsEquippable": false,
       "IsWearable": false,
       "Mod": "Core",
-      "BasePrice": 750,
+      "BasePrice": 1250,
       "Category": "Skilltrainers",
       "Enabled": true,
       "modactive": true
@@ -51430,7 +51430,7 @@
       "IsEquippable": false,
       "IsWearable": false,
       "Mod": "Core",
-      "BasePrice": 750,
+      "BasePrice": 1250,
       "Category": "Skilltrainers",
       "Enabled": true,
       "modactive": true
@@ -51445,7 +51445,7 @@
       "IsEquippable": false,
       "IsWearable": false,
       "Mod": "Core",
-      "BasePrice": 750,
+      "BasePrice": 1250,
       "Category": "Skilltrainers",
       "Enabled": true,
       "modactive": true
@@ -51460,7 +51460,7 @@
       "IsEquippable": false,
       "IsWearable": false,
       "Mod": "Core",
-      "BasePrice": 750,
+      "BasePrice": 1250,
       "Category": "Skilltrainers",
       "Enabled": true,
       "modactive": true
@@ -51475,7 +51475,7 @@
       "IsEquippable": false,
       "IsWearable": false,
       "Mod": "Core",
-      "BasePrice": 750,
+      "BasePrice": 1250,
       "Category": "Skilltrainers",
       "Enabled": true,
       "modactive": true
@@ -52525,7 +52525,7 @@
       "IsEquippable": false,
       "IsWearable": false,
       "Mod": "Vanilla Psycasts Expanded",
-      "BasePrice": 2000,
+      "BasePrice": 1250,
       "Category": "Psytrainers",
       "Enabled": true,
       "modactive": true
