@@ -1,0 +1,772 @@
+{
+  "total": 87,
+  "viewers": [
+    {
+      "username": "psalmlab",
+      "karma": 100,
+      "coins": 16599,
+      "isBanned": false,
+      "platformIds": {
+        "twitch": "31064787"
+      }
+    },
+    {
+      "username": "jasiia",
+      "karma": 200,
+      "coins": 37182,
+      "isBanned": false,
+      "platformIds": {
+        "twitch": "61383446"
+      }
+    },
+    {
+      "username": "brandodot",
+      "karma": 100,
+      "coins": 16253,
+      "isBanned": false,
+      "platformIds": {
+        "twitch": "138249825"
+      }
+    },
+    {
+      "username": "captolamia",
+      "karma": 200,
+      "coins": 9966,
+      "isBanned": false,
+      "platformIds": {
+        "twitch": "58513264"
+      }
+    },
+    {
+      "username": "madscientistslack",
+      "karma": 173,
+      "coins": 109516,
+      "isBanned": false,
+      "platformIds": {
+        "twitch": "630780103"
+      }
+    },
+    {
+      "username": "djsmoochum",
+      "karma": 200,
+      "coins": 71149,
+      "isBanned": false,
+      "platformIds": {
+        "twitch": "62132935"
+      }
+    },
+    {
+      "username": "tangiabot",
+      "karma": 100,
+      "coins": 64719,
+      "isBanned": false,
+      "platformIds": {
+        "twitch": "853402143"
+      }
+    },
+    {
+      "username": "ajozzy",
+      "karma": 200,
+      "coins": 19850,
+      "isBanned": false,
+      "platformIds": {
+        "twitch": "63934497"
+      }
+    },
+    {
+      "username": "dragoneye_eon",
+      "karma": 200,
+      "coins": 63195,
+      "isBanned": false,
+      "platformIds": {
+        "twitch": "38146719"
+      }
+    },
+    {
+      "username": "cartufer",
+      "karma": 100,
+      "coins": 15069,
+      "isBanned": false,
+      "platformIds": {
+        "twitch": "57024254"
+      }
+    },
+    {
+      "username": "chickenbootye",
+      "karma": 100,
+      "coins": 80538,
+      "isBanned": false,
+      "platformIds": {
+        "twitch": "906460884"
+      }
+    },
+    {
+      "username": "chipsgray",
+      "karma": 100,
+      "coins": 15069,
+      "isBanned": false,
+      "platformIds": {
+        "twitch": "40554511"
+      }
+    },
+    {
+      "username": "pipninja",
+      "karma": 100,
+      "coins": 15069,
+      "isBanned": false,
+      "platformIds": {
+        "twitch": "231137251"
+      }
+    },
+    {
+      "username": "pinky_gg",
+      "karma": 100,
+      "coins": 27034,
+      "isBanned": false,
+      "platformIds": {
+        "twitch": "510963109"
+      }
+    },
+    {
+      "username": "drpsychotic",
+      "karma": 100,
+      "coins": 15069,
+      "isBanned": false,
+      "platformIds": {
+        "twitch": "182849576"
+      }
+    },
+    {
+      "username": "niwibo",
+      "karma": 165,
+      "coins": 27903,
+      "isBanned": false,
+      "platformIds": {
+        "twitch": "1071424517"
+      }
+    },
+    {
+      "username": "apian79",
+      "karma": 100,
+      "coins": 15069,
+      "isBanned": false,
+      "platformIds": {
+        "twitch": "77461007"
+      }
+    },
+    {
+      "username": "benbratwurst",
+      "karma": 100,
+      "coins": 15069,
+      "isBanned": false,
+      "platformIds": {
+        "twitch": "53286462"
+      }
+    },
+    {
+      "username": "theroguefae",
+      "karma": 100,
+      "coins": 25214,
+      "isBanned": false,
+      "platformIds": {
+        "twitch": "130649009"
+      }
+    },
+    {
+      "username": "lodarius3",
+      "karma": 100,
+      "coins": 15069,
+      "isBanned": false,
+      "platformIds": {
+        "twitch": "259351716"
+      }
+    },
+    {
+      "username": "pilot_dave",
+      "karma": 200,
+      "coins": 89539,
+      "isBanned": false,
+      "platformIds": {
+        "twitch": "90221791"
+      }
+    },
+    {
+      "username": "tova_nator",
+      "karma": 119,
+      "coins": 50380,
+      "isBanned": false,
+      "platformIds": {
+        "twitch": "247303209"
+      }
+    },
+    {
+      "username": "dreamfinder11",
+      "karma": 100,
+      "coins": 15069,
+      "isBanned": false,
+      "platformIds": {
+        "twitch": "72245813"
+      }
+    },
+    {
+      "username": "aussieboylloyd",
+      "karma": 100,
+      "coins": 15069,
+      "isBanned": false,
+      "platformIds": {
+        "twitch": "501896055"
+      }
+    },
+    {
+      "username": "sleevespawns",
+      "karma": 200,
+      "coins": 44398,
+      "isBanned": false,
+      "platformIds": {
+        "twitch": "105709578"
+      }
+    },
+    {
+      "username": "fazer919",
+      "karma": 100,
+      "coins": 15069,
+      "isBanned": false,
+      "platformIds": {
+        "twitch": "532097559"
+      }
+    },
+    {
+      "username": "madscislack",
+      "karma": 100,
+      "coins": 17269,
+      "isBanned": false,
+      "platformIds": {
+        "twitch": "814298028"
+      }
+    },
+    {
+      "username": "eyecandyswish",
+      "karma": 100,
+      "coins": 15069,
+      "isBanned": false,
+      "platformIds": {
+        "twitch": "38922745"
+      }
+    },
+    {
+      "username": "scorpikin",
+      "karma": 100,
+      "coins": 15069,
+      "isBanned": false,
+      "platformIds": {
+        "twitch": "178172336"
+      }
+    },
+    {
+      "username": "antol2765",
+      "karma": 100,
+      "coins": 15069,
+      "isBanned": false,
+      "platformIds": {
+        "twitch": "28717881"
+      }
+    },
+    {
+      "username": "fortygg",
+      "karma": 100,
+      "coins": 15429,
+      "isBanned": false,
+      "platformIds": {
+        "twitch": "79032059"
+      }
+    },
+    {
+      "username": "koester",
+      "karma": 100,
+      "coins": 15069,
+      "isBanned": false,
+      "platformIds": {
+        "twitch": "61867939"
+      }
+    },
+    {
+      "username": "shadows_assassin",
+      "karma": 100,
+      "coins": 26384,
+      "isBanned": false,
+      "platformIds": {
+        "twitch": "76613818"
+      }
+    },
+    {
+      "username": "streamelements",
+      "karma": 100,
+      "coins": 56391,
+      "isBanned": false,
+      "platformIds": {
+        "twitch": "100135110"
+      }
+    },
+    {
+      "username": "thenamelessmirror",
+      "karma": 100,
+      "coins": 15069,
+      "isBanned": false,
+      "platformIds": {
+        "twitch": "234414238"
+      }
+    },
+    {
+      "username": "sittingcrown31",
+      "karma": 200,
+      "coins": 6518,
+      "isBanned": false,
+      "platformIds": {
+        "twitch": "490012111"
+      }
+    },
+    {
+      "username": "unholydmc",
+      "karma": 100,
+      "coins": 15069,
+      "isBanned": false,
+      "platformIds": {
+        "twitch": "30550277"
+      }
+    },
+    {
+      "username": "derniere_dante",
+      "karma": 100,
+      "coins": 15069,
+      "isBanned": false,
+      "platformIds": {
+        "twitch": "166943669"
+      }
+    },
+    {
+      "username": "alon_mcpe_king2021",
+      "karma": 200,
+      "coins": 9523,
+      "isBanned": false,
+      "platformIds": {
+        "twitch": "902608574"
+      }
+    },
+    {
+      "username": "prophet_nine",
+      "karma": 200,
+      "coins": 27890,
+      "isBanned": false,
+      "platformIds": {
+        "twitch": "224443388"
+      }
+    },
+    {
+      "username": "twitch:224443388",
+      "karma": 100,
+      "coins": 15069,
+      "isBanned": false,
+      "platformIds": {}
+    },
+    {
+      "username": "lenzarng",
+      "karma": 200,
+      "coins": 164471,
+      "isBanned": false,
+      "platformIds": {
+        "twitch": "97321737"
+      }
+    },
+    {
+      "username": "anemonerose",
+      "karma": 100,
+      "coins": 15069,
+      "isBanned": false,
+      "platformIds": {
+        "twitch": "167532532"
+      }
+    },
+    {
+      "username": "marigoldmagpies",
+      "karma": 100,
+      "coins": 15069,
+      "isBanned": false,
+      "platformIds": {
+        "twitch": "48764605"
+      }
+    },
+    {
+      "username": "keke3232",
+      "karma": 100,
+      "coins": 15069,
+      "isBanned": false,
+      "platformIds": {
+        "twitch": "487861117"
+      }
+    },
+    {
+      "username": "bagrond",
+      "karma": 100,
+      "coins": 15069,
+      "isBanned": false,
+      "platformIds": {
+        "twitch": "716319506"
+      }
+    },
+    {
+      "username": "amazinglibby",
+      "karma": 100,
+      "coins": 15069,
+      "isBanned": false,
+      "platformIds": {
+        "twitch": "174714182"
+      }
+    },
+    {
+      "username": "sonneillonz",
+      "karma": 100,
+      "coins": 15069,
+      "isBanned": false,
+      "platformIds": {
+        "twitch": "23121021"
+      }
+    },
+    {
+      "username": "grimeyedreaper",
+      "karma": 100,
+      "coins": 15069,
+      "isBanned": false,
+      "platformIds": {
+        "twitch": "124497682"
+      }
+    },
+    {
+      "username": "thinefeld",
+      "karma": 100,
+      "coins": 15069,
+      "isBanned": false,
+      "platformIds": {
+        "twitch": "1325494601"
+      }
+    },
+    {
+      "username": "poor_furry_justin_darling",
+      "karma": 200,
+      "coins": 28569,
+      "isBanned": false,
+      "platformIds": {
+        "twitch": "745181982"
+      }
+    },
+    {
+      "username": "imitamimica",
+      "karma": 100,
+      "coins": 15069,
+      "isBanned": false,
+      "platformIds": {
+        "twitch": "945157192"
+      }
+    },
+    {
+      "username": "chiefsvg",
+      "karma": 100,
+      "coins": 15069,
+      "isBanned": false,
+      "platformIds": {
+        "twitch": "32649935"
+      }
+    },
+    {
+      "username": "kloud_rebirth",
+      "karma": 100,
+      "coins": 15069,
+      "isBanned": false,
+      "platformIds": {
+        "twitch": "52396430"
+      }
+    },
+    {
+      "username": "theablegeek",
+      "karma": 100,
+      "coins": 15069,
+      "isBanned": false,
+      "platformIds": {
+        "twitch": "49686977"
+      }
+    },
+    {
+      "username": "verynasty1",
+      "karma": 100,
+      "coins": 15069,
+      "isBanned": false,
+      "platformIds": {
+        "twitch": "58742485"
+      }
+    },
+    {
+      "username": "danoweb",
+      "karma": 111,
+      "coins": 16554,
+      "isBanned": false,
+      "platformIds": {
+        "twitch": "104482149"
+      }
+    },
+    {
+      "username": "twitch:61383446",
+      "karma": 100,
+      "coins": 15069,
+      "isBanned": false,
+      "platformIds": {}
+    },
+    {
+      "username": "the_kubikle",
+      "karma": 200,
+      "coins": 78937,
+      "isBanned": false,
+      "platformIds": {
+        "twitch": "1351168131"
+      }
+    },
+    {
+      "username": "leetownage420",
+      "karma": 123,
+      "coins": 18174,
+      "isBanned": false,
+      "platformIds": {
+        "twitch": "105975666"
+      }
+    },
+    {
+      "username": "iya_ilene",
+      "karma": 100,
+      "coins": 15069,
+      "isBanned": false,
+      "platformIds": {
+        "twitch": "46417129"
+      }
+    },
+    {
+      "username": "benderisgreat_34_",
+      "karma": 200,
+      "coins": 32769,
+      "isBanned": false,
+      "platformIds": {
+        "twitch": "763697448"
+      }
+    },
+    {
+      "username": "drxlukas",
+      "karma": 100,
+      "coins": 15069,
+      "isBanned": false,
+      "platformIds": {
+        "twitch": "40008842"
+      }
+    },
+    {
+      "username": "streamlabs",
+      "karma": 100,
+      "coins": 15901,
+      "isBanned": false,
+      "platformIds": {
+        "twitch": "105166207"
+      }
+    },
+    {
+      "username": "shamziiwow",
+      "karma": 100,
+      "coins": 16599,
+      "isBanned": false,
+      "platformIds": {
+        "twitch": "46869841"
+      }
+    },
+    {
+      "username": "nctheadmiral",
+      "karma": 200,
+      "coins": 30925,
+      "isBanned": false,
+      "platformIds": {
+        "twitch": "36604942"
+      }
+    },
+    {
+      "username": "chmerity",
+      "karma": 100,
+      "coins": 15069,
+      "isBanned": false,
+      "platformIds": {
+        "twitch": "156661925"
+      }
+    },
+    {
+      "username": "tylerrdavis",
+      "karma": 100,
+      "coins": 15069,
+      "isBanned": false,
+      "platformIds": {
+        "twitch": "44347253"
+      }
+    },
+    {
+      "username": "tarkov",
+      "karma": 100,
+      "coins": 15069,
+      "isBanned": false,
+      "platformIds": {
+        "twitch": "189478238"
+      }
+    },
+    {
+      "username": "moridrex",
+      "karma": 100,
+      "coins": 15069,
+      "isBanned": false,
+      "platformIds": {
+        "twitch": "37014440"
+      }
+    },
+    {
+      "username": "sentientofearth",
+      "karma": 100,
+      "coins": 15069,
+      "isBanned": false,
+      "platformIds": {
+        "twitch": "85526275"
+      }
+    },
+    {
+      "username": "twitch:97321737",
+      "karma": 100,
+      "coins": 15169,
+      "isBanned": false,
+      "platformIds": {}
+    },
+    {
+      "username": "twitch:510963109",
+      "karma": 100,
+      "coins": 14969,
+      "isBanned": false,
+      "platformIds": {}
+    },
+    {
+      "username": "twitch:38146719",
+      "karma": 100,
+      "coins": 14969,
+      "isBanned": false,
+      "platformIds": {}
+    },
+    {
+      "username": "torimythachi",
+      "karma": 109,
+      "coins": 15106,
+      "isBanned": false,
+      "platformIds": {
+        "twitch": "43499112"
+      }
+    },
+    {
+      "username": "thelegendarysuperlesbian",
+      "karma": 200,
+      "coins": 46881,
+      "isBanned": false,
+      "platformIds": {
+        "twitch": "150084276"
+      }
+    },
+    {
+      "username": "c0b4ltl1ghtn1ng",
+      "karma": 100,
+      "coins": 14169,
+      "isBanned": false,
+      "platformIds": {
+        "twitch": "71110696"
+      }
+    },
+    {
+      "username": "elusivesmoke",
+      "karma": 200,
+      "coins": 17078,
+      "isBanned": false,
+      "platformIds": {
+        "twitch": "510989054"
+      }
+    },
+    {
+      "username": "twitch:62132935",
+      "karma": 100,
+      "coins": 11000,
+      "isBanned": false,
+      "platformIds": {}
+    },
+    {
+      "username": "twitch:63934497",
+      "karma": 100,
+      "coins": 10900,
+      "isBanned": false,
+      "platformIds": {}
+    },
+    {
+      "username": "xmzphantomx",
+      "karma": 100,
+      "coins": 8765,
+      "isBanned": false,
+      "platformIds": {
+        "twitch": "602991025"
+      }
+    },
+    {
+      "username": "twitch:247303209",
+      "karma": 100,
+      "coins": 6300,
+      "isBanned": false,
+      "platformIds": {}
+    },
+    {
+      "username": "simplesquaresim",
+      "karma": 103,
+      "coins": 31222,
+      "isBanned": false,
+      "platformIds": {
+        "twitch": "639987718"
+      }
+    },
+    {
+      "username": "emmathetaco23",
+      "karma": 100,
+      "coins": 5600,
+      "isBanned": false,
+      "platformIds": {
+        "twitch": "1355284772"
+      }
+    },
+    {
+      "username": "tribblebait",
+      "karma": 100,
+      "coins": 16419,
+      "isBanned": false,
+      "platformIds": {
+        "twitch": "179386336"
+      }
+    },
+    {
+      "username": "acolyte_tans",
+      "karma": 100,
+      "coins": 8809,
+      "isBanned": false,
+      "platformIds": {
+        "twitch": "35914229"
+      }
+    },
+    {
+      "username": "grapedactyl",
+      "karma": 100,
+      "coins": 4200,
+      "isBanned": false,
+      "platformIds": {
+        "twitch": "492978169"
+      }
+    }
+  ]
+}
