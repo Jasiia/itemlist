@@ -657,7 +657,7 @@
       "Mod": "Core",
       "BasePrice": 266,
       "Category": "Special",
-      "Enabled": false,
+      "Enabled": true,
       "modactive": true
     },
     "EggBox": {
@@ -5367,7 +5367,7 @@
       "Mod": "Biotech",
       "BasePrice": 1330,
       "Category": "Manufactured",
-      "Enabled": false,
+      "Enabled": true,
       "modactive": true
     },
     "SignalChip": {
@@ -5682,7 +5682,7 @@
       "Mod": "Anomaly",
       "BasePrice": 110,
       "Category": "Misc",
-      "Enabled": false,
+      "Enabled": true,
       "modactive": true
     },
     "DirtCubeSculpture": {
@@ -6040,9 +6040,9 @@
       "IsEquippable": false,
       "IsWearable": false,
       "Mod": "Anomaly",
-      "BasePrice": 1596,
+      "BasePrice": 100000,
       "Category": "Misc",
-      "Enabled": false,
+      "Enabled": true,
       "modactive": true
     },
     "MonolithFragment": {
@@ -6102,7 +6102,7 @@
       "Mod": "Anomaly",
       "BasePrice": 798,
       "Category": "Misc",
-      "Enabled": false,
+      "Enabled": true,
       "modactive": true
     },
     "NerveSpiker": {
@@ -6207,7 +6207,7 @@
       "Mod": "Odyssey",
       "BasePrice": 2000,
       "Category": "Misc",
-      "Enabled": false,
+      "Enabled": true,
       "modactive": true
     },
     "FuelOptimizer": {
@@ -6252,7 +6252,7 @@
       "Mod": "Odyssey",
       "BasePrice": 2000,
       "Category": "Misc",
-      "Enabled": false,
+      "Enabled": true,
       "modactive": true
     },
     "AncientMiningCharge": {
@@ -18582,7 +18582,7 @@
       "Mod": "Vanilla Ideology Expanded - Memes and Structures",
       "BasePrice": 638,
       "Category": "Security",
-      "Enabled": false,
+      "Enabled": true,
       "modactive": true
     },
     "VME_Obelisk": {
@@ -45972,7 +45972,7 @@
       "Mod": "Core",
       "BasePrice": 315,
       "Category": "Furniture",
-      "Enabled": false,
+      "Enabled": true,
       "modactive": true
     },
     "StandingLamp": {

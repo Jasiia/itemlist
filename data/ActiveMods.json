@@ -1,5 +1,5 @@
 {
-  "exportedAt": "2026-04-07T05:40:47.8465638Z",
+  "exportedAt": "2026-04-07T18:13:17.9763678Z",
   "totalActiveMods": 317,
   "mods": [
     {
@@ -403,6 +403,12 @@
       "name": "Dire Raids (Continued)",
       "steamId": "3259909708",
       "version": "1.6.0"
+    },
+    {
+      "author": "Dalgamor",
+      "name": "DLG. Genderless Royal apparel",
+      "steamId": "3640132931",
+      "version": null
     },
     {
       "author": "Toxic Yui",
@@ -1842,12 +1848,6 @@
       "author": "bodlosh",
       "name": "WeaponStats",
       "steamId": "974066449",
-      "version": null
-    },
-    {
-      "author": "RelaxedOtter",
-      "name": "Wear What You Want",
-      "steamId": "2079833048",
       "version": null
     },
     {
