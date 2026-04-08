@@ -1,6 +1,6 @@
 {
-  "exportedAt": "2026-04-07T18:13:17.9763678Z",
-  "totalActiveMods": 317,
+  "exportedAt": "2026-04-08T17:10:22.5394022Z",
+  "totalActiveMods": 325,
   "mods": [
     {
       "author": "Captolamia",
@@ -48,6 +48,12 @@
       "author": "KittahKhan",
       "name": "[Kit] Graze up",
       "steamId": "2302739121",
+      "version": null
+    },
+    {
+      "author": "Lusty",
+      "name": "[LM] Cowboy Hats Bloatended",
+      "steamId": "3688414599",
       "version": null
     },
     {
@@ -441,6 +447,12 @@
       "version": "1.6.0.2"
     },
     {
+      "author": "Gerrymon",
+      "name": "Dromas",
+      "steamId": "3665393436",
+      "version": null
+    },
+    {
       "author": "Meme Goddess",
       "name": "Dual Wield - Continued",
       "steamId": "3630049419",
@@ -705,6 +717,12 @@
       "version": null
     },
     {
+      "author": "Yyobov",
+      "name": "Layers: Capes and Armor",
+      "steamId": "3344566457",
+      "version": null
+    },
+    {
       "author": "Samael Gray",
       "name": "Livestock Traders",
       "steamId": "2960610215",
@@ -885,6 +903,12 @@
       "version": null
     },
     {
+      "author": "Veterano",
+      "name": "Mythic Ages: Megafauna Bestiary",
+      "steamId": "3537788184",
+      "version": "1.1.5"
+    },
+    {
       "author": "Andromeda",
       "name": "Nice Bill Tab",
       "steamId": "3520130671",
@@ -957,6 +981,12 @@
       "version": null
     },
     {
+      "author": "Turnovus",
+      "name": "Packs Are Not Belts",
+      "steamId": "2509511179",
+      "version": "2.5.0"
+    },
+    {
       "author": "Murmur",
       "name": "Pawn Name Variety (Continued)",
       "steamId": "3548290568",
@@ -1027,6 +1057,12 @@
       "name": "Recycle This (Continued)",
       "steamId": "3253550009",
       "version": "1.6.6"
+    },
+    {
+      "author": "Reel",
+      "name": "Reel's Expanded Storage",
+      "steamId": "3237638097",
+      "version": null
     },
     {
       "author": "Helixien",
@@ -1206,7 +1242,7 @@
       "author": "B4ttl3m3d (Dev),  Pumpkinlass (Art)",
       "name": "SimpleBabyCarry",
       "steamId": "3692756679",
-      "version": "1.6.2"
+      "version": "1.7.2"
     },
     {
       "author": "gomi,  b0unt9",
@@ -1659,10 +1695,22 @@
       "version": null
     },
     {
+      "author": "DANZEN",
+      "name": "Vanilla Psycast Expanded - Biotech Integration",
+      "steamId": "3110971925",
+      "version": null
+    },
+    {
       "author": "erdelf,  Oskar Potocki,  legodude17,  Taranchuk,  xrushha,  Sarg Bjornson,  Sir Van,  Reann Shepard",
       "name": "Vanilla Psycasts Expanded",
       "steamId": "2842502659",
       "version": null
+    },
+    {
+      "author": "Oskar Potocki,  Taranchuk,  Reann Shepard,  Sir Van",
+      "name": "Vanilla Psycasts Expanded - Hemosage",
+      "steamId": "2990596478",
+      "version": "1.0.2"
     },
     {
       "author": "Oskar Potocki,  Taranchuk,  Reann Shepard",

@@ -12,7 +12,7 @@
       "Mod": "Core",
       "BasePrice": 212,
       "Category": "Books",
-      "Enabled": false,
+      "Enabled": true,
       "modactive": true
     },
     "Schematic": {
@@ -27,7 +27,7 @@
       "Mod": "Core",
       "BasePrice": 199,
       "Category": "Books",
-      "Enabled": false,
+      "Enabled": true,
       "modactive": true
     },
     "Novel": {
@@ -42,7 +42,7 @@
       "Mod": "Core",
       "BasePrice": 212,
       "Category": "Books",
-      "Enabled": false,
+      "Enabled": true,
       "modactive": true
     },
     "Beer": {
@@ -222,7 +222,7 @@
       "Mod": "Core",
       "BasePrice": 123,
       "Category": "Furniture",
-      "Enabled": false,
+      "Enabled": true,
       "modactive": true
     },
     "DoubleBed": {
@@ -237,7 +237,7 @@
       "Mod": "Core",
       "BasePrice": 233,
       "Category": "Furniture",
-      "Enabled": false,
+      "Enabled": true,
       "modactive": true
     },
     "RoyalBed": {
@@ -267,7 +267,7 @@
       "Mod": "Core",
       "BasePrice": 109,
       "Category": "Furniture",
-      "Enabled": false,
+      "Enabled": true,
       "modactive": true
     },
     "BedrollDouble": {
@@ -282,7 +282,7 @@
       "Mod": "Core",
       "BasePrice": 231,
       "Category": "Furniture",
-      "Enabled": false,
+      "Enabled": true,
       "modactive": true
     },
     "AnimalSleepingBox": {
@@ -670,7 +670,7 @@
       "IsEquippable": false,
       "IsWearable": false,
       "Mod": "Core",
-      "BasePrice": 62,
+      "BasePrice": 47,
       "Category": "Misc",
       "Enabled": true,
       "modactive": true
@@ -685,7 +685,7 @@
       "IsEquippable": false,
       "IsWearable": false,
       "Mod": "Core",
-      "BasePrice": 532,
+      "BasePrice": 400,
       "Category": "Misc",
       "Enabled": true,
       "modactive": true
@@ -700,7 +700,7 @@
       "IsEquippable": false,
       "IsWearable": false,
       "Mod": "Core",
-      "BasePrice": 82,
+      "BasePrice": 62,
       "Category": "Misc",
       "Enabled": true,
       "modactive": true
@@ -717,7 +717,7 @@
       "Mod": "Core",
       "BasePrice": 66,
       "Category": "Special",
-      "Enabled": false,
+      "Enabled": true,
       "modactive": true
     },
     "TableSculpting": {
@@ -925,7 +925,7 @@
       "IsEquippable": false,
       "IsWearable": false,
       "Mod": "Core",
-      "BasePrice": 1330,
+      "BasePrice": 1000,
       "Category": "Misc",
       "Enabled": true,
       "modactive": true
@@ -972,7 +972,7 @@
       "Mod": "Core",
       "BasePrice": 31,
       "Category": "Meals",
-      "Enabled": false,
+      "Enabled": true,
       "modactive": true
     },
     "MealNutrientPaste": {
@@ -987,7 +987,7 @@
       "Mod": "Core",
       "BasePrice": 13,
       "Category": "Meals",
-      "Enabled": false,
+      "Enabled": true,
       "modactive": true
     },
     "MealSimple": {
@@ -1180,7 +1180,7 @@
       "IsEquippable": false,
       "IsWearable": false,
       "Mod": "Core",
-      "BasePrice": 6,
+      "BasePrice": 5,
       "Category": "Misc",
       "Enabled": true,
       "modactive": true
@@ -1570,7 +1570,7 @@
       "IsEquippable": false,
       "IsWearable": false,
       "Mod": "Core",
-      "BasePrice": 798,
+      "BasePrice": 600,
       "Category": "Misc",
       "Enabled": true,
       "modactive": true
@@ -3972,7 +3972,7 @@
       "Mod": "Royalty",
       "BasePrice": 532,
       "Category": "Special",
-      "Enabled": false,
+      "Enabled": true,
       "modactive": true
     },
     "NatureShrine_Small": {
@@ -3985,7 +3985,7 @@
       "IsEquippable": false,
       "IsWearable": false,
       "Mod": "Royalty",
-      "BasePrice": 472,
+      "BasePrice": 355,
       "Category": "Misc",
       "Enabled": true,
       "modactive": true
@@ -4000,7 +4000,7 @@
       "IsEquippable": false,
       "IsWearable": false,
       "Mod": "Royalty",
-      "BasePrice": 944,
+      "BasePrice": 710,
       "Category": "Misc",
       "Enabled": true,
       "modactive": true
@@ -4015,7 +4015,7 @@
       "IsEquippable": false,
       "IsWearable": false,
       "Mod": "Royalty",
-      "BasePrice": 200,
+      "BasePrice": 4960,
       "Category": "Misc",
       "Enabled": true,
       "modactive": true
@@ -4450,7 +4450,7 @@
       "IsEquippable": false,
       "IsWearable": false,
       "Mod": "Ideology",
-      "BasePrice": 210,
+      "BasePrice": 161,
       "Category": "Misc",
       "Enabled": true,
       "modactive": true
@@ -4465,7 +4465,7 @@
       "IsEquippable": false,
       "IsWearable": false,
       "Mod": "Ideology",
-      "BasePrice": 175,
+      "BasePrice": 132,
       "Category": "Misc",
       "Enabled": true,
       "modactive": true
@@ -4480,7 +4480,7 @@
       "IsEquippable": false,
       "IsWearable": false,
       "Mod": "Ideology",
-      "BasePrice": 142,
+      "BasePrice": 109,
       "Category": "Misc",
       "Enabled": true,
       "modactive": true
@@ -4495,7 +4495,7 @@
       "IsEquippable": false,
       "IsWearable": false,
       "Mod": "Ideology",
-      "BasePrice": 158,
+      "BasePrice": 120,
       "Category": "Misc",
       "Enabled": true,
       "modactive": true
@@ -4510,7 +4510,7 @@
       "IsEquippable": false,
       "IsWearable": false,
       "Mod": "Ideology",
-      "BasePrice": 183,
+      "BasePrice": 141,
       "Category": "Misc",
       "Enabled": true,
       "modactive": true
@@ -4525,7 +4525,7 @@
       "IsEquippable": false,
       "IsWearable": false,
       "Mod": "Ideology",
-      "BasePrice": 412,
+      "BasePrice": 315,
       "Category": "Misc",
       "Enabled": true,
       "modactive": true
@@ -4540,7 +4540,7 @@
       "IsEquippable": false,
       "IsWearable": false,
       "Mod": "Ideology",
-      "BasePrice": 217,
+      "BasePrice": 166,
       "Category": "Misc",
       "Enabled": true,
       "modactive": true
@@ -4555,7 +4555,7 @@
       "IsEquippable": false,
       "IsWearable": false,
       "Mod": "Ideology",
-      "BasePrice": 156,
+      "BasePrice": 118,
       "Category": "Misc",
       "Enabled": true,
       "modactive": true
@@ -4585,7 +4585,7 @@
       "IsEquippable": false,
       "IsWearable": false,
       "Mod": "Ideology",
-      "BasePrice": 167,
+      "BasePrice": 125,
       "Category": "Misc",
       "Enabled": true,
       "modactive": true
@@ -4705,7 +4705,7 @@
       "IsEquippable": false,
       "IsWearable": false,
       "Mod": "Ideology",
-      "BasePrice": 80,
+      "BasePrice": 60,
       "Category": "Misc",
       "Enabled": true,
       "modactive": true
@@ -5185,7 +5185,7 @@
       "IsEquippable": false,
       "IsWearable": false,
       "Mod": "Ideology",
-      "BasePrice": 93,
+      "BasePrice": 70,
       "Category": "Misc",
       "Enabled": true,
       "modactive": true
@@ -5275,7 +5275,7 @@
       "IsEquippable": false,
       "IsWearable": false,
       "Mod": "Biotech",
-      "BasePrice": 32,
+      "BasePrice": 24,
       "Category": "Misc",
       "Enabled": true,
       "modactive": true
@@ -5352,7 +5352,7 @@
       "Mod": "Biotech",
       "BasePrice": 399,
       "Category": "Manufactured",
-      "Enabled": false,
+      "Enabled": true,
       "modactive": true
     },
     "SubcoreHigh": {
@@ -5382,7 +5382,7 @@
       "Mod": "Biotech",
       "BasePrice": 665,
       "Category": "Manufactured",
-      "Enabled": false,
+      "Enabled": true,
       "modactive": true
     },
     "PowerfocusChip": {
@@ -5397,7 +5397,7 @@
       "Mod": "Biotech",
       "BasePrice": 1330,
       "Category": "Manufactured",
-      "Enabled": false,
+      "Enabled": true,
       "modactive": true
     },
     "NanostructuringChip": {
@@ -5412,7 +5412,7 @@
       "Mod": "Biotech",
       "BasePrice": 2000,
       "Category": "Manufactured",
-      "Enabled": false,
+      "Enabled": true,
       "modactive": true
     },
     "DeathrestCapacitySerum": {
@@ -5440,7 +5440,7 @@
       "IsEquippable": false,
       "IsWearable": false,
       "Mod": "Biotech",
-      "BasePrice": 133,
+      "BasePrice": 100,
       "Category": "Misc",
       "Enabled": true,
       "modactive": true
@@ -5455,9 +5455,9 @@
       "IsEquippable": false,
       "IsWearable": false,
       "Mod": "Biotech",
-      "BasePrice": 26,
+      "BasePrice": 19,
       "Category": "Misc",
-      "Enabled": false,
+      "Enabled": true,
       "modactive": true
     },
     "ArchiteCapsule": {
@@ -5470,7 +5470,7 @@
       "IsEquippable": false,
       "IsWearable": false,
       "Mod": "Biotech",
-      "BasePrice": 931,
+      "BasePrice": 700,
       "Category": "Misc",
       "Enabled": true,
       "modactive": true
@@ -5485,9 +5485,9 @@
       "IsEquippable": false,
       "IsWearable": false,
       "Mod": "Biotech",
-      "BasePrice": 66,
+      "BasePrice": 50,
       "Category": "Misc",
-      "Enabled": false,
+      "Enabled": true,
       "modactive": true
     },
     "HumanEmbryo": {
@@ -5500,9 +5500,9 @@
       "IsEquippable": false,
       "IsWearable": false,
       "Mod": "Biotech",
-      "BasePrice": 66,
+      "BasePrice": 50,
       "Category": "Misc",
-      "Enabled": false,
+      "Enabled": true,
       "modactive": true
     },
     "Apparel_KidRomper": {
@@ -5605,7 +5605,7 @@
       "IsEquippable": false,
       "IsWearable": false,
       "Mod": "Biotech",
-      "BasePrice": 1596,
+      "BasePrice": 1200,
       "Category": "Misc",
       "Enabled": true,
       "modactive": true
@@ -5667,7 +5667,7 @@
       "Mod": "Anomaly",
       "BasePrice": 332,
       "Category": "Books",
-      "Enabled": false,
+      "Enabled": true,
       "modactive": true
     },
     "HoldingPlatform": {
@@ -5680,7 +5680,7 @@
       "IsEquippable": false,
       "IsWearable": false,
       "Mod": "Anomaly",
-      "BasePrice": 110,
+      "BasePrice": 85,
       "Category": "Misc",
       "Enabled": true,
       "modactive": true
@@ -5755,9 +5755,9 @@
       "IsEquippable": false,
       "IsWearable": false,
       "Mod": "Anomaly",
-      "BasePrice": 177,
+      "BasePrice": 134,
       "Category": "Misc",
-      "Enabled": false,
+      "Enabled": true,
       "modactive": true
     },
     "ShardInhibitor": {
@@ -5770,9 +5770,9 @@
       "IsEquippable": false,
       "IsWearable": false,
       "Mod": "Anomaly",
-      "BasePrice": 571,
+      "BasePrice": 435,
       "Category": "Misc",
-      "Enabled": false,
+      "Enabled": true,
       "modactive": true
     },
     "ProximityDetector": {
@@ -5785,9 +5785,9 @@
       "IsEquippable": false,
       "IsWearable": false,
       "Mod": "Anomaly",
-      "BasePrice": 86,
+      "BasePrice": 64,
       "Category": "Misc",
-      "Enabled": false,
+      "Enabled": true,
       "modactive": true
     },
     "FrenzyInducer": {
@@ -5800,9 +5800,9 @@
       "IsEquippable": false,
       "IsWearable": false,
       "Mod": "Anomaly",
-      "BasePrice": 658,
+      "BasePrice": 495,
       "Category": "Misc",
-      "Enabled": false,
+      "Enabled": true,
       "modactive": true
     },
     "SleepSuppressor": {
@@ -5815,9 +5815,9 @@
       "IsEquippable": false,
       "IsWearable": false,
       "Mod": "Anomaly",
-      "BasePrice": 724,
+      "BasePrice": 545,
       "Category": "Misc",
-      "Enabled": false,
+      "Enabled": true,
       "modactive": true
     },
     "Electroharvester": {
@@ -5832,7 +5832,7 @@
       "Mod": "Anomaly",
       "BasePrice": 212,
       "Category": "Power",
-      "Enabled": false,
+      "Enabled": true,
       "modactive": true
     },
     "BioferriteShaper": {
@@ -5847,7 +5847,7 @@
       "Mod": "Anomaly",
       "BasePrice": 265,
       "Category": "Production",
-      "Enabled": false,
+      "Enabled": true,
       "modactive": true
     },
     "SerumCentrifuge": {
@@ -5862,7 +5862,7 @@
       "Mod": "Anomaly",
       "BasePrice": 964,
       "Category": "Production",
-      "Enabled": false,
+      "Enabled": true,
       "modactive": true
     },
     "BioferriteHarvester": {
@@ -5877,7 +5877,7 @@
       "Mod": "Anomaly",
       "BasePrice": 188,
       "Category": "Power",
-      "Enabled": false,
+      "Enabled": true,
       "modactive": true
     },
     "ShardBeacon": {
@@ -5890,9 +5890,9 @@
       "IsEquippable": false,
       "IsWearable": false,
       "Mod": "Anomaly",
-      "BasePrice": 565,
+      "BasePrice": 425,
       "Category": "Misc",
-      "Enabled": false,
+      "Enabled": true,
       "modactive": true
     },
     "VoidsightSerum": {
@@ -5907,7 +5907,7 @@
       "Mod": "Anomaly",
       "BasePrice": 79,
       "Category": "Drugs",
-      "Enabled": false,
+      "Enabled": true,
       "modactive": true
     },
     "MetalbloodSerum": {
@@ -5922,7 +5922,7 @@
       "Mod": "Anomaly",
       "BasePrice": 266,
       "Category": "Drugs",
-      "Enabled": false,
+      "Enabled": true,
       "modactive": true
     },
     "JuggernautSerum": {
@@ -5952,7 +5952,7 @@
       "Mod": "Anomaly",
       "BasePrice": 106,
       "Category": "Drugs",
-      "Enabled": false,
+      "Enabled": true,
       "modactive": true
     },
     "Bioferrite": {
@@ -5967,7 +5967,7 @@
       "Mod": "Anomaly",
       "BasePrice": 1,
       "Category": "Raw resources",
-      "Enabled": false,
+      "Enabled": true,
       "modactive": true
     },
     "Leather_Dread": {
@@ -5997,7 +5997,7 @@
       "Mod": "Anomaly",
       "BasePrice": 532,
       "Category": "Manufactured",
-      "Enabled": false,
+      "Enabled": true,
       "modactive": true
     },
     "RevenantSpine": {
@@ -6010,9 +6010,9 @@
       "IsEquippable": false,
       "IsWearable": false,
       "Mod": "Anomaly",
-      "BasePrice": 1330,
+      "BasePrice": 1000,
       "Category": "Misc",
-      "Enabled": false,
+      "Enabled": true,
       "modactive": true
     },
     "Meat_Twisted": {
@@ -6027,7 +6027,7 @@
       "Mod": "Anomaly",
       "BasePrice": 1,
       "Category": "Meat",
-      "Enabled": false,
+      "Enabled": true,
       "modactive": true
     },
     "GoldenCube": {
@@ -6040,7 +6040,7 @@
       "IsEquippable": false,
       "IsWearable": false,
       "Mod": "Anomaly",
-      "BasePrice": 100000,
+      "BasePrice": 1190,
       "Category": "Misc",
       "Enabled": true,
       "modactive": true
@@ -6057,7 +6057,7 @@
       "Mod": "Anomaly",
       "BasePrice": 2000,
       "Category": "Misc",
-      "Enabled": false,
+      "Enabled": true,
       "modactive": true
     },
     "Apparel_CultistMask": {
@@ -6100,7 +6100,7 @@
       "IsEquippable": false,
       "IsWearable": false,
       "Mod": "Anomaly",
-      "BasePrice": 798,
+      "BasePrice": 600,
       "Category": "Misc",
       "Enabled": true,
       "modactive": true
@@ -6117,7 +6117,7 @@
       "Mod": "Anomaly",
       "BasePrice": 82,
       "Category": "Weapon",
-      "Enabled": false,
+      "Enabled": true,
       "modactive": true
     },
     "Map": {
@@ -6132,7 +6132,7 @@
       "Mod": "Odyssey",
       "BasePrice": 239,
       "Category": "Books",
-      "Enabled": false,
+      "Enabled": true,
       "modactive": true
     },
     "Drug_Psilocap": {
@@ -6220,9 +6220,9 @@
       "IsEquippable": false,
       "IsWearable": false,
       "Mod": "Odyssey",
-      "BasePrice": 2000,
+      "BasePrice": 1555,
       "Category": "Misc",
-      "Enabled": false,
+      "Enabled": true,
       "modactive": true
     },
     "PilotSubpersonaCore": {
@@ -6235,9 +6235,9 @@
       "IsEquippable": false,
       "IsWearable": false,
       "Mod": "Odyssey",
-      "BasePrice": 1296,
+      "BasePrice": 980,
       "Category": "Misc",
-      "Enabled": false,
+      "Enabled": true,
       "modactive": true
     },
     "GravshipShieldGenerator": {
@@ -6250,7 +6250,7 @@
       "IsEquippable": false,
       "IsWearable": false,
       "Mod": "Odyssey",
-      "BasePrice": 2000,
+      "BasePrice": 2310,
       "Category": "Misc",
       "Enabled": true,
       "modactive": true
@@ -6265,9 +6265,9 @@
       "IsEquippable": false,
       "IsWearable": false,
       "Mod": "Odyssey",
-      "BasePrice": 14,
+      "BasePrice": 10,
       "Category": "Misc",
-      "Enabled": false,
+      "Enabled": true,
       "modactive": true
     },
     "WaspDroneTrap": {
@@ -6282,7 +6282,7 @@
       "Mod": "Odyssey",
       "BasePrice": 106,
       "Category": "Security",
-      "Enabled": false,
+      "Enabled": true,
       "modactive": true
     },
     "MastodonTusk": {
@@ -6327,7 +6327,7 @@
       "Mod": "Odyssey",
       "BasePrice": 532,
       "Category": "Drugs",
-      "Enabled": false,
+      "Enabled": true,
       "modactive": true
     },
     "EggMonitorLizardFertilized": {
@@ -7135,7 +7135,7 @@
       "IsEquippable": false,
       "IsWearable": false,
       "Mod": "Odyssey",
-      "BasePrice": 864,
+      "BasePrice": 645,
       "Category": "Misc",
       "Enabled": true,
       "modactive": true
@@ -8547,7 +8547,7 @@
       "Mod": "Vanilla Furniture Expanded",
       "BasePrice": 69,
       "Category": "Furniture",
-      "Enabled": false,
+      "Enabled": true,
       "modactive": true
     },
     "Bed_Kingsize": {
@@ -15671,7 +15671,7 @@
       "IsWearable": false,
       "Mod": "Mythic Ages: Megafauna Bestiary",
       "BasePrice": 6,
-      "Category": "Metallics",
+      "Category": "Raw resources",
       "Enabled": true,
       "modactive": true
     },
@@ -15686,7 +15686,7 @@
       "IsWearable": false,
       "Mod": "Mythic Ages: Megafauna Bestiary",
       "BasePrice": 9,
-      "Category": "Metallics",
+      "Category": "Raw resources",
       "Enabled": true,
       "modactive": true
     },
@@ -18325,7 +18325,7 @@
       "IsEquippable": false,
       "IsWearable": false,
       "Mod": "Vanilla Hair Expanded",
-      "BasePrice": 262,
+      "BasePrice": 198,
       "Category": "Misc",
       "Enabled": true,
       "modactive": true
@@ -18550,7 +18550,7 @@
       "IsEquippable": false,
       "IsWearable": false,
       "Mod": "Vanilla Ideology Expanded - Memes and Structures",
-      "BasePrice": 142,
+      "BasePrice": 109,
       "Category": "Misc",
       "Enabled": true,
       "modactive": true
@@ -18565,7 +18565,7 @@
       "IsEquippable": false,
       "IsWearable": false,
       "Mod": "Vanilla Ideology Expanded - Memes and Structures",
-      "BasePrice": 665,
+      "BasePrice": 515,
       "Category": "Misc",
       "Enabled": true,
       "modactive": true
@@ -18595,7 +18595,7 @@
       "IsEquippable": false,
       "IsWearable": false,
       "Mod": "Vanilla Ideology Expanded - Memes and Structures",
-      "BasePrice": 292,
+      "BasePrice": 220,
       "Category": "Misc",
       "Enabled": true,
       "modactive": true
@@ -18729,7 +18729,7 @@
       "IsUsable": false,
       "IsEquippable": false,
       "IsWearable": false,
-      "Mod": "Vanilla Furniture Expanded",
+      "Mod": "RimWorld",
       "BasePrice": 227,
       "Category": "Furniture",
       "Enabled": true,
@@ -18744,7 +18744,7 @@
       "IsUsable": false,
       "IsEquippable": false,
       "IsWearable": false,
-      "Mod": "Vanilla Furniture Expanded",
+      "Mod": "RimWorld",
       "BasePrice": 937,
       "Category": "Furniture",
       "Enabled": true,
@@ -18759,7 +18759,7 @@
       "IsUsable": false,
       "IsEquippable": false,
       "IsWearable": false,
-      "Mod": "Vanilla Furniture Expanded",
+      "Mod": "RimWorld",
       "BasePrice": 911,
       "Category": "Furniture",
       "Enabled": true,
@@ -19047,7 +19047,7 @@
       "Mod": "Royalty",
       "BasePrice": 2000,
       "Category": "Techprints",
-      "Enabled": false,
+      "Enabled": true,
       "modactive": true
     },
     "Techprint_FleshShaping": {
@@ -19107,7 +19107,7 @@
       "Mod": "Character Editor",
       "BasePrice": 2000,
       "Category": "Misc",
-      "Enabled": false,
+      "Enabled": true,
       "modactive": true
     },
     "Zombgrella": {
@@ -19120,9 +19120,9 @@
       "IsEquippable": false,
       "IsWearable": false,
       "Mod": "Character Editor",
-      "BasePrice": 512,
+      "BasePrice": 390,
       "Category": "Misc",
-      "Enabled": false,
+      "Enabled": true,
       "modactive": true
     },
     "RG_Hemolope": {
@@ -20667,7 +20667,7 @@
       "Mod": "Core",
       "BasePrice": 1200,
       "Category": "Mechs",
-      "Enabled": false,
+      "Enabled": true,
       "modactive": true
     },
     "Mech_CentipedeGunner": {
@@ -20682,7 +20682,7 @@
       "Mod": "Core",
       "BasePrice": 1200,
       "Category": "Mechs",
-      "Enabled": false,
+      "Enabled": true,
       "modactive": true
     },
     "Mech_CentipedeBurner": {
@@ -20697,7 +20697,7 @@
       "Mod": "Core",
       "BasePrice": 1200,
       "Category": "Mechs",
-      "Enabled": false,
+      "Enabled": true,
       "modactive": true
     },
     "Mech_Lancer": {
@@ -20712,7 +20712,7 @@
       "Mod": "Core",
       "BasePrice": 1200,
       "Category": "Mechs",
-      "Enabled": false,
+      "Enabled": true,
       "modactive": true
     },
     "Mech_Scyther": {
@@ -20727,7 +20727,7 @@
       "Mod": "Core",
       "BasePrice": 1200,
       "Category": "Mechs",
-      "Enabled": false,
+      "Enabled": true,
       "modactive": true
     },
     "Mech_Pikeman": {
@@ -20742,7 +20742,7 @@
       "Mod": "Core",
       "BasePrice": 1200,
       "Category": "Mechs",
-      "Enabled": false,
+      "Enabled": true,
       "modactive": true
     },
     "Mech_Termite": {
@@ -20757,7 +20757,7 @@
       "Mod": "Core",
       "BasePrice": 1200,
       "Category": "Mechs",
-      "Enabled": false,
+      "Enabled": true,
       "modactive": true
     },
     "MechanoidTransponder": {
@@ -20772,7 +20772,7 @@
       "Mod": "Biotech",
       "BasePrice": 200,
       "Category": "Misc",
-      "Enabled": false,
+      "Enabled": true,
       "modactive": true
     },
     "Mech_Tunneler": {
@@ -20787,7 +20787,7 @@
       "Mod": "Biotech",
       "BasePrice": 1200,
       "Category": "Mechs",
-      "Enabled": false,
+      "Enabled": true,
       "modactive": true
     },
     "Mech_Militor": {
@@ -20802,7 +20802,7 @@
       "Mod": "Biotech",
       "BasePrice": 800,
       "Category": "Mechs",
-      "Enabled": false,
+      "Enabled": true,
       "modactive": true
     },
     "Mech_Lifter": {
@@ -20817,7 +20817,7 @@
       "Mod": "Biotech",
       "BasePrice": 800,
       "Category": "Mechs",
-      "Enabled": false,
+      "Enabled": true,
       "modactive": true
     },
     "Mech_Constructoid": {
@@ -20832,7 +20832,7 @@
       "Mod": "Biotech",
       "BasePrice": 800,
       "Category": "Mechs",
-      "Enabled": false,
+      "Enabled": true,
       "modactive": true
     },
     "Mech_Fabricor": {
@@ -20847,7 +20847,7 @@
       "Mod": "Biotech",
       "BasePrice": 800,
       "Category": "Mechs",
-      "Enabled": false,
+      "Enabled": true,
       "modactive": true
     },
     "Mech_Agrihand": {
@@ -20862,7 +20862,7 @@
       "Mod": "Biotech",
       "BasePrice": 800,
       "Category": "Mechs",
-      "Enabled": false,
+      "Enabled": true,
       "modactive": true
     },
     "Mech_Cleansweeper": {
@@ -20877,7 +20877,7 @@
       "Mod": "Biotech",
       "BasePrice": 800,
       "Category": "Mechs",
-      "Enabled": false,
+      "Enabled": true,
       "modactive": true
     },
     "Mech_WarUrchin": {
@@ -20892,7 +20892,7 @@
       "Mod": "Biotech",
       "BasePrice": 800,
       "Category": "Mechs",
-      "Enabled": false,
+      "Enabled": true,
       "modactive": true
     },
     "Mech_Paramedic": {
@@ -20907,7 +20907,7 @@
       "Mod": "Biotech",
       "BasePrice": 800,
       "Category": "Mechs",
-      "Enabled": false,
+      "Enabled": true,
       "modactive": true
     },
     "Mech_Legionary": {
@@ -20922,7 +20922,7 @@
       "Mod": "Biotech",
       "BasePrice": 1200,
       "Category": "Mechs",
-      "Enabled": false,
+      "Enabled": true,
       "modactive": true
     },
     "Mech_Tesseron": {
@@ -20937,7 +20937,7 @@
       "Mod": "Biotech",
       "BasePrice": 1200,
       "Category": "Mechs",
-      "Enabled": false,
+      "Enabled": true,
       "modactive": true
     },
     "Mech_Scorcher": {
@@ -20952,7 +20952,7 @@
       "Mod": "Biotech",
       "BasePrice": 1200,
       "Category": "Mechs",
-      "Enabled": false,
+      "Enabled": true,
       "modactive": true
     },
     "Mech_Apocriton": {
@@ -20967,7 +20967,7 @@
       "Mod": "Biotech",
       "BasePrice": 1600,
       "Category": "Mechs",
-      "Enabled": false,
+      "Enabled": true,
       "modactive": true
     },
     "Mech_Centurion": {
@@ -20982,7 +20982,7 @@
       "Mod": "Biotech",
       "BasePrice": 1600,
       "Category": "Mechs",
-      "Enabled": false,
+      "Enabled": true,
       "modactive": true
     },
     "Mech_Warqueen": {
@@ -20997,7 +20997,7 @@
       "Mod": "Biotech",
       "BasePrice": 1600,
       "Category": "Mechs",
-      "Enabled": false,
+      "Enabled": true,
       "modactive": true
     },
     "Mech_Diabolus": {
@@ -21012,7 +21012,7 @@
       "Mod": "Biotech",
       "BasePrice": 1600,
       "Category": "Mechs",
-      "Enabled": false,
+      "Enabled": true,
       "modactive": true
     },
     "VoidSculpture": {
@@ -21057,7 +21057,7 @@
       "Mod": "Odyssey",
       "BasePrice": 1200,
       "Category": "Misc",
-      "Enabled": false,
+      "Enabled": true,
       "modactive": true
     },
     "Drone_Sentry": {
@@ -21072,7 +21072,7 @@
       "Mod": "Odyssey",
       "BasePrice": 1200,
       "Category": "Misc",
-      "Enabled": false,
+      "Enabled": true,
       "modactive": true
     },
     "Mech_Cyclops": {
@@ -21087,7 +21087,7 @@
       "Mod": "Odyssey",
       "BasePrice": 1200,
       "Category": "Mechs",
-      "Enabled": false,
+      "Enabled": true,
       "modactive": true
     },
     "VME_FleshcraftedArm": {
@@ -21102,7 +21102,7 @@
       "Mod": "Vanilla Ideology Expanded - Memes and Structures",
       "BasePrice": 45,
       "Category": "Natural",
-      "Enabled": false,
+      "Enabled": true,
       "modactive": true
     },
     "VME_FleshcraftedHand": {
@@ -21117,7 +21117,7 @@
       "Mod": "Vanilla Ideology Expanded - Memes and Structures",
       "BasePrice": 45,
       "Category": "Natural",
-      "Enabled": false,
+      "Enabled": true,
       "modactive": true
     },
     "VME_FleshcraftedFinger": {
@@ -21132,7 +21132,7 @@
       "Mod": "Vanilla Ideology Expanded - Memes and Structures",
       "BasePrice": 45,
       "Category": "Natural",
-      "Enabled": false,
+      "Enabled": true,
       "modactive": true
     },
     "VME_FleshcraftedToe": {
@@ -21147,7 +21147,7 @@
       "Mod": "Vanilla Ideology Expanded - Memes and Structures",
       "BasePrice": 45,
       "Category": "Natural",
-      "Enabled": false,
+      "Enabled": true,
       "modactive": true
     },
     "VME_FleshcraftedFoot": {
@@ -21162,7 +21162,7 @@
       "Mod": "Vanilla Ideology Expanded - Memes and Structures",
       "BasePrice": 45,
       "Category": "Natural",
-      "Enabled": false,
+      "Enabled": true,
       "modactive": true
     },
     "VME_FleshcraftedLeg": {
@@ -21177,7 +21177,7 @@
       "Mod": "Vanilla Ideology Expanded - Memes and Structures",
       "BasePrice": 45,
       "Category": "Natural",
-      "Enabled": false,
+      "Enabled": true,
       "modactive": true
     },
     "VME_FleshcraftedHeart": {
@@ -21192,7 +21192,7 @@
       "Mod": "Vanilla Ideology Expanded - Memes and Structures",
       "BasePrice": 45,
       "Category": "Natural",
-      "Enabled": false,
+      "Enabled": true,
       "modactive": true
     },
     "VME_FleshcraftedLung": {
@@ -21207,7 +21207,7 @@
       "Mod": "Vanilla Ideology Expanded - Memes and Structures",
       "BasePrice": 45,
       "Category": "Natural",
-      "Enabled": false,
+      "Enabled": true,
       "modactive": true
     },
     "VME_FleshcraftedKidney": {
@@ -21222,7 +21222,7 @@
       "Mod": "Vanilla Ideology Expanded - Memes and Structures",
       "BasePrice": 45,
       "Category": "Natural",
-      "Enabled": false,
+      "Enabled": true,
       "modactive": true
     },
     "VME_FleshcraftedLiver": {
@@ -21237,7 +21237,7 @@
       "Mod": "Vanilla Ideology Expanded - Memes and Structures",
       "BasePrice": 45,
       "Category": "Natural",
-      "Enabled": false,
+      "Enabled": true,
       "modactive": true
     },
     "VME_FleshcraftedEye": {
@@ -21252,7 +21252,7 @@
       "Mod": "Vanilla Ideology Expanded - Memes and Structures",
       "BasePrice": 45,
       "Category": "Natural",
-      "Enabled": false,
+      "Enabled": true,
       "modactive": true
     },
     "VME_FleshcraftedEar": {
@@ -21267,7 +21267,7 @@
       "Mod": "Vanilla Ideology Expanded - Memes and Structures",
       "BasePrice": 45,
       "Category": "Natural",
-      "Enabled": false,
+      "Enabled": true,
       "modactive": true
     },
     "VME_FleshcraftedNose": {
@@ -21282,7 +21282,7 @@
       "Mod": "Vanilla Ideology Expanded - Memes and Structures",
       "BasePrice": 45,
       "Category": "Natural",
-      "Enabled": false,
+      "Enabled": true,
       "modactive": true
     },
     "VME_FleshcraftedJaw": {
@@ -21297,7 +21297,7 @@
       "Mod": "Vanilla Ideology Expanded - Memes and Structures",
       "BasePrice": 45,
       "Category": "Natural",
-      "Enabled": false,
+      "Enabled": true,
       "modactive": true
     },
     "VME_FleshcraftedStomach": {
@@ -21312,7 +21312,7 @@
       "Mod": "Vanilla Ideology Expanded - Memes and Structures",
       "BasePrice": 45,
       "Category": "Natural",
-      "Enabled": false,
+      "Enabled": true,
       "modactive": true
     },
     "VME_FleshcraftedTongue": {
@@ -21327,7 +21327,7 @@
       "Mod": "Vanilla Ideology Expanded - Memes and Structures",
       "BasePrice": 45,
       "Category": "Natural",
-      "Enabled": false,
+      "Enabled": true,
       "modactive": true
     },
     "VME_FleshcraftedSpine": {
@@ -21342,7 +21342,7 @@
       "Mod": "Vanilla Ideology Expanded - Memes and Structures",
       "BasePrice": 45,
       "Category": "Natural",
-      "Enabled": false,
+      "Enabled": true,
       "modactive": true
     },
     "VME_AncientSystemRack": {
@@ -21357,7 +21357,7 @@
       "Mod": "Vanilla Ideology Expanded - Memes and Structures",
       "BasePrice": 5,
       "Category": "Misc",
-      "Enabled": false,
+      "Enabled": true,
       "modactive": true
     },
     "VME_AncientEquipmentBlocks": {
@@ -21387,7 +21387,7 @@
       "Mod": "Vanilla Ideology Expanded - Memes and Structures",
       "BasePrice": 10,
       "Category": "Misc",
-      "Enabled": false,
+      "Enabled": true,
       "modactive": true
     },
     "VME_AncientStorageCylinder": {
@@ -21402,7 +21402,7 @@
       "Mod": "Vanilla Ideology Expanded - Memes and Structures",
       "BasePrice": 7,
       "Category": "Misc",
-      "Enabled": false,
+      "Enabled": true,
       "modactive": true
     },
     "VME_AncientBed": {
@@ -21417,7 +21417,7 @@
       "Mod": "Vanilla Ideology Expanded - Memes and Structures",
       "BasePrice": 2,
       "Category": "Misc",
-      "Enabled": false,
+      "Enabled": true,
       "modactive": true
     },
     "VME_AncientDisplayBank": {
@@ -21447,7 +21447,7 @@
       "Mod": "Vanilla Ideology Expanded - Memes and Structures",
       "BasePrice": 3,
       "Category": "Misc",
-      "Enabled": false,
+      "Enabled": true,
       "modactive": true
     },
     "VME_AncientCrate": {
@@ -21477,7 +21477,7 @@
       "Mod": "Vanilla Ideology Expanded - Memes and Structures",
       "BasePrice": 1,
       "Category": "Misc",
-      "Enabled": false,
+      "Enabled": true,
       "modactive": true
     },
     "VME_AncientSpacerCrate": {
@@ -21492,7 +21492,7 @@
       "Mod": "Vanilla Ideology Expanded - Memes and Structures",
       "BasePrice": 1,
       "Category": "Misc",
-      "Enabled": false,
+      "Enabled": true,
       "modactive": true
     },
     "VME_AncientBarrel": {
@@ -21505,7 +21505,7 @@
       "IsEquippable": false,
       "IsWearable": false,
       "Mod": "Vanilla Ideology Expanded - Memes and Structures",
-      "BasePrice": 1,
+      "BasePrice": 0,
       "Category": "Misc",
       "Enabled": true,
       "modactive": true
@@ -21520,9 +21520,9 @@
       "IsEquippable": false,
       "IsWearable": false,
       "Mod": "Vanilla Ideology Expanded - Memes and Structures",
-      "BasePrice": 1,
+      "BasePrice": 0,
       "Category": "Misc",
-      "Enabled": false,
+      "Enabled": true,
       "modactive": true
     },
     "VME_AncientOperatingTable": {
@@ -21535,9 +21535,9 @@
       "IsEquippable": false,
       "IsWearable": false,
       "Mod": "Vanilla Ideology Expanded - Memes and Structures",
-      "BasePrice": 1,
+      "BasePrice": 0,
       "Category": "Misc",
-      "Enabled": false,
+      "Enabled": true,
       "modactive": true
     },
     "VME_AncientShoppingCart": {
@@ -21550,9 +21550,9 @@
       "IsEquippable": false,
       "IsWearable": false,
       "Mod": "Vanilla Ideology Expanded - Memes and Structures",
-      "BasePrice": 1,
+      "BasePrice": 0,
       "Category": "Misc",
-      "Enabled": false,
+      "Enabled": true,
       "modactive": true
     },
     "VME_AncientPostbox": {
@@ -21565,9 +21565,9 @@
       "IsEquippable": false,
       "IsWearable": false,
       "Mod": "Vanilla Ideology Expanded - Memes and Structures",
-      "BasePrice": 1,
+      "BasePrice": 0,
       "Category": "Misc",
-      "Enabled": false,
+      "Enabled": true,
       "modactive": true
     },
     "VME_AncientVendingMachine": {
@@ -21580,9 +21580,9 @@
       "IsEquippable": false,
       "IsWearable": false,
       "Mod": "Vanilla Ideology Expanded - Memes and Structures",
-      "BasePrice": 1,
+      "BasePrice": 0,
       "Category": "Misc",
-      "Enabled": false,
+      "Enabled": true,
       "modactive": true
     },
     "VME_AncientAirConditioner": {
@@ -21595,9 +21595,9 @@
       "IsEquippable": false,
       "IsWearable": false,
       "Mod": "Vanilla Ideology Expanded - Memes and Structures",
-      "BasePrice": 1,
+      "BasePrice": 0,
       "Category": "Misc",
-      "Enabled": false,
+      "Enabled": true,
       "modactive": true
     },
     "VME_AncientKitchenSink": {
@@ -21610,9 +21610,9 @@
       "IsEquippable": false,
       "IsWearable": false,
       "Mod": "Vanilla Ideology Expanded - Memes and Structures",
-      "BasePrice": 1,
+      "BasePrice": 0,
       "Category": "Misc",
-      "Enabled": false,
+      "Enabled": true,
       "modactive": true
     },
     "VME_AncientStove": {
@@ -21625,9 +21625,9 @@
       "IsEquippable": false,
       "IsWearable": false,
       "Mod": "Vanilla Ideology Expanded - Memes and Structures",
-      "BasePrice": 1,
+      "BasePrice": 0,
       "Category": "Misc",
-      "Enabled": false,
+      "Enabled": true,
       "modactive": true
     },
     "VME_AncientOven": {
@@ -21640,9 +21640,9 @@
       "IsEquippable": false,
       "IsWearable": false,
       "Mod": "Vanilla Ideology Expanded - Memes and Structures",
-      "BasePrice": 1,
+      "BasePrice": 0,
       "Category": "Misc",
-      "Enabled": false,
+      "Enabled": true,
       "modactive": true
     },
     "VME_AncientATM": {
@@ -21655,9 +21655,9 @@
       "IsEquippable": false,
       "IsWearable": false,
       "Mod": "Vanilla Ideology Expanded - Memes and Structures",
-      "BasePrice": 1,
+      "BasePrice": 0,
       "Category": "Misc",
-      "Enabled": false,
+      "Enabled": true,
       "modactive": true
     },
     "VME_AncientWashingMachine": {
@@ -21670,9 +21670,9 @@
       "IsEquippable": false,
       "IsWearable": false,
       "Mod": "Vanilla Ideology Expanded - Memes and Structures",
-      "BasePrice": 1,
+      "BasePrice": 0,
       "Category": "Misc",
-      "Enabled": false,
+      "Enabled": true,
       "modactive": true
     },
     "VME_AncientHydrant": {
@@ -21685,9 +21685,9 @@
       "IsEquippable": false,
       "IsWearable": false,
       "Mod": "Vanilla Ideology Expanded - Memes and Structures",
-      "BasePrice": 1,
+      "BasePrice": 0,
       "Category": "Misc",
-      "Enabled": false,
+      "Enabled": true,
       "modactive": true
     },
     "VME_AncientMicrowave": {
@@ -21700,9 +21700,9 @@
       "IsEquippable": false,
       "IsWearable": false,
       "Mod": "Vanilla Ideology Expanded - Memes and Structures",
-      "BasePrice": 1,
+      "BasePrice": 0,
       "Category": "Misc",
-      "Enabled": false,
+      "Enabled": true,
       "modactive": true
     },
     "VME_AncientToilet": {
@@ -21715,9 +21715,9 @@
       "IsEquippable": false,
       "IsWearable": false,
       "Mod": "Vanilla Ideology Expanded - Memes and Structures",
-      "BasePrice": 1,
+      "BasePrice": 0,
       "Category": "Misc",
-      "Enabled": false,
+      "Enabled": true,
       "modactive": true
     },
     "VME_AncientRefrigerator": {
@@ -21730,9 +21730,9 @@
       "IsEquippable": false,
       "IsWearable": false,
       "Mod": "Vanilla Ideology Expanded - Memes and Structures",
-      "BasePrice": 1,
+      "BasePrice": 0,
       "Category": "Misc",
-      "Enabled": false,
+      "Enabled": true,
       "modactive": true
     },
     "VME_AncientSmallCrate": {
@@ -21745,9 +21745,9 @@
       "IsEquippable": false,
       "IsWearable": false,
       "Mod": "Vanilla Ideology Expanded - Memes and Structures",
-      "BasePrice": 1,
+      "BasePrice": 0,
       "Category": "Misc",
-      "Enabled": false,
+      "Enabled": true,
       "modactive": true
     },
     "VME_AncientLongCrate": {
@@ -21760,9 +21760,9 @@
       "IsEquippable": false,
       "IsWearable": false,
       "Mod": "Vanilla Ideology Expanded - Memes and Structures",
-      "BasePrice": 1,
+      "BasePrice": 0,
       "Category": "Misc",
-      "Enabled": false,
+      "Enabled": true,
       "modactive": true
     },
     "VME_AncientLargeCrate": {
@@ -21775,9 +21775,9 @@
       "IsEquippable": false,
       "IsWearable": false,
       "Mod": "Vanilla Ideology Expanded - Memes and Structures",
-      "BasePrice": 1,
+      "BasePrice": 0,
       "Category": "Misc",
-      "Enabled": false,
+      "Enabled": true,
       "modactive": true
     },
     "VME_AncientWheel": {
@@ -21790,9 +21790,9 @@
       "IsEquippable": false,
       "IsWearable": false,
       "Mod": "Vanilla Ideology Expanded - Memes and Structures",
-      "BasePrice": 1,
+      "BasePrice": 0,
       "Category": "Misc",
-      "Enabled": false,
+      "Enabled": true,
       "modactive": true
     },
     "VME_AncientGiantWheel": {
@@ -21805,9 +21805,9 @@
       "IsEquippable": false,
       "IsWearable": false,
       "Mod": "Vanilla Ideology Expanded - Memes and Structures",
-      "BasePrice": 1,
+      "BasePrice": 0,
       "Category": "Misc",
-      "Enabled": false,
+      "Enabled": true,
       "modactive": true
     },
     "VME_AncientRustedCar": {
@@ -21822,7 +21822,7 @@
       "Mod": "Vanilla Ideology Expanded - Memes and Structures",
       "BasePrice": 10,
       "Category": "Misc",
-      "Enabled": false,
+      "Enabled": true,
       "modactive": true
     },
     "VME_AncientRustedTruck": {
@@ -21837,7 +21837,7 @@
       "Mod": "Vanilla Ideology Expanded - Memes and Structures",
       "BasePrice": 10,
       "Category": "Misc",
-      "Enabled": false,
+      "Enabled": true,
       "modactive": true
     },
     "VME_AncientRustedJeep": {
@@ -21852,7 +21852,7 @@
       "Mod": "Vanilla Ideology Expanded - Memes and Structures",
       "BasePrice": 10,
       "Category": "Misc",
-      "Enabled": false,
+      "Enabled": true,
       "modactive": true
     },
     "VME_AncientRustedCarFrame": {
@@ -21867,7 +21867,7 @@
       "Mod": "Vanilla Ideology Expanded - Memes and Structures",
       "BasePrice": 10,
       "Category": "Misc",
-      "Enabled": false,
+      "Enabled": true,
       "modactive": true
     },
     "VME_AncientWarwalkerTorso": {
@@ -21882,7 +21882,7 @@
       "Mod": "Vanilla Ideology Expanded - Memes and Structures",
       "BasePrice": 10,
       "Category": "Misc",
-      "Enabled": false,
+      "Enabled": true,
       "modactive": true
     },
     "VME_AncientRustedDropship": {
@@ -21897,7 +21897,7 @@
       "Mod": "Vanilla Ideology Expanded - Memes and Structures",
       "BasePrice": 10,
       "Category": "Misc",
-      "Enabled": false,
+      "Enabled": true,
       "modactive": true
     },
     "VME_AncientWarwalkerClaw": {
@@ -21912,7 +21912,7 @@
       "Mod": "Vanilla Ideology Expanded - Memes and Structures",
       "BasePrice": 10,
       "Category": "Misc",
-      "Enabled": false,
+      "Enabled": true,
       "modactive": true
     },
     "VME_AncientWarwalkerLeg": {
@@ -21927,7 +21927,7 @@
       "Mod": "Vanilla Ideology Expanded - Memes and Structures",
       "BasePrice": 10,
       "Category": "Misc",
-      "Enabled": false,
+      "Enabled": true,
       "modactive": true
     },
     "VME_AncientMiniWarwalkerRemains": {
@@ -21942,7 +21942,7 @@
       "Mod": "Vanilla Ideology Expanded - Memes and Structures",
       "BasePrice": 10,
       "Category": "Misc",
-      "Enabled": false,
+      "Enabled": true,
       "modactive": true
     },
     "VME_AncientWarspiderRemains": {
@@ -21957,7 +21957,7 @@
       "Mod": "Vanilla Ideology Expanded - Memes and Structures",
       "BasePrice": 10,
       "Category": "Misc",
-      "Enabled": false,
+      "Enabled": true,
       "modactive": true
     },
     "VME_AncientPipelineSection": {
@@ -21972,7 +21972,7 @@
       "Mod": "Vanilla Ideology Expanded - Memes and Structures",
       "BasePrice": 10,
       "Category": "Misc",
-      "Enabled": false,
+      "Enabled": true,
       "modactive": true
     },
     "VME_AncientWarwalkerFoot": {
@@ -22002,7 +22002,7 @@
       "Mod": "Vanilla Ideology Expanded - Memes and Structures",
       "BasePrice": 10,
       "Category": "Misc",
-      "Enabled": false,
+      "Enabled": true,
       "modactive": true
     },
     "VME_AncientAPC": {
@@ -22017,7 +22017,7 @@
       "Mod": "Vanilla Ideology Expanded - Memes and Structures",
       "BasePrice": 10,
       "Category": "Misc",
-      "Enabled": false,
+      "Enabled": true,
       "modactive": true
     },
     "VME_AncientWarwalkerShell": {
@@ -22032,7 +22032,7 @@
       "Mod": "Vanilla Ideology Expanded - Memes and Structures",
       "BasePrice": 10,
       "Category": "Misc",
-      "Enabled": false,
+      "Enabled": true,
       "modactive": true
     },
     "VME_AncientJetEngine": {
@@ -22047,7 +22047,7 @@
       "Mod": "Vanilla Ideology Expanded - Memes and Structures",
       "BasePrice": 10,
       "Category": "Misc",
-      "Enabled": false,
+      "Enabled": true,
       "modactive": true
     },
     "VME_AncientDropshipEngine": {
@@ -22062,7 +22062,7 @@
       "Mod": "Vanilla Ideology Expanded - Memes and Structures",
       "BasePrice": 10,
       "Category": "Misc",
-      "Enabled": false,
+      "Enabled": true,
       "modactive": true
     },
     "VME_AncientPodCar": {
@@ -22077,7 +22077,7 @@
       "Mod": "Vanilla Ideology Expanded - Memes and Structures",
       "BasePrice": 10,
       "Category": "Misc",
-      "Enabled": false,
+      "Enabled": true,
       "modactive": true
     },
     "VME_AncientTankTrap": {
@@ -22090,9 +22090,9 @@
       "IsEquippable": false,
       "IsWearable": false,
       "Mod": "Vanilla Ideology Expanded - Memes and Structures",
-      "BasePrice": 1,
+      "BasePrice": 0,
       "Category": "Misc",
-      "Enabled": false,
+      "Enabled": true,
       "modactive": true
     },
     "VME_AncientLargeRustedEngineBlock": {
@@ -22105,9 +22105,9 @@
       "IsEquippable": false,
       "IsWearable": false,
       "Mod": "Vanilla Ideology Expanded - Memes and Structures",
-      "BasePrice": 1,
+      "BasePrice": 0,
       "Category": "Misc",
-      "Enabled": false,
+      "Enabled": true,
       "modactive": true
     },
     "VME_AncientFence": {
@@ -22120,9 +22120,9 @@
       "IsEquippable": false,
       "IsWearable": false,
       "Mod": "Vanilla Ideology Expanded - Memes and Structures",
-      "BasePrice": 1,
+      "BasePrice": 0,
       "Category": "Misc",
-      "Enabled": false,
+      "Enabled": true,
       "modactive": true
     },
     "VME_AncientRazorWire": {
@@ -22135,9 +22135,9 @@
       "IsEquippable": false,
       "IsWearable": false,
       "Mod": "Vanilla Ideology Expanded - Memes and Structures",
-      "BasePrice": 1,
+      "BasePrice": 0,
       "Category": "Misc",
-      "Enabled": false,
+      "Enabled": true,
       "modactive": true
     },
     "VME_AncientPipes": {
@@ -22150,9 +22150,9 @@
       "IsEquippable": false,
       "IsWearable": false,
       "Mod": "Vanilla Ideology Expanded - Memes and Structures",
-      "BasePrice": 1,
+      "BasePrice": 0,
       "Category": "Misc",
-      "Enabled": false,
+      "Enabled": true,
       "modactive": true
     },
     "VME_AncientMegaCannonTripod": {
@@ -22165,7 +22165,7 @@
       "IsEquippable": false,
       "IsWearable": false,
       "Mod": "Vanilla Ideology Expanded - Memes and Structures",
-      "BasePrice": 1,
+      "BasePrice": 0,
       "Category": "Misc",
       "Enabled": true,
       "modactive": true
@@ -22180,9 +22180,9 @@
       "IsEquippable": false,
       "IsWearable": false,
       "Mod": "Vanilla Ideology Expanded - Memes and Structures",
-      "BasePrice": 1,
+      "BasePrice": 0,
       "Category": "Misc",
-      "Enabled": false,
+      "Enabled": true,
       "modactive": true
     },
     "VME_AncientContainer": {
@@ -22195,9 +22195,9 @@
       "IsEquippable": false,
       "IsWearable": false,
       "Mod": "Vanilla Ideology Expanded - Memes and Structures",
-      "BasePrice": 1,
+      "BasePrice": 0,
       "Category": "Misc",
-      "Enabled": false,
+      "Enabled": true,
       "modactive": true
     },
     "VME_AncientMechanoidShell": {
@@ -22210,9 +22210,9 @@
       "IsEquippable": false,
       "IsWearable": false,
       "Mod": "Vanilla Ideology Expanded - Memes and Structures",
-      "BasePrice": 1,
+      "BasePrice": 0,
       "Category": "Misc",
-      "Enabled": false,
+      "Enabled": true,
       "modactive": true
     },
     "VME_AncientMechDropBeacon": {
@@ -22225,9 +22225,9 @@
       "IsEquippable": false,
       "IsWearable": false,
       "Mod": "Vanilla Ideology Expanded - Memes and Structures",
-      "BasePrice": 1,
+      "BasePrice": 0,
       "Category": "Misc",
-      "Enabled": false,
+      "Enabled": true,
       "modactive": true
     },
     "VME_AncientSecurityTurret": {
@@ -22240,9 +22240,9 @@
       "IsEquippable": false,
       "IsWearable": false,
       "Mod": "Vanilla Ideology Expanded - Memes and Structures",
-      "BasePrice": 1,
+      "BasePrice": 0,
       "Category": "Misc",
-      "Enabled": false,
+      "Enabled": true,
       "modactive": true
     },
     "VME_AncientRustedEngineBlock": {
@@ -22255,9 +22255,9 @@
       "IsEquippable": false,
       "IsWearable": false,
       "Mod": "Vanilla Ideology Expanded - Memes and Structures",
-      "BasePrice": 1,
+      "BasePrice": 0,
       "Category": "Misc",
-      "Enabled": false,
+      "Enabled": true,
       "modactive": true
     },
     "VME_AncientShipBeacon": {
@@ -22270,9 +22270,9 @@
       "IsEquippable": false,
       "IsWearable": false,
       "Mod": "Vanilla Ideology Expanded - Memes and Structures",
-      "BasePrice": 1,
+      "BasePrice": 0,
       "Category": "Misc",
-      "Enabled": false,
+      "Enabled": true,
       "modactive": true
     },
     "VME_AncientSpaceJunk": {
@@ -22287,7 +22287,7 @@
       "Mod": "Vanilla Ideology Expanded - Memes and Structures",
       "BasePrice": 1,
       "Category": "Misc",
-      "Enabled": false,
+      "Enabled": true,
       "modactive": true
     },
     "RimazonLockerSmall": {
@@ -22300,9 +22300,9 @@
       "IsEquippable": false,
       "IsWearable": false,
       "Mod": "[CAP] Rimworld Interactive Chat Service",
-      "BasePrice": 131,
+      "BasePrice": 133,
       "Category": "Misc",
-      "Enabled": false,
+      "Enabled": true,
       "modactive": true
     },
     "BMT_FishFood": {
@@ -45912,7 +45912,7 @@
       "Mod": "Core",
       "BasePrice": 18,
       "Category": "Drugs",
-      "Enabled": false,
+      "Enabled": true,
       "modactive": true
     },
     "Flake": {
@@ -45957,7 +45957,7 @@
       "Mod": "Core",
       "BasePrice": 35,
       "Category": "Drugs",
-      "Enabled": false,
+      "Enabled": true,
       "modactive": true
     },
     "HospitalBed": {
@@ -46120,7 +46120,7 @@
       "IsEquippable": false,
       "IsWearable": false,
       "Mod": "Core",
-      "BasePrice": 94,
+      "BasePrice": 113,
       "Category": "Misc",
       "Enabled": true,
       "modactive": true
@@ -46135,7 +46135,7 @@
       "IsEquippable": false,
       "IsWearable": false,
       "Mod": "Core",
-      "BasePrice": 163,
+      "BasePrice": 184,
       "Category": "Misc",
       "Enabled": true,
       "modactive": true
@@ -46150,7 +46150,7 @@
       "IsEquippable": false,
       "IsWearable": false,
       "Mod": "Core",
-      "BasePrice": 880,
+      "BasePrice": 1020,
       "Category": "Misc",
       "Enabled": true,
       "modactive": true
@@ -46165,7 +46165,7 @@
       "IsEquippable": false,
       "IsWearable": false,
       "Mod": "Core",
-      "BasePrice": 162,
+      "BasePrice": 215,
       "Category": "Misc",
       "Enabled": true,
       "modactive": true
@@ -47022,7 +47022,7 @@
       "Mod": "Core",
       "BasePrice": 190,
       "Category": "Prosthetic",
-      "Enabled": false,
+      "Enabled": true,
       "modactive": true
     },
     "SimpleProstheticArm": {
@@ -47037,7 +47037,7 @@
       "Mod": "Core",
       "BasePrice": 190,
       "Category": "Prosthetic",
-      "Enabled": false,
+      "Enabled": true,
       "modactive": true
     },
     "SimpleProstheticHeart": {
@@ -47052,7 +47052,7 @@
       "Mod": "Expanded Prosthetics and Organ Engineering - Forked",
       "BasePrice": 162,
       "Category": "Prosthetic",
-      "Enabled": false,
+      "Enabled": true,
       "modactive": true
     },
     "CochlearImplant": {
@@ -47112,7 +47112,7 @@
       "Mod": "Core",
       "BasePrice": 152,
       "Category": "Prosthetic",
-      "Enabled": false,
+      "Enabled": true,
       "modactive": true
     },
     "Gun_Revolver": {
@@ -47890,7 +47890,7 @@
       "IsEquippable": false,
       "IsWearable": false,
       "Mod": "Royalty",
-      "BasePrice": 94,
+      "BasePrice": 113,
       "Category": "Misc",
       "Enabled": true,
       "modactive": true
@@ -48145,7 +48145,7 @@
       "IsEquippable": false,
       "IsWearable": false,
       "Mod": "Ideology",
-      "BasePrice": 192,
+      "BasePrice": 280,
       "Category": "Misc",
       "Enabled": true,
       "modactive": true
@@ -48160,7 +48160,7 @@
       "IsEquippable": false,
       "IsWearable": false,
       "Mod": "Ideology",
-      "BasePrice": 390,
+      "BasePrice": 465,
       "Category": "Misc",
       "Enabled": true,
       "modactive": true
@@ -48175,7 +48175,7 @@
       "IsEquippable": false,
       "IsWearable": false,
       "Mod": "Ideology",
-      "BasePrice": 177,
+      "BasePrice": 250,
       "Category": "Misc",
       "Enabled": true,
       "modactive": true
@@ -48190,7 +48190,7 @@
       "IsEquippable": false,
       "IsWearable": false,
       "Mod": "Ideology",
-      "BasePrice": 76,
+      "BasePrice": 94,
       "Category": "Misc",
       "Enabled": true,
       "modactive": true
@@ -48205,7 +48205,7 @@
       "IsEquippable": false,
       "IsWearable": false,
       "Mod": "Ideology",
-      "BasePrice": 186,
+      "BasePrice": 225,
       "Category": "Misc",
       "Enabled": true,
       "modactive": true
@@ -48355,7 +48355,7 @@
       "IsEquippable": false,
       "IsWearable": false,
       "Mod": "Biotech",
-      "BasePrice": 245,
+      "BasePrice": 300,
       "Category": "Misc",
       "Enabled": true,
       "modactive": true
@@ -48370,7 +48370,7 @@
       "IsEquippable": false,
       "IsWearable": false,
       "Mod": "Biotech",
-      "BasePrice": 295,
+      "BasePrice": 365,
       "Category": "Misc",
       "Enabled": true,
       "modactive": true
@@ -48385,7 +48385,7 @@
       "IsEquippable": false,
       "IsWearable": false,
       "Mod": "Biotech",
-      "BasePrice": 485,
+      "BasePrice": 565,
       "Category": "Misc",
       "Enabled": true,
       "modactive": true
@@ -48400,7 +48400,7 @@
       "IsEquippable": false,
       "IsWearable": false,
       "Mod": "Biotech",
-      "BasePrice": 415,
+      "BasePrice": 525,
       "Category": "Misc",
       "Enabled": true,
       "modactive": true
@@ -48415,7 +48415,7 @@
       "IsEquippable": false,
       "IsWearable": false,
       "Mod": "Biotech",
-      "BasePrice": 1125,
+      "BasePrice": 1230,
       "Category": "Misc",
       "Enabled": true,
       "modactive": true
@@ -48430,7 +48430,7 @@
       "IsEquippable": false,
       "IsWearable": false,
       "Mod": "Biotech",
-      "BasePrice": 645,
+      "BasePrice": 730,
       "Category": "Misc",
       "Enabled": true,
       "modactive": true
@@ -48460,7 +48460,7 @@
       "IsEquippable": false,
       "IsWearable": false,
       "Mod": "Biotech",
-      "BasePrice": 172,
+      "BasePrice": 193,
       "Category": "Misc",
       "Enabled": true,
       "modactive": true
@@ -48475,7 +48475,7 @@
       "IsEquippable": false,
       "IsWearable": false,
       "Mod": "Biotech",
-      "BasePrice": 280,
+      "BasePrice": 355,
       "Category": "Misc",
       "Enabled": true,
       "modactive": true
@@ -49120,7 +49120,7 @@
       "IsEquippable": false,
       "IsWearable": false,
       "Mod": "Odyssey",
-      "BasePrice": 1575,
+      "BasePrice": 1615,
       "Category": "Misc",
       "Enabled": true,
       "modactive": true
@@ -49135,7 +49135,7 @@
       "IsEquippable": false,
       "IsWearable": false,
       "Mod": "Odyssey",
-      "BasePrice": 320,
+      "BasePrice": 380,
       "Category": "Misc",
       "Enabled": true,
       "modactive": true
@@ -49150,7 +49150,7 @@
       "IsEquippable": false,
       "IsWearable": false,
       "Mod": "Odyssey",
-      "BasePrice": 440,
+      "BasePrice": 515,
       "Category": "Misc",
       "Enabled": true,
       "modactive": true
@@ -49165,7 +49165,7 @@
       "IsEquippable": false,
       "IsWearable": false,
       "Mod": "Odyssey",
-      "BasePrice": 655,
+      "BasePrice": 770,
       "Category": "Misc",
       "Enabled": true,
       "modactive": true
@@ -49180,7 +49180,7 @@
       "IsEquippable": false,
       "IsWearable": false,
       "Mod": "Odyssey",
-      "BasePrice": 2860,
+      "BasePrice": 2870,
       "Category": "Misc",
       "Enabled": true,
       "modactive": true
@@ -49210,7 +49210,7 @@
       "IsEquippable": false,
       "IsWearable": false,
       "Mod": "Odyssey",
-      "BasePrice": 200,
+      "BasePrice": 198,
       "Category": "Misc",
       "Enabled": true,
       "modactive": true
@@ -49602,7 +49602,7 @@
       "Mod": "Vanilla Factions Expanded - Empire",
       "BasePrice": 16,
       "Category": "Drugs",
-      "Enabled": false,
+      "Enabled": true,
       "modactive": true
     },
     "VFEE_Apparel_TechfriarCrown": {
@@ -50544,7 +50544,7 @@
       "IsUsable": false,
       "IsEquippable": false,
       "IsWearable": false,
-      "Mod": "Vanilla Furniture Expanded",
+      "Mod": "RimWorld",
       "BasePrice": 205,
       "Category": "Furniture",
       "Enabled": true,
@@ -55420,7 +55420,7 @@
       "IsEquippable": false,
       "IsWearable": false,
       "Mod": "Dark Ages : Beasts and Monsters",
-      "BasePrice": 850,
+      "BasePrice": 855,
       "Category": "Misc",
       "Enabled": true,
       "modactive": true
@@ -56470,7 +56470,7 @@
       "IsEquippable": false,
       "IsWearable": false,
       "Mod": "Dark Ages : Crypts and Tombs",
-      "BasePrice": 84,
+      "BasePrice": 83,
       "Category": "Misc",
       "Enabled": true,
       "modactive": true
@@ -56500,7 +56500,7 @@
       "IsEquippable": false,
       "IsWearable": false,
       "Mod": "Dark Ages : Crypts and Tombs",
-      "BasePrice": 153,
+      "BasePrice": 152,
       "Category": "Misc",
       "Enabled": true,
       "modactive": true
@@ -56545,7 +56545,7 @@
       "IsEquippable": false,
       "IsWearable": false,
       "Mod": "Dark Ages : Crypts and Tombs",
-      "BasePrice": 76,
+      "BasePrice": 61,
       "Category": "Misc",
       "Enabled": true,
       "modactive": true
@@ -61300,7 +61300,7 @@
       "IsEquippable": false,
       "IsWearable": false,
       "Mod": "Alpha Mechs",
-      "BasePrice": 345,
+      "BasePrice": 355,
       "Category": "Misc",
       "Enabled": true,
       "modactive": true
@@ -61315,7 +61315,7 @@
       "IsEquippable": false,
       "IsWearable": false,
       "Mod": "Alpha Mechs",
-      "BasePrice": 345,
+      "BasePrice": 355,
       "Category": "Misc",
       "Enabled": true,
       "modactive": true
@@ -61330,7 +61330,7 @@
       "IsEquippable": false,
       "IsWearable": false,
       "Mod": "Alpha Mechs",
-      "BasePrice": 345,
+      "BasePrice": 355,
       "Category": "Misc",
       "Enabled": true,
       "modactive": true
@@ -61345,7 +61345,7 @@
       "IsEquippable": false,
       "IsWearable": false,
       "Mod": "Alpha Mechs",
-      "BasePrice": 345,
+      "BasePrice": 355,
       "Category": "Misc",
       "Enabled": true,
       "modactive": true
@@ -61360,7 +61360,7 @@
       "IsEquippable": false,
       "IsWearable": false,
       "Mod": "Alpha Mechs",
-      "BasePrice": 345,
+      "BasePrice": 355,
       "Category": "Misc",
       "Enabled": true,
       "modactive": true
@@ -64434,7 +64434,7 @@
       "IsUsable": false,
       "IsEquippable": false,
       "IsWearable": false,
-      "Mod": "Vanilla Furniture Expanded - Security",
+      "Mod": "RimWorld",
       "BasePrice": 135,
       "Category": "Furniture",
       "Enabled": true,
@@ -68485,7 +68485,7 @@
       "IsEquippable": false,
       "IsWearable": false,
       "Mod": "Integrated Implants",
-      "BasePrice": 1000,
+      "BasePrice": 980,
       "Category": "Misc",
       "Enabled": true,
       "modactive": true
@@ -69460,7 +69460,7 @@
       "IsEquippable": false,
       "IsWearable": false,
       "Mod": "More Linkables",
-      "BasePrice": 2535,
+      "BasePrice": 2550,
       "Category": "Misc",
       "Enabled": true,
       "modactive": true
@@ -69475,7 +69475,7 @@
       "IsEquippable": false,
       "IsWearable": false,
       "Mod": "More Linkables",
-      "BasePrice": 550,
+      "BasePrice": 565,
       "Category": "Misc",
       "Enabled": true,
       "modactive": true
@@ -69490,7 +69490,7 @@
       "IsEquippable": false,
       "IsWearable": false,
       "Mod": "More Linkables",
-      "BasePrice": 935,
+      "BasePrice": 950,
       "Category": "Misc",
       "Enabled": true,
       "modactive": true
@@ -69505,7 +69505,7 @@
       "IsEquippable": false,
       "IsWearable": false,
       "Mod": "More Linkables",
-      "BasePrice": 1455,
+      "BasePrice": 1470,
       "Category": "Misc",
       "Enabled": true,
       "modactive": true
@@ -69535,7 +69535,7 @@
       "IsEquippable": false,
       "IsWearable": false,
       "Mod": "More Linkables",
-      "BasePrice": 119,
+      "BasePrice": 121,
       "Category": "Misc",
       "Enabled": true,
       "modactive": true
@@ -70465,7 +70465,7 @@
       "IsEquippable": false,
       "IsWearable": false,
       "Mod": "Vanilla Furniture Expanded - Farming",
-      "BasePrice": 109,
+      "BasePrice": 111,
       "Category": "Misc",
       "Enabled": true,
       "modactive": true
@@ -70510,7 +70510,7 @@
       "IsEquippable": false,
       "IsWearable": false,
       "Mod": "Vanilla Furniture Expanded - Medical Module",
-      "BasePrice": 675,
+      "BasePrice": 680,
       "Category": "Misc",
       "Enabled": true,
       "modactive": true
@@ -70525,7 +70525,7 @@
       "IsEquippable": false,
       "IsWearable": false,
       "Mod": "Vanilla Furniture Expanded - Medical Module",
-      "BasePrice": 178,
+      "BasePrice": 180,
       "Category": "Misc",
       "Enabled": true,
       "modactive": true
@@ -70540,7 +70540,7 @@
       "IsEquippable": false,
       "IsWearable": false,
       "Mod": "Vanilla Furniture Expanded - Production",
-      "BasePrice": 420,
+      "BasePrice": 430,
       "Category": "Misc",
       "Enabled": true,
       "modactive": true
@@ -70555,7 +70555,7 @@
       "IsEquippable": false,
       "IsWearable": false,
       "Mod": "Vanilla Furniture Expanded - Production",
-      "BasePrice": 290,
+      "BasePrice": 300,
       "Category": "Misc",
       "Enabled": true,
       "modactive": true
@@ -70570,7 +70570,7 @@
       "IsEquippable": false,
       "IsWearable": false,
       "Mod": "Vanilla Furniture Expanded - Production",
-      "BasePrice": 290,
+      "BasePrice": 300,
       "Category": "Misc",
       "Enabled": true,
       "modactive": true
@@ -70585,7 +70585,7 @@
       "IsEquippable": false,
       "IsWearable": false,
       "Mod": "Vanilla Furniture Expanded - Production",
-      "BasePrice": 196,
+      "BasePrice": 205,
       "Category": "Misc",
       "Enabled": true,
       "modactive": true
@@ -70600,7 +70600,7 @@
       "IsEquippable": false,
       "IsWearable": false,
       "Mod": "Vanilla Furniture Expanded - Production",
-      "BasePrice": 196,
+      "BasePrice": 205,
       "Category": "Misc",
       "Enabled": true,
       "modactive": true
@@ -70615,7 +70615,7 @@
       "IsEquippable": false,
       "IsWearable": false,
       "Mod": "Vanilla Furniture Expanded - Production",
-      "BasePrice": 260,
+      "BasePrice": 265,
       "Category": "Misc",
       "Enabled": true,
       "modactive": true
@@ -74170,7 +74170,7 @@
       "IsEquippable": false,
       "IsWearable": false,
       "Mod": "Hospitality (Continued)",
-      "BasePrice": 295,
+      "BasePrice": 300,
       "Category": "Misc",
       "Enabled": true,
       "modactive": true
@@ -74200,7 +74200,7 @@
       "IsEquippable": false,
       "IsWearable": false,
       "Mod": "Hospitality (Continued)",
-      "BasePrice": 3,
+      "BasePrice": 2,
       "Category": "Misc",
       "Enabled": true,
       "modactive": true
@@ -74487,6 +74487,876 @@
       "Mod": "Hospitality (Continued)",
       "BasePrice": 870,
       "Category": "Furniture",
+      "Enabled": true,
+      "modactive": true
+    },
+    "SBC_KidBabyCarrier": {
+      "DefName": "SBC_KidBabyCarrier",
+      "CustomName": "Kid's baby carrier",
+      "HasQuantityLimit": true,
+      "QuantityLimit": 1,
+      "LimitMode": "OneStack",
+      "IsUsable": false,
+      "IsEquippable": false,
+      "IsWearable": true,
+      "Mod": "SimpleBabyCarry",
+      "BasePrice": 55,
+      "Category": "Children's Apparel",
+      "Enabled": true,
+      "modactive": true
+    },
+    "SBC_KidClothBabySling": {
+      "DefName": "SBC_KidClothBabySling",
+      "CustomName": "Kid's cloth baby sling",
+      "HasQuantityLimit": true,
+      "QuantityLimit": 1,
+      "LimitMode": "OneStack",
+      "IsUsable": false,
+      "IsEquippable": false,
+      "IsWearable": true,
+      "Mod": "SimpleBabyCarry",
+      "BasePrice": 32,
+      "Category": "Children's Apparel",
+      "Enabled": true,
+      "modactive": true
+    },
+    "SBC_KidTribalBabySling": {
+      "DefName": "SBC_KidTribalBabySling",
+      "CustomName": "Kid's tribal baby sling",
+      "HasQuantityLimit": true,
+      "QuantityLimit": 1,
+      "LimitMode": "OneStack",
+      "IsUsable": false,
+      "IsEquippable": false,
+      "IsWearable": true,
+      "Mod": "SimpleBabyCarry",
+      "BasePrice": 53,
+      "Category": "Children's Apparel",
+      "Enabled": true,
+      "modactive": true
+    },
+    "ReelStorageBarrelPallet": {
+      "DefName": "ReelStorageBarrelPallet",
+      "CustomName": "Barrel pallet",
+      "HasQuantityLimit": true,
+      "QuantityLimit": 1,
+      "LimitMode": "OneStack",
+      "IsUsable": false,
+      "IsEquippable": false,
+      "IsWearable": false,
+      "Mod": "Reel's Expanded Storage",
+      "BasePrice": 260,
+      "Category": "Furniture",
+      "Enabled": true,
+      "modactive": true
+    },
+    "ReelStorageBookshelf": {
+      "DefName": "ReelStorageBookshelf",
+      "CustomName": "Bookshelf",
+      "HasQuantityLimit": true,
+      "QuantityLimit": 1,
+      "LimitMode": "OneStack",
+      "IsUsable": false,
+      "IsEquippable": false,
+      "IsWearable": false,
+      "Mod": "Reel's Expanded Storage",
+      "BasePrice": 165,
+      "Category": "Furniture",
+      "Enabled": true,
+      "modactive": true
+    },
+    "ReelStorageCargoContainer": {
+      "DefName": "ReelStorageCargoContainer",
+      "CustomName": "Cargo container",
+      "HasQuantityLimit": true,
+      "QuantityLimit": 1,
+      "LimitMode": "OneStack",
+      "IsUsable": false,
+      "IsEquippable": false,
+      "IsWearable": false,
+      "Mod": "Reel's Expanded Storage",
+      "BasePrice": 1720,
+      "Category": "Furniture",
+      "Enabled": true,
+      "modactive": true
+    },
+    "ReelStorageHayBale": {
+      "DefName": "ReelStorageHayBale",
+      "CustomName": "Hay bale",
+      "HasQuantityLimit": true,
+      "QuantityLimit": 1,
+      "LimitMode": "OneStack",
+      "IsUsable": false,
+      "IsEquippable": false,
+      "IsWearable": false,
+      "Mod": "Reel's Expanded Storage",
+      "BasePrice": 49,
+      "Category": "Furniture",
+      "Enabled": true,
+      "modactive": true
+    },
+    "ReelStorageLargeSpacerContainer": {
+      "DefName": "ReelStorageLargeSpacerContainer",
+      "CustomName": "Large spacer container",
+      "HasQuantityLimit": true,
+      "QuantityLimit": 1,
+      "LimitMode": "OneStack",
+      "IsUsable": false,
+      "IsEquippable": false,
+      "IsWearable": false,
+      "Mod": "Reel's Expanded Storage",
+      "BasePrice": 1165,
+      "Category": "Furniture",
+      "Enabled": true,
+      "modactive": true
+    },
+    "ReelStorageLargeStonePile": {
+      "DefName": "ReelStorageLargeStonePile",
+      "CustomName": "Large stone pile",
+      "HasQuantityLimit": true,
+      "QuantityLimit": 1,
+      "LimitMode": "OneStack",
+      "IsUsable": false,
+      "IsEquippable": false,
+      "IsWearable": false,
+      "Mod": "Reel's Expanded Storage",
+      "BasePrice": 370,
+      "Category": "Furniture",
+      "Enabled": true,
+      "modactive": true
+    },
+    "ReelStorageLargeWoodChest": {
+      "DefName": "ReelStorageLargeWoodChest",
+      "CustomName": "Large chest",
+      "HasQuantityLimit": true,
+      "QuantityLimit": 1,
+      "LimitMode": "OneStack",
+      "IsUsable": false,
+      "IsEquippable": false,
+      "IsWearable": false,
+      "Mod": "Reel's Expanded Storage",
+      "BasePrice": 63,
+      "Category": "Furniture",
+      "Enabled": true,
+      "modactive": true
+    },
+    "ReelStorageLargeWoodPile": {
+      "DefName": "ReelStorageLargeWoodPile",
+      "CustomName": "Log pile",
+      "HasQuantityLimit": true,
+      "QuantityLimit": 1,
+      "LimitMode": "OneStack",
+      "IsUsable": false,
+      "IsEquippable": false,
+      "IsWearable": false,
+      "Mod": "Reel's Expanded Storage",
+      "BasePrice": 365,
+      "Category": "Furniture",
+      "Enabled": true,
+      "modactive": true
+    },
+    "ReelStorageSpacerContainer": {
+      "DefName": "ReelStorageSpacerContainer",
+      "CustomName": "Spacer container",
+      "HasQuantityLimit": true,
+      "QuantityLimit": 1,
+      "LimitMode": "OneStack",
+      "IsUsable": false,
+      "IsEquippable": false,
+      "IsWearable": false,
+      "Mod": "Reel's Expanded Storage",
+      "BasePrice": 685,
+      "Category": "Furniture",
+      "Enabled": true,
+      "modactive": true
+    },
+    "ReelStorageSpacerContainerStack": {
+      "DefName": "ReelStorageSpacerContainerStack",
+      "CustomName": "Spacer container stack",
+      "HasQuantityLimit": true,
+      "QuantityLimit": 1,
+      "LimitMode": "OneStack",
+      "IsUsable": false,
+      "IsEquippable": false,
+      "IsWearable": false,
+      "Mod": "Reel's Expanded Storage",
+      "BasePrice": 3985,
+      "Category": "Furniture",
+      "Enabled": true,
+      "modactive": true
+    },
+    "ReelStorageSpacerLocker": {
+      "DefName": "ReelStorageSpacerLocker",
+      "CustomName": "Spacer locker",
+      "HasQuantityLimit": true,
+      "QuantityLimit": 1,
+      "LimitMode": "OneStack",
+      "IsUsable": false,
+      "IsEquippable": false,
+      "IsWearable": false,
+      "Mod": "Reel's Expanded Storage",
+      "BasePrice": 2680,
+      "Category": "Furniture",
+      "Enabled": true,
+      "modactive": true
+    },
+    "ReelStorageStonePile": {
+      "DefName": "ReelStorageStonePile",
+      "CustomName": "Stone pile",
+      "HasQuantityLimit": true,
+      "QuantityLimit": 1,
+      "LimitMode": "OneStack",
+      "IsUsable": false,
+      "IsEquippable": false,
+      "IsWearable": false,
+      "Mod": "Reel's Expanded Storage",
+      "BasePrice": 92,
+      "Category": "Furniture",
+      "Enabled": true,
+      "modactive": true
+    },
+    "ReelStorageTanningRack": {
+      "DefName": "ReelStorageTanningRack",
+      "CustomName": "Tanning rack",
+      "HasQuantityLimit": true,
+      "QuantityLimit": 1,
+      "LimitMode": "OneStack",
+      "IsUsable": false,
+      "IsEquippable": false,
+      "IsWearable": false,
+      "Mod": "Reel's Expanded Storage",
+      "BasePrice": 92,
+      "Category": "Furniture",
+      "Enabled": true,
+      "modactive": true
+    },
+    "ReelStorageWeaponRack": {
+      "DefName": "ReelStorageWeaponRack",
+      "CustomName": "Weapon rack",
+      "HasQuantityLimit": true,
+      "QuantityLimit": 1,
+      "LimitMode": "OneStack",
+      "IsUsable": false,
+      "IsEquippable": false,
+      "IsWearable": false,
+      "Mod": "Reel's Expanded Storage",
+      "BasePrice": 103,
+      "Category": "Furniture",
+      "Enabled": true,
+      "modactive": true
+    },
+    "ReelStorageWineRack": {
+      "DefName": "ReelStorageWineRack",
+      "CustomName": "Wine rack",
+      "HasQuantityLimit": true,
+      "QuantityLimit": 1,
+      "LimitMode": "OneStack",
+      "IsUsable": false,
+      "IsEquippable": false,
+      "IsWearable": false,
+      "Mod": "Reel's Expanded Storage",
+      "BasePrice": 44,
+      "Category": "Furniture",
+      "Enabled": true,
+      "modactive": true
+    },
+    "ReelStorageWoodChest": {
+      "DefName": "ReelStorageWoodChest",
+      "CustomName": "Chest",
+      "HasQuantityLimit": true,
+      "QuantityLimit": 1,
+      "LimitMode": "OneStack",
+      "IsUsable": false,
+      "IsEquippable": false,
+      "IsWearable": false,
+      "Mod": "Reel's Expanded Storage",
+      "BasePrice": 31,
+      "Category": "Furniture",
+      "Enabled": true,
+      "modactive": true
+    },
+    "ReelStorageWoodPile": {
+      "DefName": "ReelStorageWoodPile",
+      "CustomName": "Logs",
+      "HasQuantityLimit": true,
+      "QuantityLimit": 1,
+      "LimitMode": "OneStack",
+      "IsUsable": false,
+      "IsEquippable": false,
+      "IsWearable": false,
+      "Mod": "Reel's Expanded Storage",
+      "BasePrice": 122,
+      "Category": "Furniture",
+      "Enabled": true,
+      "modactive": true
+    },
+    "ReelStorageBarrel": {
+      "DefName": "ReelStorageBarrel",
+      "CustomName": "Barrel",
+      "HasQuantityLimit": true,
+      "QuantityLimit": 1,
+      "LimitMode": "OneStack",
+      "IsUsable": false,
+      "IsEquippable": false,
+      "IsWearable": false,
+      "Mod": "Reel's Expanded Storage",
+      "BasePrice": 103,
+      "Category": "Furniture",
+      "Enabled": true,
+      "modactive": true
+    },
+    "ReelStorageFridge": {
+      "DefName": "ReelStorageFridge",
+      "CustomName": "Fridge",
+      "HasQuantityLimit": true,
+      "QuantityLimit": 1,
+      "LimitMode": "OneStack",
+      "IsUsable": false,
+      "IsEquippable": false,
+      "IsWearable": false,
+      "Mod": "Reel's Expanded Storage",
+      "BasePrice": 176,
+      "Category": "Furniture",
+      "Enabled": true,
+      "modactive": true
+    },
+    "ReelIndustrialShelf": {
+      "DefName": "ReelIndustrialShelf",
+      "CustomName": "Food shelf",
+      "HasQuantityLimit": true,
+      "QuantityLimit": 1,
+      "LimitMode": "OneStack",
+      "IsUsable": false,
+      "IsEquippable": false,
+      "IsWearable": false,
+      "Mod": "Reel's Expanded Storage",
+      "BasePrice": 187,
+      "Category": "Furniture",
+      "Enabled": true,
+      "modactive": true
+    },
+    "ReelStorageLargeWoodCrate": {
+      "DefName": "ReelStorageLargeWoodCrate",
+      "CustomName": "Crate stack",
+      "HasQuantityLimit": true,
+      "QuantityLimit": 1,
+      "LimitMode": "OneStack",
+      "IsUsable": false,
+      "IsEquippable": false,
+      "IsWearable": false,
+      "Mod": "Reel's Expanded Storage",
+      "BasePrice": 495,
+      "Category": "Furniture",
+      "Enabled": true,
+      "modactive": true
+    },
+    "ReelStorageLocker": {
+      "DefName": "ReelStorageLocker",
+      "CustomName": "Locker",
+      "HasQuantityLimit": true,
+      "QuantityLimit": 1,
+      "LimitMode": "OneStack",
+      "IsUsable": false,
+      "IsEquippable": false,
+      "IsWearable": false,
+      "Mod": "Reel's Expanded Storage",
+      "BasePrice": 93,
+      "Category": "Furniture",
+      "Enabled": true,
+      "modactive": true
+    },
+    "ReelStorageWoodCrate": {
+      "DefName": "ReelStorageWoodCrate",
+      "CustomName": "Crate",
+      "HasQuantityLimit": true,
+      "QuantityLimit": 1,
+      "LimitMode": "OneStack",
+      "IsUsable": false,
+      "IsEquippable": false,
+      "IsWearable": false,
+      "Mod": "Reel's Expanded Storage",
+      "BasePrice": 124,
+      "Category": "Furniture",
+      "Enabled": true,
+      "modactive": true
+    },
+    "ReelStorageAnimalFeeder": {
+      "DefName": "ReelStorageAnimalFeeder",
+      "CustomName": "Animal feeder",
+      "HasQuantityLimit": true,
+      "QuantityLimit": 1,
+      "LimitMode": "OneStack",
+      "IsUsable": false,
+      "IsEquippable": false,
+      "IsWearable": false,
+      "Mod": "Reel's Expanded Storage",
+      "BasePrice": 125,
+      "Category": "Furniture",
+      "Enabled": true,
+      "modactive": true
+    },
+    "ReelStorageNewBarrel": {
+      "DefName": "ReelStorageNewBarrel",
+      "CustomName": "Barrel",
+      "HasQuantityLimit": true,
+      "QuantityLimit": 1,
+      "LimitMode": "OneStack",
+      "IsUsable": false,
+      "IsEquippable": false,
+      "IsWearable": false,
+      "Mod": "Reel's Expanded Storage",
+      "BasePrice": 145,
+      "Category": "Furniture",
+      "Enabled": true,
+      "modactive": true
+    },
+    "ReelStorageNewFridge": {
+      "DefName": "ReelStorageNewFridge",
+      "CustomName": "Fridge",
+      "HasQuantityLimit": true,
+      "QuantityLimit": 1,
+      "LimitMode": "OneStack",
+      "IsUsable": false,
+      "IsEquippable": false,
+      "IsWearable": false,
+      "Mod": "Reel's Expanded Storage",
+      "BasePrice": 455,
+      "Category": "Furniture",
+      "Enabled": true,
+      "modactive": true
+    },
+    "ReelNewIndustrialShelf": {
+      "DefName": "ReelNewIndustrialShelf",
+      "CustomName": "Double shelf",
+      "HasQuantityLimit": true,
+      "QuantityLimit": 1,
+      "LimitMode": "OneStack",
+      "IsUsable": false,
+      "IsEquippable": false,
+      "IsWearable": false,
+      "Mod": "Reel's Expanded Storage",
+      "BasePrice": 295,
+      "Category": "Furniture",
+      "Enabled": true,
+      "modactive": true
+    },
+    "ReelStorageSkip": {
+      "DefName": "ReelStorageSkip",
+      "CustomName": "Industrial skip",
+      "HasQuantityLimit": true,
+      "QuantityLimit": 1,
+      "LimitMode": "OneStack",
+      "IsUsable": false,
+      "IsEquippable": false,
+      "IsWearable": false,
+      "Mod": "Reel's Expanded Storage",
+      "BasePrice": 225,
+      "Category": "Furniture",
+      "Enabled": true,
+      "modactive": true
+    },
+    "ReelStorageNewLargeLocker": {
+      "DefName": "ReelStorageNewLargeLocker",
+      "CustomName": "Apparel locker",
+      "HasQuantityLimit": true,
+      "QuantityLimit": 1,
+      "LimitMode": "OneStack",
+      "IsUsable": false,
+      "IsEquippable": false,
+      "IsWearable": false,
+      "Mod": "Reel's Expanded Storage",
+      "BasePrice": 285,
+      "Category": "Furniture",
+      "Enabled": true,
+      "modactive": true
+    },
+    "ReelStorageLargeMetalCrate": {
+      "DefName": "ReelStorageLargeMetalCrate",
+      "CustomName": "Large metal crate",
+      "HasQuantityLimit": true,
+      "QuantityLimit": 1,
+      "LimitMode": "OneStack",
+      "IsUsable": false,
+      "IsEquippable": false,
+      "IsWearable": false,
+      "Mod": "Reel's Expanded Storage",
+      "BasePrice": 635,
+      "Category": "Furniture",
+      "Enabled": true,
+      "modactive": true
+    },
+    "ReelStorageNewLargeWoodCrate": {
+      "DefName": "ReelStorageNewLargeWoodCrate",
+      "CustomName": "Large crate",
+      "HasQuantityLimit": true,
+      "QuantityLimit": 1,
+      "LimitMode": "OneStack",
+      "IsUsable": false,
+      "IsEquippable": false,
+      "IsWearable": false,
+      "Mod": "Reel's Expanded Storage",
+      "BasePrice": 495,
+      "Category": "Furniture",
+      "Enabled": true,
+      "modactive": true
+    },
+    "ReelStorageMeatHook": {
+      "DefName": "ReelStorageMeatHook",
+      "CustomName": "Meat hook",
+      "HasQuantityLimit": true,
+      "QuantityLimit": 1,
+      "LimitMode": "OneStack",
+      "IsUsable": false,
+      "IsEquippable": false,
+      "IsWearable": false,
+      "Mod": "Reel's Expanded Storage",
+      "BasePrice": 104,
+      "Category": "Furniture",
+      "Enabled": true,
+      "modactive": true
+    },
+    "ReelStorageNewMedicineCabinet": {
+      "DefName": "ReelStorageNewMedicineCabinet",
+      "CustomName": "Medical cabinet",
+      "HasQuantityLimit": true,
+      "QuantityLimit": 1,
+      "LimitMode": "OneStack",
+      "IsUsable": false,
+      "IsEquippable": false,
+      "IsWearable": false,
+      "Mod": "Reel's Expanded Storage",
+      "BasePrice": 425,
+      "Category": "Furniture",
+      "Enabled": true,
+      "modactive": true
+    },
+    "ReelStorageMetalCrate": {
+      "DefName": "ReelStorageMetalCrate",
+      "CustomName": "Metal crate",
+      "HasQuantityLimit": true,
+      "QuantityLimit": 1,
+      "LimitMode": "OneStack",
+      "IsUsable": false,
+      "IsEquippable": false,
+      "IsWearable": false,
+      "Mod": "Reel's Expanded Storage",
+      "BasePrice": 159,
+      "Category": "Furniture",
+      "Enabled": true,
+      "modactive": true
+    },
+    "ReelStorageVerticalWeaponRack": {
+      "DefName": "ReelStorageVerticalWeaponRack",
+      "CustomName": "Vertical weapon rack",
+      "HasQuantityLimit": true,
+      "QuantityLimit": 1,
+      "LimitMode": "OneStack",
+      "IsUsable": false,
+      "IsEquippable": false,
+      "IsWearable": false,
+      "Mod": "Reel's Expanded Storage",
+      "BasePrice": 186,
+      "Category": "Furniture",
+      "Enabled": true,
+      "modactive": true
+    },
+    "ReelStorageHorizontalWeaponRack": {
+      "DefName": "ReelStorageHorizontalWeaponRack",
+      "CustomName": "Horizontal weapon rack",
+      "HasQuantityLimit": true,
+      "QuantityLimit": 1,
+      "LimitMode": "OneStack",
+      "IsUsable": false,
+      "IsEquippable": false,
+      "IsWearable": false,
+      "Mod": "Reel's Expanded Storage",
+      "BasePrice": 186,
+      "Category": "Furniture",
+      "Enabled": true,
+      "modactive": true
+    },
+    "ReelStorageNewWoodCrate": {
+      "DefName": "ReelStorageNewWoodCrate",
+      "CustomName": "Crate",
+      "HasQuantityLimit": true,
+      "QuantityLimit": 1,
+      "LimitMode": "OneStack",
+      "IsUsable": false,
+      "IsEquippable": false,
+      "IsWearable": false,
+      "Mod": "Reel's Expanded Storage",
+      "BasePrice": 124,
+      "Category": "Furniture",
+      "Enabled": true,
+      "modactive": true
+    },
+    "ReelStorageLargeLocker": {
+      "DefName": "ReelStorageLargeLocker",
+      "CustomName": "Apparel locker",
+      "HasQuantityLimit": true,
+      "QuantityLimit": 1,
+      "LimitMode": "OneStack",
+      "IsUsable": false,
+      "IsEquippable": false,
+      "IsWearable": false,
+      "Mod": "Reel's Expanded Storage",
+      "BasePrice": 285,
+      "Category": "Furniture",
+      "Enabled": true,
+      "modactive": true
+    },
+    "ReelStorageMedicineCabinet": {
+      "DefName": "ReelStorageMedicineCabinet",
+      "CustomName": "Medicine cabinet",
+      "HasQuantityLimit": true,
+      "QuantityLimit": 1,
+      "LimitMode": "OneStack",
+      "IsUsable": false,
+      "IsEquippable": false,
+      "IsWearable": false,
+      "Mod": "Reel's Expanded Storage",
+      "BasePrice": 210,
+      "Category": "Furniture",
+      "Enabled": true,
+      "modactive": true
+    },
+    "Apparel_LargeCape": {
+      "DefName": "Apparel_LargeCape",
+      "CustomName": "Large cape",
+      "HasQuantityLimit": true,
+      "QuantityLimit": 1,
+      "LimitMode": "OneStack",
+      "IsUsable": false,
+      "IsEquippable": false,
+      "IsWearable": true,
+      "Mod": "Layers: Capes and Armor",
+      "BasePrice": 220,
+      "Category": "Apparel",
+      "Enabled": true,
+      "modactive": true
+    },
+    "Apparel_LargePrestigeCape": {
+      "DefName": "Apparel_LargePrestigeCape",
+      "CustomName": "Prestige cape",
+      "HasQuantityLimit": true,
+      "QuantityLimit": 1,
+      "LimitMode": "OneStack",
+      "IsUsable": false,
+      "IsEquippable": false,
+      "IsWearable": true,
+      "Mod": "Layers: Capes and Armor",
+      "BasePrice": 255,
+      "Category": "Apparel",
+      "Enabled": true,
+      "modactive": true
+    },
+    "Dromas": {
+      "DefName": "Dromas",
+      "CustomName": "Dromas",
+      "HasQuantityLimit": true,
+      "QuantityLimit": 1,
+      "LimitMode": "OneStack",
+      "IsUsable": false,
+      "IsEquippable": false,
+      "IsWearable": false,
+      "Mod": "Dromas",
+      "BasePrice": 3000,
+      "Category": "Animals",
+      "Enabled": true,
+      "modactive": true
+    },
+    "EggDromasFertilized": {
+      "DefName": "EggDromasFertilized",
+      "CustomName": "Dromas egg (fert.)",
+      "HasQuantityLimit": true,
+      "QuantityLimit": 750,
+      "LimitMode": "OneStack",
+      "IsUsable": true,
+      "IsEquippable": false,
+      "IsWearable": false,
+      "Mod": "Dromas",
+      "BasePrice": 20,
+      "Category": "Eggs (fert.)",
+      "Enabled": true,
+      "modactive": true
+    },
+    "EggDromasUnfertilized": {
+      "DefName": "EggDromasUnfertilized",
+      "CustomName": "Dromas egg (ruined)",
+      "HasQuantityLimit": true,
+      "QuantityLimit": 750,
+      "LimitMode": "OneStack",
+      "IsUsable": true,
+      "IsEquippable": false,
+      "IsWearable": false,
+      "Mod": "Dromas",
+      "BasePrice": 14,
+      "Category": "Eggs (unfert.)",
+      "Enabled": true,
+      "modactive": true
+    },
+    "Leather_Dromas": {
+      "DefName": "Leather_Dromas",
+      "CustomName": "Dromas leather",
+      "HasQuantityLimit": true,
+      "QuantityLimit": 750,
+      "LimitMode": "OneStack",
+      "IsUsable": false,
+      "IsEquippable": false,
+      "IsWearable": false,
+      "Mod": "Dromas",
+      "BasePrice": 4,
+      "Category": "Leathers",
+      "Enabled": true,
+      "modactive": true
+    },
+    "Apparel_LM_CowboyHatPrestige": {
+      "DefName": "Apparel_LM_CowboyHatPrestige",
+      "CustomName": "Sheriff hat",
+      "HasQuantityLimit": true,
+      "QuantityLimit": 1,
+      "LimitMode": "OneStack",
+      "IsUsable": false,
+      "IsEquippable": false,
+      "IsWearable": true,
+      "Mod": "[LM] Cowboy Hats Bloatended",
+      "BasePrice": 67,
+      "Category": "Apparel",
+      "Enabled": true,
+      "modactive": true
+    },
+    "Psytrainer_VPEH_Bloodfocus": {
+      "DefName": "Psytrainer_VPEH_Bloodfocus",
+      "CustomName": "Psytrainer (blood focus)",
+      "HasQuantityLimit": true,
+      "QuantityLimit": 1,
+      "LimitMode": "OneStack",
+      "IsUsable": true,
+      "IsEquippable": false,
+      "IsWearable": false,
+      "Mod": "Vanilla Psycasts Expanded - Hemosage",
+      "BasePrice": 800,
+      "Category": "Psytrainers",
+      "Enabled": true,
+      "modactive": true
+    },
+    "Psytrainer_VPEH_BloodShard": {
+      "DefName": "Psytrainer_VPEH_BloodShard",
+      "CustomName": "Psytrainer (blood shard)",
+      "HasQuantityLimit": true,
+      "QuantityLimit": 1,
+      "LimitMode": "OneStack",
+      "IsUsable": true,
+      "IsEquippable": false,
+      "IsWearable": false,
+      "Mod": "Vanilla Psycasts Expanded - Hemosage",
+      "BasePrice": 800,
+      "Category": "Psytrainers",
+      "Enabled": true,
+      "modactive": true
+    },
+    "Psytrainer_VPEH_BloodSpew": {
+      "DefName": "Psytrainer_VPEH_BloodSpew",
+      "CustomName": "Psytrainer (blood spew)",
+      "HasQuantityLimit": true,
+      "QuantityLimit": 1,
+      "LimitMode": "OneStack",
+      "IsUsable": true,
+      "IsEquippable": false,
+      "IsWearable": false,
+      "Mod": "Vanilla Psycasts Expanded - Hemosage",
+      "BasePrice": 800,
+      "Category": "Psytrainers",
+      "Enabled": true,
+      "modactive": true
+    },
+    "Psytrainer_VPEH_CloseWounds": {
+      "DefName": "Psytrainer_VPEH_CloseWounds",
+      "CustomName": "Psytrainer (close wounds)",
+      "HasQuantityLimit": true,
+      "QuantityLimit": 1,
+      "LimitMode": "OneStack",
+      "IsUsable": true,
+      "IsEquippable": false,
+      "IsWearable": false,
+      "Mod": "Vanilla Psycasts Expanded - Hemosage",
+      "BasePrice": 1100,
+      "Category": "Psytrainers",
+      "Enabled": true,
+      "modactive": true
+    },
+    "Psytrainer_VPEH_Hemodrain": {
+      "DefName": "Psytrainer_VPEH_Hemodrain",
+      "CustomName": "Psytrainer (hemodrain)",
+      "HasQuantityLimit": true,
+      "QuantityLimit": 1,
+      "LimitMode": "OneStack",
+      "IsUsable": true,
+      "IsEquippable": false,
+      "IsWearable": false,
+      "Mod": "Vanilla Psycasts Expanded - Hemosage",
+      "BasePrice": 1100,
+      "Category": "Psytrainers",
+      "Enabled": true,
+      "modactive": true
+    },
+    "Psytrainer_VPEH_WordofOffering": {
+      "DefName": "Psytrainer_VPEH_WordofOffering",
+      "CustomName": "Psytrainer (word of offering)",
+      "HasQuantityLimit": true,
+      "QuantityLimit": 1,
+      "LimitMode": "OneStack",
+      "IsUsable": true,
+      "IsEquippable": false,
+      "IsWearable": false,
+      "Mod": "Vanilla Psycasts Expanded - Hemosage",
+      "BasePrice": 1400,
+      "Category": "Psytrainers",
+      "Enabled": true,
+      "modactive": true
+    },
+    "Psytrainer_VPEH_SanguineSpear": {
+      "DefName": "Psytrainer_VPEH_SanguineSpear",
+      "CustomName": "Psytrainer (sanguine spear)",
+      "HasQuantityLimit": true,
+      "QuantityLimit": 1,
+      "LimitMode": "OneStack",
+      "IsUsable": true,
+      "IsEquippable": false,
+      "IsWearable": false,
+      "Mod": "Vanilla Psycasts Expanded - Hemosage",
+      "BasePrice": 1700,
+      "Category": "Psytrainers",
+      "Enabled": true,
+      "modactive": true
+    },
+    "Psytrainer_VPEH_BloodRite": {
+      "DefName": "Psytrainer_VPEH_BloodRite",
+      "CustomName": "Psytrainer (blood rite)",
+      "HasQuantityLimit": true,
+      "QuantityLimit": 1,
+      "LimitMode": "OneStack",
+      "IsUsable": true,
+      "IsEquippable": false,
+      "IsWearable": false,
+      "Mod": "Vanilla Psycasts Expanded - Hemosage",
+      "BasePrice": 1700,
+      "Category": "Psytrainers",
+      "Enabled": true,
+      "modactive": true
+    },
+    "Psytrainer_VPEH_Bloodstorm": {
+      "DefName": "Psytrainer_VPEH_Bloodstorm",
+      "CustomName": "Psytrainer (bloodstorm)",
+      "HasQuantityLimit": true,
+      "QuantityLimit": 1,
+      "LimitMode": "OneStack",
+      "IsUsable": true,
+      "IsEquippable": false,
+      "IsWearable": false,
+      "Mod": "Vanilla Psycasts Expanded - Hemosage",
+      "BasePrice": 2000,
+      "Category": "Psytrainers",
       "Enabled": true,
       "modactive": true
     }
