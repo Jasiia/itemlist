@@ -1976,7 +1976,7 @@
     "Description": null,
     "WorkerClassName": "IncidentWorker_MakeGameCondition",
     "CategoryName": "ThreatBig",
-    "BaseCost": 958,
+    "BaseCost": 10000,
     "KarmaType": "Bad",
     "EventCap": 1,
     "Enabled": false,

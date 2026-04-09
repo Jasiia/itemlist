@@ -1,17 +1,11 @@
 {
-  "exportedAt": "2026-04-08T17:10:22.5394022Z",
-  "totalActiveMods": 325,
+  "exportedAt": "2026-04-09T20:36:15.5087603Z",
+  "totalActiveMods": 321,
   "mods": [
     {
       "author": "Captolamia",
       "name": "[CAP] Rimworld Interactive Chat Service",
       "steamId": "3603078790",
-      "version": null
-    },
-    {
-      "author": "Orion",
-      "name": "[CAT] Show Hair With Hats or Hide All Hats",
-      "steamId": "2879080074",
       "version": null
     },
     {
@@ -483,12 +477,6 @@
       "version": null
     },
     {
-      "author": "EdB",
-      "name": "EdB Prepare Carefully",
-      "steamId": "735106432",
-      "version": null
-    },
-    {
       "author": "Bean",
       "name": "Elves of the Rim",
       "steamId": "2937954758",
@@ -547,12 +535,6 @@
       "name": "Fahrenheit and Celsius",
       "steamId": "937759575",
       "version": null
-    },
-    {
-      "author": "Rycon",
-      "name": "Family Relations: Adoption",
-      "steamId": "3698779894",
-      "version": "1.0.0"
     },
     {
       "author": "FEB",
@@ -1237,12 +1219,6 @@
       "name": "Simple Warrants",
       "steamId": "2676828755",
       "version": null
-    },
-    {
-      "author": "B4ttl3m3d (Dev),  Pumpkinlass (Art)",
-      "name": "SimpleBabyCarry",
-      "steamId": "3692756679",
-      "version": "1.7.2"
     },
     {
       "author": "gomi,  b0unt9",
