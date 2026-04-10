@@ -61,7 +61,13 @@
       "ATK_Anthrowah": 1500.0,
       "ATK_Anthrowolf": 1500.0,
       "FL_Foxian": 1500.0,
-      "FL_Greater_Foxian": 1500.0
+      "FL_Greater_Foxian": 1500.0,
+      "Battleroid": 1500.0,
+      "ERN_Corvyia": 1500.0,
+      "VRE_Boarskin": 1500.0,
+      "VREH_Uhlan": 1500.0,
+      "XR_Broken": 1500.0,
+      "XR_Xithid": 1500.0
     },
     "EnabledXenotypes": {
       "Baseliner": true,
@@ -110,7 +116,13 @@
       "ATK_Anthrowah": true,
       "ATK_Anthrowolf": true,
       "FL_Foxian": true,
-      "FL_Greater_Foxian": true
+      "FL_Greater_Foxian": true,
+      "Battleroid": true,
+      "ERN_Corvyia": true,
+      "VRE_Boarskin": true,
+      "VREH_Uhlan": true,
+      "XR_Broken": true,
+      "XR_Xithid": true
     }
   }
 }

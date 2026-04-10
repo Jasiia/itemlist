@@ -3,7 +3,7 @@
     "TextBook": {
       "DefName": "TextBook",
       "CustomName": "Textbook",
-      "HasQuantityLimit": false,
+      "HasQuantityLimit": true,
       "QuantityLimit": 1,
       "LimitMode": "OneStack",
       "IsUsable": false,
@@ -12,13 +12,13 @@
       "Mod": "Core",
       "BasePrice": 212,
       "Category": "Books",
-      "Enabled": false,
+      "Enabled": true,
       "modactive": true
     },
     "Schematic": {
       "DefName": "Schematic",
       "CustomName": "Schematic",
-      "HasQuantityLimit": false,
+      "HasQuantityLimit": true,
       "QuantityLimit": 1,
       "LimitMode": "OneStack",
       "IsUsable": false,
@@ -27,13 +27,13 @@
       "Mod": "Core",
       "BasePrice": 199,
       "Category": "Books",
-      "Enabled": false,
+      "Enabled": true,
       "modactive": true
     },
     "Novel": {
       "DefName": "Novel",
       "CustomName": "Novel",
-      "HasQuantityLimit": false,
+      "HasQuantityLimit": true,
       "QuantityLimit": 1,
       "LimitMode": "OneStack",
       "IsUsable": false,
@@ -42,7 +42,7 @@
       "Mod": "Core",
       "BasePrice": 212,
       "Category": "Books",
-      "Enabled": false,
+      "Enabled": true,
       "modactive": true
     },
     "Beer": {
@@ -5658,7 +5658,7 @@
     "Tome": {
       "DefName": "Tome",
       "CustomName": "Tome",
-      "HasQuantityLimit": false,
+      "HasQuantityLimit": true,
       "QuantityLimit": 1,
       "LimitMode": "OneStack",
       "IsUsable": false,
@@ -6123,7 +6123,7 @@
     "Map": {
       "DefName": "Map",
       "CustomName": "Map",
-      "HasQuantityLimit": false,
+      "HasQuantityLimit": true,
       "QuantityLimit": 1,
       "LimitMode": "OneStack",
       "IsUsable": false,
@@ -6132,7 +6132,7 @@
       "Mod": "Odyssey",
       "BasePrice": 239,
       "Category": "Books",
-      "Enabled": false,
+      "Enabled": true,
       "modactive": true
     },
     "Drug_Psilocap": {
@@ -19330,7 +19330,7 @@
       "IsEquippable": false,
       "IsWearable": false,
       "Mod": "ReGrowth 2",
-      "BasePrice": 2500,
+      "BasePrice": 3000,
       "Category": "Animals",
       "Enabled": true,
       "modactive": true
@@ -75372,6 +75372,21 @@
       "Mod": "Layers: Capes and Armor",
       "BasePrice": 220,
       "Category": "Apparel",
+      "Enabled": true,
+      "modactive": true
+    },
+    "LTS_ArchotechBlackbox": {
+      "DefName": "LTS_ArchotechBlackbox",
+      "CustomName": "Archotech black box",
+      "HasQuantityLimit": true,
+      "QuantityLimit": 1,
+      "LimitMode": "OneStack",
+      "IsUsable": false,
+      "IsEquippable": false,
+      "IsWearable": false,
+      "Mod": "Integrated Implants",
+      "BasePrice": 1000,
+      "Category": "Archotech",
       "Enabled": true,
       "modactive": true
     }
